@@ -7,12 +7,12 @@ enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 
 [params]
-    title = "DevFest Toulouse 2019"
-    date = "2019-10-03"
-    description = "The DevFest, or 'Developers Festival', is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles."
+    title = "DeliveryConf 2020"
+    date = "2020-01-21"
+    description = "DeliveryConf is an awesome continuous delivery conference"
     images = ["/images/social-share.jpg"]
     email = "info@deliveryconf.com"
-    keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
+    keywords = "continuous delivery, continuous integration, cloud, testing, dev"
     copyright = "&copy; 2019 DeliveryConf"
     cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
     subscriptionUrl = "http://eepurl.com/dps1j5"
@@ -24,9 +24,9 @@ enableMissingTranslationPlaceholders = true
     themeColor = "#673ab7"
 
 [params.logos]
-    jumbo = "/images/logos/devfest_color_text.png"
-    header = "/images/logos/devfest_color_text.png"
-    footer = "/images/logos/devfest_gray_text.png"
+    jumbo = "/images/logos/awesome-logo.png"
+    header = "/images/logos/awesome-logo.png"
+    footer = "/images/logos/awesome-logo.png"
 
 [menu]
 [[menu.main]]
