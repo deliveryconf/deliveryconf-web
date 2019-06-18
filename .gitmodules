@@ -7,3 +7,6 @@
 [submodule "themes/devfest-theme-hugo"]
 	path = themes/devfest-theme-hugo
 	url = https://github.com/GDGToulouse/devfest-theme-hugo.git
+[submodule "themes/devfest-theme-hugo"]
+	path = themes/meghna-hugo.git
+	url = https://github.com/themefisher/meghna-hugo.git
