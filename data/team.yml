@@ -8,11 +8,9 @@ teamMember :
                 He also helps organize DevOpsDays on both the Seattle and global team."
     socialIcon :
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "https://twitter.com/kmugrage"
       - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+        url : "https://www.linkedin.com/in/kmugrage/"
       
   - image : images/team/sasha-rosenbaum.jpg
     name : Sasha Rosenbaum
