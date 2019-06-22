@@ -20,9 +20,7 @@ teamMember :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/DivineOps"
       - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+        url : "https://www.linkedin.com/in/sasha-rosenbaum/"
       
   - image : images/team/team-3.jpg
     name : Jason Yee
