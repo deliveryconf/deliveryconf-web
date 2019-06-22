@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "DeliveryConf"
@@ -12,35 +12,31 @@ summaryLength = 10
 
 # Menu
 [menu]
+
     [[menu.nav]]
-    name = "About Us"
-    URL = "about"
+    name = "Register"
+    URL = "register"
     weight = 2
 
     [[menu.nav]]
     name = "Speakers"
     URL = "speakers"
-    weight = 3
+    weight = 1
 
     [[menu.nav]]
-    name = "Portfolio"
-    URL = "portfolio"
-    weight = 4
+    name = "Location"
+    URL = "location"
+    weight = 3
 
     [[menu.nav]]
     name = "Team"
     URL = "our-team"
-    weight = 5
+    weight = 4
 
     [[menu.nav]]
-    name = "Pricing"
-    URL = "pricing"
+    name = "About"
+    URL = "about"
     weight = 6
-
-    [[menu.nav]]
-    name = "Contact"
-    URL = "contact-us"
-    weight = 7
 
 # Site params
 [params]
@@ -96,6 +92,27 @@ custom_css = ["css/custom.css"]
         title = "Cups of Coffee"
         icon = "tf-ion-coffee"
         count = "2500"
+
+   # speakers
+    [params.speakers]
+    enable = true
+    title = "Speakers"
+
+    # team
+    [params.location]
+    enable = true
+    title = "Location"
+
+   # team
+    [params.team]
+    enable = true
+    title = "Our Team"
+
+    # about us
+    [params.about]
+    enable = true
+    title = "About Us"
+
 
     # footer
     [params.footer]

@@ -1,0 +1,15 @@
+enable : true
+heading : About
+headingSpan : Us
+image : images/backgrounds/cd-book.jpg
+title : We’re a technical conference dedicated to Continous Integration and Continuous Delivery
+description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+aboutItem : 
+  - icon : tf-circle-compass
+    title : Continuous Integration
+    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    
+  - icon : tf-hotairballoon
+    title : Continuous Delivery
+    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

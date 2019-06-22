@@ -1,0 +1,39 @@
+{{ if .Site.Data.location.enable }}
+{{"<!-- Start Contact Us -->" | safeHTML}}
+<section id="location" class="contact-us section-bg padding-0">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                {{"<!-- section title -->" | safeHTML}}
+                <div class="title text-center wow fadeIn" data-wow-duration="1500ms">
+                    <h2>{{ .Site.Data.location.heading}} <span class="color">{{ .Site.Data.location.headingSpan}}</span>
+                    </h2>
+                    <div class="border-meghna"></div>
+                </div>
+            </div>
+            {{"<!-- /section title -->" | safeHTML}}
+
+            <div class="col-lg-12">
+                <div class="col-lg-6 padding-0 ">
+                    {{ if .Site.Data.location.enable_maps }}
+                    {{"<!-- Google Map -->" | safeHTML}}
+                    <div class="google-map">
+                        <div id="map-canvas" {{ with .Site.Data.contact.mapLatitude }} data-latitude="{{ . }}" {{ end }}
+                            {{ with .Site.Data.contact.mapLongitude }} data-longitude="{{ . }}" {{ end }}></div>
+                    </div>
+                    {{ end }}
+                </div>
+                <div class="col-lg-6">
+                    <div class="content-block">
+                        {{with .Site.Data.location.venue.title}} <h2>{{ . }}</h2> {{ end }}
+                        {{with .Site.Data.location.venue.address}} <p>{{ . }}</p> {{ end }}
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{"<!-- /contact -->" | safeHTML}}
+{{ end }}
