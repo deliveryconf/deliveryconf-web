@@ -108,7 +108,8 @@ a:hover {
   transition: all .3s ease-in 0s;
 }
 
-.btn:focus {
+.btn:focus,
+.btn:hover {
   color: #ddd;
 }
 
@@ -116,8 +117,8 @@ a:hover {
   border: 1px solid #4e595f;
 }
 
-.btn-transparent:hover,
-.btn-transparent:focus {
+.btn-transparent:hover:not([disabled]),
+.btn-transparent:focus:not([disabled]) {
   background-color: #57cbcc;
   border: 1px solid transparent;
   color: #fff;
@@ -980,6 +981,61 @@ a:hover {
 }
 
 .pricing li .btn {
+  text-transform: uppercase;
+  margin: 20px 0;
+}
+
+
+/*=================================================================
+  Register section
+==================================================================*/
+.ticket {
+  border: 1px solid rgba(236, 239, 241, 0.07);
+  padding-bottom: 30px;
+  margin-bottom: 15px;
+}
+
+.ticket-title {
+  background-color: #292F36;
+  padding: 30px 0 20px;
+}
+
+.ticket-title h3 {
+  color: #57cbcc;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+}
+
+.ticket-title p {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.ticket-title .value {
+  color: #57cbcc;
+  font-size: 30px;
+}
+
+.ticket ul, .skill-bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.ticket li {
+  padding: 10px 0;
+}
+
+.ticket li:last-child {
+  border-bottom: 1px solid rgba(236, 239, 241, 0.07);
+  margin-bottom: 20px;
+}
+
+.ticket li:nth-child(2n) {
+  background-color: #292F36;
+}
+
+.ticket li .btn {
   text-transform: uppercase;
   margin: 20px 0;
 }

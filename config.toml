@@ -66,7 +66,7 @@ custom_css = ["css/custom.css"]
     enable = true
     title = "Technical Continuous Delivery Conference"
     content = "Celebrating 10 years since the Continuous Delivery book was published!"
-    btnURL = "#"
+    btnURL = "#register"
     btnText = "Register Now"
 
     # counter
@@ -97,6 +97,11 @@ custom_css = ["css/custom.css"]
     [params.speakers]
     enable = true
     title = "Speakers"
+
+    # register
+    [params.register]
+    enable = true
+    title = "Register"
 
     # team
     [params.location]

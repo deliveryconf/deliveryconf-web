@@ -4,8 +4,8 @@ headingSpan : Venue
 title : The Venue
 content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
 enable_maps : true
-mapLatitude : 51.5223477
-mapLongitude: -0.1622023
+mapLatitude : 47.612490
+mapLongitude: -122.333190
 venue:
   title: Hyatt Grand Seattle
   address:  721 Pine Street, Seattle, Washington, United States, 98101

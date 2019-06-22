@@ -22,7 +22,7 @@
                     {{"<!-- Express About Yourself -->" | safeHTML}}
                     <div class="content text-center">
                         {{ with .title }}<h3 class="ddd">{{ . }}</h3>{{ end }}
-                        {{ with .content}}  <p>{{ . }}</p>{{ end }}
+                        {{ with .content}} <p>{{ . }}</p>{{ end }}
                     </div>
                 </div>
             </div>
@@ -42,13 +42,15 @@
                 <!-- Modified by Sasha below - Display title for About 2 -->
                 {{"<!-- section title -->" | safeHTML}}
                 <div class="title text-center wow fadeIn" data-wow-duration="1500ms">
-                    <h2>{{ .Site.Data.about2.heading}} <span class="color">{{ .Site.Data.about2.headingSpan}}</span> </h2>
+                    <h2>{{ .Site.Data.about2.heading}} <span class="color">{{ .Site.Data.about2.headingSpan}}</span>
+                    </h2>
                     <div class="border-meghna"></div>
                 </div>
             </div>
             {{"<!-- /section title -->" | safeHTML}}
 
-            <div class="col-lg-6 padding-0 text-center"> <!-- Modified by Sasha to center the image in div -->
+            <div class="col-lg-6 padding-0 text-center">
+                <!-- Modified by Sasha to center the image in div -->
                 <img class="img-fluid" src="{{ .Site.Data.about2.image | absURL}}" alt="image">
             </div>
             <div class="col-lg-6">

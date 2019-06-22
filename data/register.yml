@@ -1,0 +1,22 @@
+enable : true
+heading : Register
+headingSpan : Now!
+
+ticketTable :
+  - title : Early Bird
+    price : $450
+    starts : Jul 2019
+    ends : Sep 2019
+    soldOut: true 
+    info : some text
+    btnURL : #
+    btnText : Register
+
+  - title : Regular
+    price : $500
+    soldOut: false 
+    starts : Nov 2019
+    ends : Jan 2020
+    info : some text
+    btnURL : #
+    btnText : Register
