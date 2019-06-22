@@ -13,9 +13,9 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
       
-  - image : images/team/team-2.jpg
+  - image : images/team/sasha-rosenbaum.jpg
     name : Sasha Rosenbaum
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : "Sasha is a Program Manager on the Azure DevOps engineering team at Microsoft and a co-organizer of the DevOps Days Chicago conference."
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/DivineOps"
