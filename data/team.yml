@@ -2,9 +2,10 @@ enable : true
 heading : Our
 headingSpan : Team
 teamMember :
-  - image : images/team/team-1.jpg
+  - image : images/team/ken-mugrage.png
     name : Ken Mugrage
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : "In his day job, Ken is a Continuous Delivery and DevOps Advocate for ThoughtWorks. 
+                He’s also helps organize DevOpsDays on both the Seattle and global team."
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "#"
@@ -15,7 +16,8 @@ teamMember :
       
   - image : images/team/sasha-rosenbaum.jpg
     name : Sasha Rosenbaum
-    description : "Sasha is a Program Manager on the Azure DevOps engineering team at Microsoft and a co-organizer of the DevOps Days Chicago conference."
+    description : "Sasha is a Program Manager on the Azure DevOps engineering team at Microsoft 
+                  and a co-organizer of the DevOps Days Chicago conference."
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/DivineOps"
