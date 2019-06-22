@@ -13,25 +13,25 @@
             </div>
             {{"<!-- /section title -->" | safeHTML}}
 
-            <div class="col-lg-12">
-                <div class="col-lg-6 padding-0 ">
-                    {{ if .Site.Data.location.enable_maps }}
-                    {{"<!-- Google Map -->" | safeHTML}}
-                    <div class="google-map">
-                        <div id="map-canvas" {{ with .Site.Data.location.mapLatitude }} data-latitude="{{ . }}" {{ end }}
-                            {{ with .Site.Data.location.mapLongitude }} data-longitude="{{ . }}" {{ end }}></div>
+            <div class="col-lg-6 ">
+                {{ if .Site.Data.location.enable_maps }}
+                {{"<!-- Google Map -->" | safeHTML}}
+                <div class="google-map">
+                    <div id="map-canvas" {{ with .Site.Data.location.mapLatitude }} data-latitude="{{ . }}" {{ end }}
+                        {{ with .Site.Data.location.mapLongitude }} data-longitude="{{ . }}" {{ end }}>
                     </div>
-                    {{ end }}
                 </div>
-                <div class="col-lg-6">
-                    <div class="content-block">
-                        {{with .Site.Data.location.venue.title}} <h2>{{ . }}</h2> {{ end }}
-                        {{with .Site.Data.location.venue.address}} <p>{{ . }}</p> {{ end }}
+                {{ end }}
+            </div>
+            <div class="col-lg-6">
+                <div class="content-block">
+                    {{with .Site.Data.location.venue.title}} <h2>{{ . }}</h2> {{ end }}
+                    {{with .Site.Data.location.venue.address}} <p>{{ . }}</p> {{ end }}
 
-                    </div>
                 </div>
             </div>
         </div>
+
     </div>
 </section>
 
