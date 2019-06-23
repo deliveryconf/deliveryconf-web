@@ -14,28 +14,33 @@ summaryLength = 10
 [menu]
 
     [[menu.nav]]
-    name = "Register"
-    URL = "register"
-    weight = 2
-
-    [[menu.nav]]
     name = "Speakers"
-    URL = "speakers"
+    URL = "#speakers"
     weight = 1
 
     [[menu.nav]]
-    name = "Location"
-    URL = "location"
+    name = "Register"
+    URL = "#register"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Sponsor"
+    URL = "/sponsor"
     weight = 3
 
     [[menu.nav]]
-    name = "Team"
-    URL = "our-team"
+    name = "Location"
+    URL = "#location"
     weight = 4
 
     [[menu.nav]]
+    name = "Team"
+    URL = "#our-team"
+    weight = 5
+
+    [[menu.nav]]
     name = "About"
-    URL = "about"
+    URL = "#about"
     weight = 6
 
 # Site params
@@ -93,7 +98,7 @@ custom_css = ["css/custom.css"]
         icon = "tf-ion-coffee"
         count = "2500"
 
-   # speakers
+    # speakers
     [params.speakers]
     enable = true
     title = "Speakers"
@@ -103,12 +108,17 @@ custom_css = ["css/custom.css"]
     enable = true
     title = "Register"
 
-    # team
+    # sponsor
+    [params.sponsor]
+    enable = true
+    title = "Sponsor"
+
+    # location
     [params.location]
     enable = true
     title = "Location"
 
-   # team
+    # team
     [params.team]
     enable = true
     title = "Our Team"
