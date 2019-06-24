@@ -22,7 +22,7 @@ teamMember :
       - icon : tf-ion-social-linkedin
         url : "https://www.linkedin.com/in/sasha-rosenbaum/"
       
-  - image : images/team/team-3.jpg
+  - image : images/team/jason-yee.jpg
     name : Jason Yee
     description : "Jason is a Sr. Technical Evangelist at Datadog. 
                   He helps organize way too many conferences and should have known better than to volunteer for another one."
