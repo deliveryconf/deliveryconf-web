@@ -7,7 +7,7 @@ ticketTable :
     price : $450
     starts : Jul 2019
     ends : Sep 2019
-    soldOut: true 
+    soldOut: false 
     info : some text
     btnURL : #
     btnText : Register
