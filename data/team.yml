@@ -24,14 +24,13 @@ teamMember :
       
   - image : images/team/team-3.jpg
     name : Jason Yee
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : "Jason is a Sr. Technical Evangelist at Datadog. 
+                  He helps organize way too many conferences and should have known better than to volunteer for another one."
     socialIcon :
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "https://twitter.com/gitbisect"
       - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+        url : "https://www.linkedin.com/in/gitbisect"
       
   - image : images/team/team-4.jpg
     name : Lowell Young
