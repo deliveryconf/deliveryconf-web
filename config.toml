@@ -14,34 +14,39 @@ summaryLength = 10
 [menu]
 
     [[menu.nav]]
+    name = "Call for Proposals"
+    URL = "https://deliveryconf.busyconf.com/proposals/new"
+    weight = 1
+    
+    [[menu.nav]]
     name = "Speakers"
     URL = "#speakers"
-    weight = 1
+    weight = 2
 
     [[menu.nav]]
     name = "Register"
     URL = "#register"
-    weight = 2
+    weight = 3
 
     [[menu.nav]]
     name = "Sponsor"
     URL = "/sponsor"
-    weight = 3
+    weight = 4
 
     [[menu.nav]]
     name = "Location"
     URL = "#location"
-    weight = 4
+    weight = 5
 
     [[menu.nav]]
     name = "Team"
     URL = "#our-team"
-    weight = 5
+    weight = 6
 
     [[menu.nav]]
     name = "About"
     URL = "#about"
-    weight = 6
+    weight = 7
 
 # Site params
 [params]
