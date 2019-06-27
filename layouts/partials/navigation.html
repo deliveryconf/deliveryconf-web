@@ -30,7 +30,11 @@
                         <ul class="navbar-nav ml-auto navigation-menu">
                                 <li class="nav-item"><a class="nav-link" data-scroll href="{{ $.Site.BaseURL }}#body">{{ with $.Site.Params.home }}{{ . }}{{ end }}</a></li>
                                 {{ range $.Site.Menus.nav }}
-                                <li class="nav-item"><a class="nav-link" data-scroll href="{{ $.Site.BaseURL }}{{ .URL }}">{{ .Name }}</a></li>
+                                        {{ if in .URL "http"}}
+                                        <li class="nav-item"><a class="nav-link" data-scroll href="{{ .URL }}">{{ .Name }}</a></li>
+                                        {{ else }}
+                                        <li class="nav-item"><a class="nav-link" data-scroll href="{{ $.Site.BaseURL }}{{ .URL }}">{{ .Name }}</a></li>
+                                        {{ end }}
                                 {{ end }}
                         </ul>
                 </div>
