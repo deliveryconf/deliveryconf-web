@@ -2,26 +2,22 @@ enable : true
 heading : Our
 headingSpan : Speakers
 speaker :
-  - image : images/team/team-1.jpg
+  - image : images/speakers/jez-humble.jpg
     name : Jez Humble
     designation : Cloud Advocate at Google
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "https://twitter.com/jezhumble"
       - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+        url : "https://www.linkedin.com/in/jez-humble/"
       
-  - image : images/team/team-1.jpg
+  - image : images/speakers/david-farley.jpg
     name : David Farley
     designation : Independent Consultant
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "https://twitter.com/davidfarley"
       - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
         url : "#"
