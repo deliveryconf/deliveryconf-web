@@ -14,7 +14,7 @@ summaryLength = 10
 [menu]
 
     [[menu.nav]]
-    name = "Call for Proposals"
+    name = "Propose"
     URL = "https://deliveryconf.busyconf.com/proposals/new"
     weight = 1
     
