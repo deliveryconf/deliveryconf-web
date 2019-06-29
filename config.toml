@@ -15,7 +15,7 @@ summaryLength = 10
 
     [[menu.nav]]
     name = "Propose"
-    URL = "https://deliveryconf.busyconf.com/proposals/new"
+    URL = "#propose"
     weight = 1
     
     [[menu.nav]]
@@ -102,6 +102,11 @@ custom_css = ["css/custom.css"]
         title = "Cups of Coffee"
         icon = "tf-ion-coffee"
         count = "2500"
+
+    # propose
+    [params.propose]
+    enable = true
+    title = "Propose"
 
     # speakers
     [params.speakers]

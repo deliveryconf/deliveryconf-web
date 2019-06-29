@@ -1,0 +1,33 @@
+{{ if .Site.Data.propose.enable}}
+{{"<!-- Start Propose section -->" | safeHTML}}
+<section id="propose" class="propose section-sm bg-1 overly">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="title text-center wow fadeInDown" data-wow-duration="500ms">
+                    <h2>{{ with .Site.Data.propose.heading }} {{ . }} {{ end }}<span class="color">
+                            {{ with .Site.Data.propose.headingSpan }} {{ . }} {{ end }}</span></h2>
+                    <div class="border-meghna"></div>
+                </div>
+                <div class="propose-content">
+                    {{ with .Site.Data.propose.content }} <p>{{ . }}</p> {{ end }}
+                </div>
+                <div class="row">
+                    {{ range .Site.Data.propose.topic }}
+                    <div class="col-lg-3 col-md-6 col-12 text-center wow fadeInDown" data-wow-duration="500ms">
+                        <div class="propose-item">
+                            <span>{{ .title }}</span>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+                <div class="propose-button">
+                    <a href="{{ .Site.Data.propose.btnURL }}" target="_blank"
+                        class="btn btn-main">{{ with .Site.Data.propose.btnText }} {{ . }} {{end}}</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{"<!-- End Propose Section -->" | safeHTML}}
+{{ end }}

@@ -931,6 +931,44 @@ a:hover {
   margin: 0;
 }
 
+
+/*=================================================================
+  Propose section
+==================================================================*/
+.propose-content p { 
+  font-size: 16px;
+  color: #f2eeee;
+  padding-bottom: 10px;
+}
+
+.propose-button {
+  margin-top: 25px;
+}
+
+.propose-item {
+  padding: 10px 5px;
+  margin-bottom: 5px;
+  background: #292F36;
+}
+
+.propose-item i {
+  margin-bottom: 5px;
+  font-size: 15px;
+  display: inline-block;
+}
+
+.propose-item span {
+  display: block;
+  font-size: 15px;
+  color: #afbac4;
+  line-height: 15px;
+}
+
+.propose-item h3 {
+  font-size: 20px;
+  margin: 0;
+}
+
 /*=================================================================
   Pricing section
 ==================================================================*/
