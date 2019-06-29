@@ -32,35 +32,32 @@ teamMember :
       - icon : tf-ion-social-linkedin
         url : "https://www.linkedin.com/in/gitbisect"
       
-  # - image : images/team/team-4.jpg
-  #   name : Lowell Young
-  #   description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-  #   socialIcon :
-  #     - icon : tf-ion-social-twitter
-  #       url : "#"
-  #     - icon : tf-ion-social-linkedin
-  #       url : "#"
-  #     - icon : tf-ion-social-dribbble-outline
-  #       url : "#"
+  - image : images/team/lowell-young.png
+    name : Lowell Young
+    description : "Lowell is the director of delivery architecture at SAP Concur. 
+    He is passionate about building automation for developers, so that they can focus on 
+    building features quickly and securely without any manual steps getting in the way."
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/PipelinesGuy"
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/lowell-young/"
 
-  # - image : images/team/team-4.jpg
-  #   name : Jay Destro
-  #   description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-  #   socialIcon :
-  #     - icon : tf-ion-social-twitter
-  #       url : "#"
-  #     - icon : tf-ion-social-linkedin
-  #       url : "#"
-  #     - icon : tf-ion-social-dribbble-outline
-  #       url : "#"
+  - image : images/team/jj-asghar.jpg
+    name : JJ Asghar
+    description : "JJ is a Developer Advocate for the IBM Cloud; he’s been apart of the DevOps Culture for longer then he can remember 
+    and genuinely believes that the delivery pipeline is a core component of any major Cloud Native or Digital Transformation change."
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/jjasghar"
 
-  # - image : images/team/team-4.jpg
-  #   name : JJ Asghar
-  #   description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-  #   socialIcon :
-  #     - icon : tf-ion-social-twitter
-  #       url : "#"
-  #     - icon : tf-ion-social-linkedin
-  #       url : "#"
-  #     - icon : tf-ion-social-dribbble-outline
-  #       url : "#"
+# - image : images/team/team-4.jpg
+#     name : Jay Destro
+#     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+#     socialIcon :
+#       - icon : tf-ion-social-twitter
+#         url : "#"
+#       - icon : tf-ion-social-linkedin
+#         url : "#"
+#       - icon : tf-ion-social-dribbble-outline
+#         url : "#"
