@@ -682,6 +682,21 @@ a:hover {
 }
 
 /*=================================================================
+  Location section
+==================================================================*/
+.location .block {
+  background: #242930;
+  padding: 30px;
+  border-bottom: 2px solid transparent;
+  transition: .5s all;
+  margin-bottom: 20px;
+}
+
+.location-map {
+  padding-bottom: 20px;
+}
+
+/*=================================================================
   About us section
 ==================================================================*/
 .about .block {

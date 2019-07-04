@@ -12,11 +12,10 @@
                 </div>
             </div>
             {{"<!-- /section title -->" | safeHTML}}
-            <div class="col-lg-6 padding-0 text-center">
-                <!-- Modified by Sasha to center the image in div -->
-                <img class="img-fluid" src="{{ .Site.Data.location.image | absURL}}" alt="image">
+            <div class="col-lg-6 text-center location-map">
+                <img class="img-fluid" src="{{ .Site.Data.location.image | absURL}}" alt="venue location">
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 text-center">
                 <div class="content-block">
                     {{with .Site.Data.location.venue.title}} <h2>{{ . }}</h2> {{ end }}
                     {{with .Site.Data.location.venue.address}} <p>{{ . }}</p> {{ end }}
