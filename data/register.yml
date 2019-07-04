@@ -4,19 +4,19 @@ headingSpan : Now!
 
 ticketTable :
   - title : Early Bird
-    price : $450
+    price : $449
     starts : Jul 2019
     ends : Sep 2019
     soldOut: false 
-    info : some text
-    btnURL : #
+    info : Register early to get a 10% discount!
+    btnURL : https://deliveryconf.busyconf.com/bookings/new
     btnText : Register
 
-  - title : Regular
-    price : $500
+  - title : Standard
+    price : $499
     soldOut: false 
-    starts : Nov 2019
+    starts : Oct 2019
     ends : Jan 2020
-    info : some text
-    btnURL : #
+    info : Standard DeliveryConf ticket
+    btnURL : https://deliveryconf.busyconf.com/bookings/new
     btnText : Register

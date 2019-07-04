@@ -14,37 +14,38 @@
             </div>
             {{"<!-- /section title -->" | safeHTML}}
 
-            {{ range .Site.Data.register.ticketTable }}
-            <div class="col-lg-3 col-md-6 col-12 text-center wow fadeInUp" data-wow-duration="200ms">
+            
+                {{ range .Site.Data.register.ticketTable }}
+                <div class="col-lg-6 col-md-6 col-12 text-center wow fadeInUp" data-wow-duration="200ms">
 
-                <div class="ticket" {{ if .soldOut }}aria-disabled="true" {{end}}>
-                    {{"<!-- ticket name & value -->" | safeHTML}}
-                    <div class="ticket-title">
-                        <h3>{{ .title }}</h3>
-                        <p><strong class="value">{{ .price }}</strong> {{ .time }}</p>
+                    <div class="ticket" {{ if .soldOut }}aria-disabled="true" {{end}}>
+                        {{"<!-- ticket name & value -->" | safeHTML}}
+                        <div class="ticket-title">
+                            <h3>{{ .title }}</h3>
+                            <p><strong class="value">{{ .price }}</strong> {{ .time }}</p>
+                        </div>
+                        <ul>
+                            <li>
+                                <div class="ticket-date">{{ .starts }} - {{ .ends }}</div>
+                            </li>
+                            <li>
+                                <div class="ticket-info">{{ .info }}</div>
+                            </li>
+                        </ul>
+                        {{ if .soldOut }}
+                        <span class="btn btn-transparent" disabled="true">Sold Out</span>
+
+                        {{ else }}
+                        {{"<!-- signup button -->" | safeHTML}}
+                        <a class="btn btn-transparent" href="{{ .btnURL | absURL}}" target="_blank">{{ .btnText }}</a>
+                        {{ end }}
+
                     </div>
-                    <ul>
-                        <li>
-                            <div class="ticket-date">{{ .starts }} - {{ .ends }}</div>
-                        </li>
-                        <li>
-                            <div class="ticket-info">{{ .info }}</div>
-                        </li>
-                    </ul>
-                    {{ if .soldOut }}
-                    <span class="btn btn-transparent" disabled="true">Sold Out</span>
-
-                    {{ else }}
-                    {{"<!-- signup button -->" | safeHTML}}
-                    <a class="btn btn-transparent" href="{{ .btnURL | absURL}}">{{ .btnText }}</a>
-                    {{ end }}
-
                 </div>
-            </div>
-            {{"<!-- end single ticket table -->" | safeHTML}}
-            {{ end }}
+                {{"<!-- end single ticket table -->" | safeHTML}}
 
-
+                {{ end }}
+            
         </div>
     </div>
 </section>

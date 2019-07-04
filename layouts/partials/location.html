@@ -12,10 +12,10 @@
                 </div>
             </div>
             {{"<!-- /section title -->" | safeHTML}}
-            <div class="col-lg-6 text-center location-map">
+            <div class="col-lg-6 text-center location-div">
                 <img class="img-fluid" src="{{ .Site.Data.location.image | absURL}}" alt="venue location">
             </div>
-            <div class="col-lg-6 text-center">
+            <div class="col-lg-6 text-center location-div">
                 <div class="content-block">
                     {{with .Site.Data.location.venue.title}} <h2>{{ . }}</h2> {{ end }}
                     {{with .Site.Data.location.venue.address}} <p>{{ . }}</p> {{ end }}
