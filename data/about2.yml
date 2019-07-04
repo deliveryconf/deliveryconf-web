@@ -1,7 +1,7 @@
 enable : true
 heading : About
 headingSpan : Us
-image : images/backgrounds/cd-book.jpg
+image : images/backgrounds/dc-pipes.jpg
 title : We’re a technical conference dedicated to Continous Integration and Continuous Delivery
 description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
 description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
