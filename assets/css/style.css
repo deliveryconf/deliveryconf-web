@@ -932,6 +932,7 @@ a:hover {
   padding: 25px 0;
   margin-bottom: 10px;
   background: #292F36;
+  border: 1px solid rgba(236, 239, 241, 0.07);
 }
 
 .counters-item i {
