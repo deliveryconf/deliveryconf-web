@@ -14,12 +14,12 @@ speaker :
         url : "https://www.linkedin.com/in/jez-humble/"
 
   - image : images/speakers/david-farley.jpg
-    name : David Farley
-    jobTitle : Independent Consultant
-    shortBio : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    name : Dave Farley
+    jobTitle : Independent software consultant, founder and director of Continuous Delivery Ltd.
+    shortBio : Co-author of the Jolt-award winning book ‘Continuous Delivery’, a regular conference speaker and blogger, one of the authors of the Reactive Manifesto and former Head of Software development at LMAX Ltd.
     detailsUrl : "/speakers/dave-farley"
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/davidfarley"
-      - icon : tf-ion-social-linkedin
-        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "http://www.davefarley.net"

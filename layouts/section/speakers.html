@@ -23,11 +23,26 @@
                     {{ with .Params.twitter }}
                     <div>
                         <i class="tf-ion-social-twitter-outline mr-1"></i>
-                        <span>Twitter: <a href="{{.}}">{{.}}</a>
+                        <span>Twitter: <a href="{{.}}" target="_blank">{{.}}</a>
                         </span>
                     </div>
                     {{ end }}
 
+                    {{ with .Params.blog }}
+                    <div>
+                        <i class="tf-ion-social-dribbble-outline mr-1"></i>
+                        <span>Blog: <a href="{{.}}" target="_blank">{{.}}</a>
+                        </span>
+                    </div>
+                    {{ end }}
+
+                    {{ with .Params.companyWebsite }}
+                    <div>
+                        <i class="tf-ion-social-dribbble-outline mr-1"></i>
+                        <span>Company Website: <a href="{{.}}" target="_blank">{{.}}</a>
+                        </span>
+                    </div>
+                    {{ end }}
                 </div>
             </div>
         </div>

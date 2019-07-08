@@ -1473,6 +1473,13 @@ a:hover {
   border: 1px solid transparent;
 }
 
+a.fill-mask {
+  display: block;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+}
+
 .speaker-meta {
   padding: 15px;
 }

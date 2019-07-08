@@ -22,22 +22,28 @@
                         {{"<!-- speaker photo -->" | safeHTML}}
                         <img class="img-fluid" src="{{ .image | absURL }}" alt="speaker">
                         {{"<!-- speaker social profile -->" | safeHTML}}
-                        <div class="mask">
-                            <ul class="list-inline">
-                                {{ range .socialIcon }}
-                                <li class="list-inline-item"><a href="{{ .url | absURL }}"><i
-                                            class="{{ .icon }}"></i></a></li>
-                                {{ end }}
-                            </ul>
+                        <div class="mask"><a class="fill-mask" href="{{ .detailsUrl | absURL }}"></a>
+
                         </div>
+
                     </div>
 
                     {{"<!-- speaker name & designation -->" | safeHTML}}
+
                     <div class="speaker-meta">
                         <h4><a href="{{ .detailsUrl | absURL }}">{{ .name }}</a></h4>
+
                         <h6>{{ .jobTitle }}</h6>
                         <p>{{ .shortBio }}</p>
+
+                        {{/*  <ul class="list-inline">
+                            {{ range .socialIcon }}
+                            <li class="list-inline-item"><a href="{{ .url | absURL }}" target="_blank"><i
+                                        class="{{ .icon }}"></i></a></li>
+                            {{ end }}
+                        </ul>  */}}
                     </div>
+                   
                 </div>
             </div>
             {{"<!-- end speaker -->" | safeHTML}}
