@@ -2,14 +2,22 @@ enable : true
 heading : About
 headingSpan : Us
 image : images/backgrounds/dc-pipes.jpg
-title : We’re a technical conference dedicated to Continous Integration and Continuous Delivery
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+title : DELIVERY|CONF 2020
+description : DELIVERY|CONF is being created by an all volunteer team with many years of experience both in the technology and with creating conferences.
+description2 : DELIVERY|CONF 2020 is being held to give people a place to get deeper technical information about Continuous Integration (CI) and Continuous Delivery(CD). Our goal isn't to just tell you to "do the technical thing"; it's to show you the code on how others have done it.
 aboutItem : 
   - icon : tf-circle-compass
     title : Continuous Integration
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    content : Getting fast feedback on your application and providing a safety net for deploying.
     
   - icon : tf-hotairballoon
     title : Continuous Delivery
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    content : Ensuring the entire application is deployable at any time.
+
+  - icon : tf-circle-compass
+    title: Security in CD Piplines
+    content: Specific information on using your pipeline to verify your apps are more secure
+
+  - icon : tf-hotairballoon
+    title: Database Management
+    content: Always one of the harder questions in CD... how do I manage my data?
