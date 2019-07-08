@@ -3,7 +3,7 @@ heading : About
 headingSpan : Us
 image : images/backgrounds/dc-pipes.jpg
 title : DELIVERY|CONF 2020
-description : DELIVERY|CONF is being created by an all volunteer team with many years of experience both in the technology and with creating conferences.
+description : DELIVERY|CONF 2020 is being created by an all volunteer team with many years of experience both in the technology and with creating conferences.
 description2 : DELIVERY|CONF 2020 is being held to give people a place to get deeper technical information about Continuous Integration (CI) and Continuous Delivery(CD). Our goal isn't to just tell you to "do the technical thing"; it's to show you the code on how others have done it.
 aboutItem : 
   - icon : tf-circle-compass
