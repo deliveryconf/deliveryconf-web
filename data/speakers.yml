@@ -1,6 +1,6 @@
 enable : true
-heading : Our
-headingSpan : Speakers
+heading : Our Speakers
+headingSpan : (so far)
 speaker :
   - image : images/speakers/jez-humble.jpg
     name : Jez Humble
