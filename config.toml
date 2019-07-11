@@ -81,7 +81,7 @@ custom_css = ["css/custom.css"]
 
     # counter
     [params.counter]
-    enable = true
+    enable = false
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
         title = "Days"
