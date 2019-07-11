@@ -36,6 +36,14 @@
                     </div>
                     {{ end }}
 
+                    {{ with .Params.website }}
+                    <div>
+                        <i class="tf-ion-social-dribbble-outline mr-1"></i>
+                        <span>Website: <a href="{{.}}" target="_blank">{{.}}</a>
+                        </span>
+                    </div>
+                    {{ end }}
+
                     {{ with .Params.companyWebsite }}
                     <div>
                         <i class="tf-ion-social-dribbble-outline mr-1"></i>
