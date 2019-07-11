@@ -12,40 +12,40 @@ summaryLength = 10
 
 # Menu
 [menu]
-
-    [[menu.nav]]
-    name = "Propose"
-    URL = "#propose"
-    weight = 1
     
     [[menu.nav]]
     name = "Speakers"
     URL = "#speakers"
-    weight = 2
-
-    [[menu.nav]]
-    name = "Register"
-    URL = "#register"
-    weight = 3
-
-    [[menu.nav]]
-    name = "Sponsor"
-    URL = "/sponsor"
-    weight = 4
-
-    [[menu.nav]]
-    name = "Location"
-    URL = "#location"
-    weight = 5
-
-    [[menu.nav]]
-    name = "Team"
-    URL = "#our-team"
-    weight = 6
+    weight = 1
 
     [[menu.nav]]
     name = "About"
     URL = "#about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Propose"
+    URL = "#propose"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Register"
+    URL = "#register"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Sponsor"
+    URL = "/sponsor"
+    weight = 5
+
+    [[menu.nav]]
+    name = "Location"
+    URL = "#location"
+    weight = 6
+
+    [[menu.nav]]
+    name = "Team"
+    URL = "#our-team"
     weight = 7
 
 # Site params
@@ -103,15 +103,20 @@ custom_css = ["css/custom.css"]
         icon = "tf-ion-coffee"
         count = "2500"
 
-    # propose
-    [params.propose]
-    enable = true
-    title = "Propose"
-
     # speakers
     [params.speakers]
     enable = true
     title = "Speakers"
+    
+    # about us
+    [params.about]
+    enable = true
+    title = "About Us"
+
+    # propose
+    [params.propose]
+    enable = true
+    title = "Propose"
 
     # register
     [params.register]
@@ -133,10 +138,7 @@ custom_css = ["css/custom.css"]
     enable = true
     title = "Our Team"
 
-    # about us
-    [params.about]
-    enable = true
-    title = "About Us"
+
 
 
     # footer
