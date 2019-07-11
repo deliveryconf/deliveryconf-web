@@ -1955,6 +1955,7 @@ input#e-mail, #hidden_iframe {
 .copyright {
   padding: 20px 0;
   color: #fff;
+  font-size: 15px;
 }
 
 .copyright img {
