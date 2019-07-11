@@ -4,7 +4,7 @@ headingSpan : (so far)
 speaker :
   - image : images/speakers/jez-humble.jpg
     name : Jez Humble
-    jobTitle : Technology Advocate at Google, lecturer at UC Berkeley."
+    jobTitle : "Technology Advocate at Google, lecturer at UC Berkeley"
     shortBio : "Co-author of several books on software including Shingo Publication Award winner Accelerate and Jolt Award winner Continuous Delivery. 
               He has spent his career tinkering with code, infrastructure, and product development in companies of varying sizes across three continents."
     detailsUrl : "/speakers/jez-humble"
@@ -16,7 +16,7 @@ speaker :
 
   - image : images/speakers/david-farley.jpg
     name : Dave Farley
-    jobTitle : Independent software consultant, founder and director of Continuous Delivery Ltd.
+    jobTitle : "Independent software consultant, founder and director of Continuous Delivery Ltd"
     shortBio : Co-author of the Jolt-award winning book ‘Continuous Delivery’, a regular conference speaker and blogger, 
               one of the authors of the Reactive Manifesto and former Head of Software development at LMAX Ltd.
     detailsUrl : "/speakers/dave-farley"
