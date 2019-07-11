@@ -1,0 +1,21 @@
+enable : true
+heading : Call for
+headingSpan : Proposals
+content : "Have an idea for a great technical talk on Continuous Delivery related to any of the following topics or additional ones?"
+btnURL : "https://deliveryconf.busyconf.com/proposals/new"
+btnText : "Submit a Talk!"
+
+topic :
+  - title : "Security in the pipeline"
+  - title : "Managing data and databases"
+  - title : "Big data"
+  - title : "IoT pipelines"
+  - title : "Machine learning"
+  - title : "Compliance (in the pipeline)"
+  - title : "Kubernetes / orchestration"
+  - title : "Serverless"
+  - title : "Observability in and of the pipeline"
+  - title : "Infrastructure / environment management"
+  - title : "Microservices and distributed apps"
+
+  

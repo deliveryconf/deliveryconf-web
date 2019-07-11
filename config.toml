@@ -1,5 +1,151 @@
-baseurl = "/"
+baseURL = "/"
 languageCode = "en-us"
-theme = "basic"
-paginate = 5
+DefaultContentLanguage = "en"
+title = "DeliveryConf"
+theme = "meghna-hugo"
+summaryLength = 10
 
+[taxonomies]
+  author = "author"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+    
+    [[menu.nav]]
+    name = "Speakers"
+    URL = "#speakers"
+    weight = 1
+
+    [[menu.nav]]
+    name = "About"
+    URL = "#about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Propose"
+    URL = "#propose"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Register"
+    URL = "#register"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Sponsor"
+    URL = "/sponsor"
+    weight = 5
+
+    [[menu.nav]]
+    name = "Location"
+    URL = "#location"
+    weight = 6
+
+    [[menu.nav]]
+    name = "Team"
+    URL = "#our-team"
+    weight = 7
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logos/delivery-conf-wordmark.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+description = "Continuous Integration / Continuous Delivery conference"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = false
+    bgImage = "images/slider/hero-area.jpg"
+    icon = "tf-ion-play"
+    heading = "Technical Continuous Delivery Conference"
+    content= "Celebrating 10 years since the Continuous Delivery book was published!"
+    btn = true
+    btnText="Explore Us"
+    btnURL="#services"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = "Technical Continuous Delivery Conference"
+    content = "Celebrating 10 years since the Continuous Delivery book was published!"
+    btnURL = "#register"
+    btnText = "Register Now"
+
+    # counter
+    [params.counter]
+    enable = false
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Days"
+        icon = "tf-ion-android-happy"
+        count = "2"
+
+        [[params.counter.counterItem]]
+        title = "Tracks"
+        icon = "tf-ion-archive"
+        count = "3"
+
+        [[params.counter.counterItem]]
+        title = "Speakers"
+        icon = "tf-ion-thumbsup"
+        count = "2"
+
+        [[params.counter.counterItem]]
+        title = "Cups of Coffee"
+        icon = "tf-ion-coffee"
+        count = "2500"
+
+    # speakers
+    [params.speakers]
+    enable = true
+    title = "Speakers"
+    
+    # about us
+    [params.about]
+    enable = true
+    title = "About Us"
+
+    # propose
+    [params.propose]
+    enable = true
+    title = "Propose"
+
+    # register
+    [params.register]
+    enable = true
+    title = "Register"
+
+    # sponsor
+    [params.sponsor]
+    enable = true
+    title = "Sponsor"
+
+    # location
+    [params.location]
+    enable = true
+    title = "Location"
+
+    # team
+    [params.team]
+    enable = true
+    title = "Our Team"
+
+
+
+
+    # footer
+    [params.footer]
+        copyright = "Themefisher Team"
+        copyrightURL = "http://www.themefisher.com"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        url = "https://twitter.com/deliveryconf"

@@ -1,0 +1,63 @@
+enable : true
+heading : Our
+headingSpan : Team
+teamMember :
+  - image : images/team/ken-mugrage.png
+    name : Ken Mugrage
+    description : "In his day job, Ken is a Continuous Delivery and DevOps Advocate for ThoughtWorks. 
+                He also helps organize DevOpsDays on both the Seattle and global team."
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/kmugrage"
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/kmugrage/"
+      
+  - image : images/team/sasha-rosenbaum.jpg
+    name : Sasha Rosenbaum
+    description : "Sasha is a Program Manager on the Azure DevOps engineering team at Microsoft 
+                  and a co-organizer of the DevOps Days Chicago conference."
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/DivineOps"
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/sasha-rosenbaum/"
+      
+  - image : images/team/jason-yee.jpg
+    name : Jason Yee
+    description : "Jason is a Sr. Technical Evangelist at Datadog. 
+                  He helps organize way too many conferences and should have known better than to volunteer for another one."
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/gitbisect"
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/gitbisect"
+      
+  - image : images/team/lowell-young.png
+    name : Lowell Young
+    description : "Lowell is the director of delivery architecture at SAP Concur. 
+    He is passionate about building automation for developers, so that they can focus on 
+    building features quickly and securely without any manual steps getting in the way."
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/PipelinesGuy"
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/lowell-young/"
+
+  - image : images/team/jj-asghar.jpg
+    name : JJ Asghar
+    description : "JJ is a Developer Advocate for the IBM Cloud; he’s been apart of the DevOps Culture for longer then he can remember 
+    and genuinely believes that the delivery pipeline is a core component of any major Cloud Native or Digital Transformation change."
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/jjasghar"
+
+# - image : images/team/team-4.jpg
+#     name : Jay Destro
+#     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+#     socialIcon :
+#       - icon : tf-ion-social-twitter
+#         url : "#"
+#       - icon : tf-ion-social-linkedin
+#         url : "#"
+#       - icon : tf-ion-social-dribbble-outline
+#         url : "#"

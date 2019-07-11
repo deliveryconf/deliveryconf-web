@@ -1,0 +1,54 @@
+{{ if .Site.Data.register.enable}}
+{{"<!-- Start Register section -->" | safeHTML}}
+<section id="register" class="register section">
+    <div class="container">
+        <div class="row">
+
+            {{"<!-- section title -->" | safeHTML}}
+            <div class="col-lg-12">
+                <div class="title text-center wow fadeInDown" data-wow-duration="500ms">
+                    <h2>{{ with .Site.Data.register.heading }} {{ . }} {{ end }}<span class="color">
+                            {{ with .Site.Data.register.headingSpan }} {{ . }} {{ end }}</span></h2>
+                    <div class="border-meghna"></div>
+                </div>
+            </div>
+            {{"<!-- /section title -->" | safeHTML}}
+
+            <div class="col-lg-2 col-md-0 col-0"></div>
+                {{ range .Site.Data.register.ticketTable }}
+                
+                <div class="col-lg-4 col-md-6 col-12 text-center wow fadeInUp" data-wow-duration="200ms">
+
+                    <div class="ticket" {{ if .soldOut }}aria-disabled="true" {{end}}>
+                        {{"<!-- ticket name & value -->" | safeHTML}}
+                        <div class="ticket-title">
+                            <h3>{{ .title }}</h3>
+                            <p><strong class="value">{{ .price }}</strong> {{ .time }}</p>
+                        </div>
+                        <ul>
+                            <li>
+                                <div class="ticket-date">{{ .starts }} - {{ .ends }}</div>
+                            </li>
+                            <li>
+                                <div class="ticket-info">{{ .info }}</div>
+                            </li>
+                        </ul>
+                        {{ if .soldOut }}
+                        <span class="btn btn-transparent" disabled="true">Sold Out</span>
+
+                        {{ else }}
+                        {{"<!-- signup button -->" | safeHTML}}
+                        <a class="btn btn-transparent" href="{{ .btnURL | absURL}}" target="_blank">{{ .btnText }}</a>
+                        {{ end }}
+
+                    </div>
+                </div>
+                {{"<!-- end single ticket table -->" | safeHTML}}
+
+                {{ end }}
+            
+        </div>
+    </div>
+</section>
+{{"<!-- /register -->" | safeHTML}}
+{{ end }}
