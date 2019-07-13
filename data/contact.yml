@@ -7,4 +7,3 @@ enable_maps : false
 contactDetails :
   - icon : tf-ion-ios-email-outline
     info : "Email: organizers@deliveryconf.com"
-    
