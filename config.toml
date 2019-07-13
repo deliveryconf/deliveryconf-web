@@ -48,6 +48,11 @@ summaryLength = 10
     URL = "#our-team"
     weight = 7
 
+    [[menu.nav]]
+    name = "Contact"
+    URL = "#contact-us"
+    weight = 8
+
 # Site params
 [params]
 home= "Home"
@@ -138,6 +143,10 @@ custom_css = ["css/custom.css"]
     enable = true
     title = "Our Team"
 
+    # contact
+    [params.contact]
+    enable = true
+    title = "Contact"
 
 
 

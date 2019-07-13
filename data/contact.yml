@@ -1,0 +1,10 @@
+enable : true
+heading : Get In
+headingSpan : Touch
+title : Still have questions?
+content : Feel free to reach out and contact us.
+enable_maps : false
+contactDetails :
+  - icon : tf-ion-ios-email-outline
+    info : "Email: organizers@deliveryconf.com"
+    
