@@ -149,7 +149,9 @@ custom_css = ["css/custom.css"]
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
         url = "https://twitter.com/deliveryconf"
+        target = "_blank"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-email"
         url = "mailto:DeliveryConf Organizers<organizers@deliveryconf.com>?subject=Question from the website"
+        target = "_blank"
