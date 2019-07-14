@@ -1,0 +1,20 @@
+enable : true
+heading : Join
+headingSpan : In
+
+commitTable :
+  - title : Volunteer
+    closed : false
+    commit : Day of event
+    time : ~2-6 hrs
+    info : Volunteer on the day of the event
+    btnURL : mailto:organizers@deliveryconf.com?subject=Interested%20in%20volunteering
+    btnText : Reach Out
+
+  - title : Organizer
+    closed : false
+    commit : Ongoing
+    time : ~2-6 hrs/wk
+    info : Slave away your spare time
+    btnURL : mailto:organizers@deliveryconf.com?subject=Interested%20in%20helping%20organize
+    btnText : Get Engaged

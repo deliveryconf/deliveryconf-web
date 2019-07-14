@@ -1,0 +1,49 @@
+{{ if .Site.Data.volunteer.enable}}
+{{"<!-- Start Volunteer section -->" | safeHTML}}
+<section id="volunteer" class="volunteer section">
+    <div class="container">
+        <div class="row">
+
+            {{"<!-- section title -->" | safeHTML}}
+            <div class="col-lg-12">
+                <div class="title text-center wow fadeInDown" data-wow-duration="500ms">
+                    <h2>{{ with .Site.Data.volunteer.heading }} {{ . }} {{ end }}<span class="color">
+                        {{ with .Site.Data.volunteer.headingSpan }} {{ . }} {{ end }}</span></h2>
+                    <div class="border-meghna"></div>
+                </div>
+            </div>
+            {{"<!-- /section title -->" | safeHTML}}
+
+            <div class="col-lg-2 col-md-0 col-0"></div>
+                {{ range .Site.Data.volunteer.commitTable }}
+                <div class="col-lg-4 col-md-6 col-12 text-center wow fadeInUp" data-wow-duration="200ms">
+
+                    <div class="commit" {{ if .closed }}aria-disabled="true" {{end}}>
+                        {{"<!-- commit name & value -->" | safeHTML}}
+                        <div class="commit-title">
+                            <h3>{{ .title }}</h3>
+                        </div>
+                        <ul>
+                            <li>
+                                <div class="commit-date">{{ .commit }} - {{ .time }}</div>
+                            </li>
+                            <li>
+                                <div class="commit-info">{{ .info }}</div>
+                            </li>
+                        </ul>
+                        {{ if .closed }}
+                            <span class="btn btn-transparent" disabled="true">Closed</span>
+                        {{ else }}
+                            {{"<!-- signup button -->" | safeHTML}}
+                            <a class="btn btn-transparent" href="{{ .btnURL | absURL}}" target="_blank">{{ .btnText }}</a>
+                        {{ end }}
+                    </div>
+                </div>
+                {{"<!-- end single commit table -->" | safeHTML}}
+
+                {{ end }}
+        </div>
+    </div>
+</section>
+{{"<!-- /volunteer -->" | safeHTML}}
+{{ end }}

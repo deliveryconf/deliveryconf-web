@@ -1118,6 +1118,60 @@ a:hover {
 
 
 /*=================================================================
+  Volunteer section
+==================================================================*/
+.commit {
+  border: 1px solid rgba(236, 239, 241, 0.07);
+  padding-bottom: 30px;
+}
+
+.commit-title {
+  background-color: #292F36;
+  padding: 30px 0 20px;
+}
+
+.commit-title h3 {
+  color: #57cbcc;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+}
+
+.commit-title p {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.commit-title .value {
+  color: #57cbcc;
+  font-size: 30px;
+}
+
+.commit ul, .skill-bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.commit li {
+  padding: 10px 0;
+}
+
+.commit li:last-child {
+  border-bottom: 1px solid rgba(236, 239, 241, 0.07);
+  margin-bottom: 20px;
+}
+
+.commit li:nth-child(2n) {
+  background-color: #292F36;
+}
+
+.commit li .btn {
+  text-transform: uppercase;
+  margin: 20px 0;
+}
+
+
+/*=================================================================
   Sponsor section
 ==================================================================*/
 
