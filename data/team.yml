@@ -45,7 +45,7 @@ teamMember :
 
   - image : images/team/jj-asghar.jpg
     name : JJ Asghar
-    description : "JJ is a Developer Advocate for the IBM Cloud; he’s been apart of the DevOps Culture for longer then he can remember 
+    description : "JJ is a Developer Advocate for the IBM Cloud; he’s been a part of the DevOps Culture for longer then he can remember 
     and genuinely believes that the delivery pipeline is a core component of any major Cloud Native or Digital Transformation change."
     socialIcon :
       - icon : tf-ion-social-twitter
