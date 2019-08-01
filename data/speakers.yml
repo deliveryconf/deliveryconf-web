@@ -25,3 +25,15 @@ speaker :
         url : "https://twitter.com/davidfarley"
       - icon : tf-ion-social-dribbble-outline
         url : "http://www.davefarley.net"
+
+  - image : images/speakers/bryan-liles.png
+    name : Bryan Liles
+    jobTitle : "Senior Staff Engineer, VMware"
+    shortBio : "Bryan Liles is a Senior Staff Engineer at VMware. He leads the 
+              Developer Experience group, which creates solutions to help developers be more productive in Kubernetes. 
+              When not working, Bryan builds and races cars and drones."
+    detailsUrl : "/speakers/bryan-liles"
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/bryanl"
+
