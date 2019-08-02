@@ -11,11 +11,12 @@
                     <div class="border-meghna"></div>
                 </div>
             </div>
+            <div class="col-lg-1 col-md-0 col-0"></div>
             <div class="col-lg-4 col-md-6 col-12 text-center speaker-photo">
                 {{"<!-- speaker photo -->" | safeHTML}}
-                <img class="img-fluid" src="{{ if .Params.Image }} {{.Params.Image | absURL}} {{ end }}" alt="speaker">
+                <img class="img-fluid" src="{{ if .Params.Image }} {{.Params.Image | absURL}} {{ end }}" style="max-width: 95%;" alt="speaker">
             </div>
-            <div class="col-lg-8 col-md-6 col-12 content">
+            <div class="col-lg-5 col-md-6 col-12 content">
                 {{ .Content }}
                 <hr>
                 <div class="list-group">
