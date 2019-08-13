@@ -1,0 +1,13 @@
+enable : true
+heading : Our
+headingSpan : Sponsors
+sponsor :
+  - image : images/sponsors/octopus.png
+    name : Octopus Deploy
+    level : gold
+    url : "https://octopus.com"
+
+  - image : images/sponsors/arresteddevops.png
+    name : Arrested DevOps
+    level : community
+    url : "https://www.arresteddevops.com/"
