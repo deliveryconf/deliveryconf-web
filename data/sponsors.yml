@@ -3,14 +3,17 @@ heading : Our
 headingSpan : Sponsors
 btnURL: sponsor
 btnText: Sponsor DeliveryConf!
+gold : true
+silver : false
+community : true
 
 sponsor :
   - image : images/sponsors/octopus.png
     name : Octopus Deploy
-    level : gold
+    level : "gold"
     url : "https://octopus.com"
 
   - image : images/sponsors/arresteddevops.png
     name : Arrested DevOps
-    level : community
+    level : "gold"
     url : "https://www.arresteddevops.com/"

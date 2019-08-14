@@ -1387,7 +1387,6 @@ a:hover {
   Sponsors
 ==================================================================*/
 /* Sponsor Page */
-
 .sponsor table {
   color: white;
 }
@@ -1456,17 +1455,15 @@ a:hover {
 
 .sponsor-logo .mask ul li a {
   color: #fff;
+  background-color: #353b43;
   display: block;
-  font-size: 15px;
-  line-height: 15px;
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 150%;
   text-align: center;
+  width: 110%;
 }
 
-.sponsor-logo .mask ul li a:hover {
-  background-color: #fff;
-  color: #57cbcc;
-  border: 1px solid transparent;
-}
 
 .sponsor-meta {
   padding: 15px;

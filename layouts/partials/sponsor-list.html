@@ -1,7 +1,7 @@
 {{ if .Site.Data.sponsors.enable }}
 {{"<!-- Start Sponsor List Section -->" | safeHTML}}
 <section id="sponsors" class="section">
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
             <div class="col-lg-12 text-center">
                 {{"<!-- section title -->" | safeHTML}}
@@ -12,9 +12,12 @@
                 </div>
                 {{"<!-- /section title -->" | safeHTML}}
 
-                {{ range .Site.Data.sponsors.sponsor }}
-              
-                <div class="col-lg-2 col-md-3 col-12 wow fadeInDown" data-wow-duration="500ms">
+                {{ if .Site.Data.sponsors.gold}}
+                <h3 class="sponsor-level">GOLD SPONSORS</h3>
+
+                {{ range where .Site.Data.sponsors.sponsor "level" "gold" }}
+                {{"<!-- sponsor -->" | safeHTML}}
+                <div class="col-lg-2 col-md-2 col-3 wow fadeInDown" data-wow-duration="500ms">
                     <div class="sponsor">
                         <div class="sponsor-logo">
                             {{"<!-- sponsor logo -->" | safeHTML}}
@@ -23,21 +26,36 @@
                             {{"<!-- sponsor link -->" | safeHTML}}
                             <div class="mask">
                                 <ul class="list-inline">
-                                    <li class="list-inline-item"><a href="{{ .url | absURL }}"
-                                            target="_blank"> {{ .name}}</a></li>
+                                    <li class="list-inline-item"><a href="{{ .url | absURL }}" target="_blank">
+                                            {{ .name}}</a></li>
 
                                 </ul>
                             </div>
+
                         </div>
                     </div>
                 </div>
-             
+                {{"<!-- end sponsor -->" | safeHTML}}
+                {{end}}
+                {{end}}
+
+                {{ if .Site.Data.sponsors.silver}}
+                <h3 class="sponsor-level">SILVER SPONSORS</h3>
+               
+
+
+                {{end}}
+
+                {{ if .Site.Data.sponsors.community}}
+                <h3 class="sponsor-level">COMMUNITY SPONSORS</h3>
+                
+
                 {{end}}
 
                 {{ if .IsHome }}
                 <div class="sponsor-button">
-                        <a href="{{ .Site.Data.sponsors.btnURL }}"
-                            class="btn btn-main">{{ with .Site.Data.sponsors.btnText }} {{ . }} {{end}}</a>
+                    <a href="{{ .Site.Data.sponsors.btnURL }}"
+                        class="btn btn-main">{{ with .Site.Data.sponsors.btnText }} {{ . }} {{end}}</a>
                 </div>
                 {{ end }}
             </div>
