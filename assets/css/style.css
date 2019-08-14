@@ -1450,16 +1450,16 @@ a:hover {
 .sponsor-logo .mask ul {
   text-align: center;
   position: relative;
-  top: 40%;
+  top: 30%;
 }
 
 .sponsor-logo .mask ul li a {
   color: #fff;
   background-color: #353b43;
   display: block;
-  font-size: 17px;
+  font-size: 1rem;
   font-weight: bold;
-  line-height: 150%;
+  line-height: 130%;
   text-align: center;
   width: 110%;
 }
