@@ -1118,15 +1118,6 @@ a:hover {
 
 
 /*=================================================================
-  Sponsor section
-==================================================================*/
-
-.sponsor table {
-  color: white;
-}
-
-
-/*=================================================================
   Portfolio section
 ==================================================================*/
 .portfolio-filter {
@@ -1390,6 +1381,107 @@ a:hover {
 
 .member-meta span {
   font-size: 12px;
+}
+
+/*=================================================================
+  Sponsors
+==================================================================*/
+/* Sponsor Page */
+
+.sponsor table {
+  color: white;
+}
+
+/* Sponsor List */
+
+.sponsor {
+  background-color: #292F36;
+  margin-bottom: 10px;
+}
+
+.sponsor:hover .mask {
+  cursor: pointer;
+  opacity: 1;
+  filter: alpha(opacity=100);
+  -webkit-transform: rotateY(0deg) scale(1, 1);
+  transform: rotateY(0deg) scale(1, 1);
+}
+
+.sponsor-logo {
+  overflow: hidden;
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .sponsor-logo {
+    text-align: center;
+  }
+}
+
+.sponsor-logo:hover img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.sponsor-logo img {
+  transition: all 0.4s ease 0s;
+}
+
+@media (max-width: 768px) {
+  .sponsor-logo img {
+    display: inline-block;
+  }
+}
+
+.sponsor-logo .mask {
+  background-color: rgba(87, 203, 204, 0.7);
+  position: absolute;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  transition: all .5s ease-out 0s;
+  -webkit-transform: rotateY(180deg) scale(0.5, 0.5);
+  transform: rotateY(180deg) scale(0.5, 0.5);
+}
+
+.sponsor-logo .mask ul {
+  text-align: center;
+  position: relative;
+  top: 40%;
+}
+
+.sponsor-logo .mask ul li a {
+  color: #fff;
+  display: block;
+  font-size: 15px;
+  line-height: 15px;
+  text-align: center;
+}
+
+.sponsor-logo .mask ul li a:hover {
+  background-color: #fff;
+  color: #57cbcc;
+  border: 1px solid transparent;
+}
+
+.sponsor-meta {
+  padding: 15px;
+}
+
+.sponsor-meta h4 {
+  margin: 0 0 5px;
+}
+
+.sponsor-meta span {
+  font-size: 12px;
+}
+
+.sponsor-button {
+  margin-top: 25px;
 }
 
 

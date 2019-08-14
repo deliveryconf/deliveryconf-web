@@ -1,6 +1,9 @@
 enable : true
 heading : Our
 headingSpan : Sponsors
+btnURL: sponsor
+btnText: Sponsor DeliveryConf!
+
 sponsor :
   - image : images/sponsors/octopus.png
     name : Octopus Deploy
