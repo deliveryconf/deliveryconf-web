@@ -1423,11 +1423,6 @@ a:hover {
   }
 }
 
-.sponsor-image:hover img {
-  -webkit-transform: scale(1.2);
-  transform: scale(1.2);
-}
-
 .sponsor-image img {
   transition: all 0.4s ease 0s;
 }
