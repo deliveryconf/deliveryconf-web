@@ -5,7 +5,7 @@ btnURL: sponsor
 btnText: Sponsor DeliveryConf!
 btnId : "sponsor-btn"
 gold : true
-silver : false
+silver : true
 community : true
 
 sponsor :
@@ -16,7 +16,7 @@ sponsor :
 
   - image : images/sponsors/harness.png
     name : Harness.io
-    level : "gold"
+    level : "silver"
     url : "https://harness.io"
 
   - image : images/sponsors/arresteddevops.png
