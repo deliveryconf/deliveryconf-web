@@ -35,7 +35,7 @@ summaryLength = 10
 
     [[menu.nav]]
     name = "Sponsor"
-    URL = "#sponsor"
+    URL = "#sponsor-list"
     weight = 5
 
     [[menu.nav]]

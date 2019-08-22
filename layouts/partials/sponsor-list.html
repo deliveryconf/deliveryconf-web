@@ -12,6 +12,20 @@
                 </div>
                 {{"<!-- /section title -->" | safeHTML}}
             </div>
+
+            
+            <!-- Sponsor button -->
+            <div class="col-12 text-center">
+                    {{ if .IsHome }}
+                    <div class="sponsor-button">
+                        <a href="{{ .Site.Data.sponsors.btnURL }}"
+                            class="btn btn-main" id="{{ with .Site.Data.sponsors.btnId}}{{ . }}{{end}}">{{ with .Site.Data.sponsors.btnText }}
+                            {{ . }} {{end}}</a>
+                    </div>
+                    {{ end }}
+            </div>
+
+            <!-- Begin Gold Sponsors -->
             {{ if .Site.Data.sponsors.gold}}
             <div class="col-12 text-center">
                 <h3 class="sponsor-level">GOLD SPONSORS</h3>
@@ -31,6 +45,7 @@
 
             <!-- End Gold Sponsors -->
 
+            <!-- Begin Silver Sponsors -->
             {{ if .Site.Data.sponsors.silver}}
             <div class="col-12 text-center">
                 <h3 class="sponsor-level">SILVER SPONSORS</h3>
@@ -49,6 +64,9 @@
             {{end}}
             {{end}}
 
+            <!-- End Silver Sponsors -->
+
+            <!-- Begin Community Sponsors -->
             {{ if .Site.Data.sponsors.community}}
             <div class="col-12 text-center">
                 <h3 class="sponsor-level">COMMUNITY SPONSORS</h3>
@@ -66,15 +84,8 @@
             {{end}}
             {{end}}
 
-            <div class="col-12 text-center">
-                {{ if .IsHome }}
-                <div class="sponsor-button">
-                    <a href="{{ .Site.Data.sponsors.btnURL }}"
-                        class="btn btn-main" id="{{ with .Site.Data.sponsors.btnId}}{{ . }}{{end}}">{{ with .Site.Data.sponsors.btnText }}
-                        {{ . }} {{end}}</a>
-                </div>
-                {{ end }}
-            </div>
+            <!-- End Community Sponsors -->
+
         </div>
     </div>
 
