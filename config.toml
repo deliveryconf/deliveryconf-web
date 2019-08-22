@@ -55,9 +55,9 @@ logo = "images/logos/delivery-conf-logo-dates-narrow.jpg"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "Continuous Integration / Continuous Delivery conference"
-author = "Themefisher"
+author = "DeliveryConf"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-146286048-1"
 custom_css = ["css/custom.css"]
 
     # Banner Section
