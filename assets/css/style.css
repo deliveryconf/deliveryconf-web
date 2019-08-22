@@ -979,6 +979,12 @@ a:hover {
   padding-bottom: 10px;
 }
 
+.propose-cfp p { 
+  font-size: 16px;
+  color: #f2eeee;
+  padding-top: 20px;
+}
+
 .propose-button {
   margin-top: 25px;
 }
