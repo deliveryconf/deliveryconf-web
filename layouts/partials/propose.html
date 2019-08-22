@@ -23,7 +23,7 @@
                 </div>
                 <div class="propose-button">
                     <a href="{{ .Site.Data.propose.btnURL }}" target="_blank"
-                        class="btn btn-main">{{ with .Site.Data.propose.btnText }} {{ . }} {{end}}</a>
+                        class="btn btn-main" id="{{ with .Site.Data.propose.btnId}}{{ . }}{{end}}">{{ with .Site.Data.propose.btnText }} {{ . }} {{end}}</a>
                 </div>
             </div>
         </div>

@@ -70,7 +70,7 @@
                 {{ if .IsHome }}
                 <div class="sponsor-button">
                     <a href="{{ .Site.Data.sponsors.btnURL }}"
-                        class="btn btn-main">{{ with .Site.Data.sponsors.btnText }}
+                        class="btn btn-main" id="{{ with .Site.Data.sponsors.btnId}}{{ . }}{{end}}">{{ with .Site.Data.sponsors.btnText }}
                         {{ . }} {{end}}</a>
                 </div>
                 {{ end }}

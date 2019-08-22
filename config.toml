@@ -78,6 +78,7 @@ custom_css = ["css/custom.css"]
     content = "Celebrating 10 years since the Continuous Delivery book was published!"
     btnURL = "#register"
     btnText = "Register Now"
+    btnId = "register-btn"
 
     # counter
     [params.counter]

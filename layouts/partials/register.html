@@ -38,7 +38,7 @@
 
                         {{ else }}
                         {{"<!-- signup button -->" | safeHTML}}
-                        <a class="btn btn-transparent" href="{{ .btnURL | absURL}}" target="_blank">{{ .btnText }}</a>
+                        <a class="btn btn-transparent" id="{{ with .btnId}}{{ . }}{{end}}" href="{{ .btnURL | absURL}}" target="_blank">{{ .btnText }}</a>
                         {{ end }}
 
                     </div>

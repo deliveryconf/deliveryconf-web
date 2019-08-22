@@ -3,6 +3,7 @@ heading : Our
 headingSpan : Sponsors
 btnURL: sponsor
 btnText: Sponsor DeliveryConf!
+btnId : "sponsor-btn"
 gold : true
 silver : false
 community : true
