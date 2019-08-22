@@ -13,6 +13,11 @@ sponsor :
     level : "gold"
     url : "https://octopus.com"
 
+  - image : images/sponsors/harness.png
+    name : Harness.io
+    level : "gold"
+    url : "https://harness.io"
+
   - image : images/sponsors/arresteddevops.png
     name : Arrested DevOps
     level : "community"

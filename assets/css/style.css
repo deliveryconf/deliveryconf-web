@@ -1406,33 +1406,33 @@ a:hover {
   transform: rotateY(0deg) scale(1, 1);
 }
 
-.sponsor-logo {
+.sponsor-image {
   overflow: hidden;
   position: relative;
 }
 
 @media (max-width: 768px) {
-  .sponsor-logo {
+  .sponsor-image {
     text-align: center;
   }
 }
 
-.sponsor-logo:hover img {
+.sponsor-image:hover img {
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
 }
 
-.sponsor-logo img {
+.sponsor-image img {
   transition: all 0.4s ease 0s;
 }
 
 @media (max-width: 768px) {
-  .sponsor-logo img {
+  .sponsor-image img {
     display: inline-block;
   }
 }
 
-.sponsor-logo .mask {
+.sponsor-image .mask {
   background-color: rgba(87, 203, 204, 0.7);
   position: absolute;
   text-align: center;
@@ -1447,17 +1447,17 @@ a:hover {
   transform: rotateY(180deg) scale(0.5, 0.5);
 }
 
-.sponsor-logo .mask ul {
+.sponsor-image .mask ul {
   text-align: center;
   position: relative;
-  top: 30%;
+  top: 40%;
 }
 
-.sponsor-logo .mask ul li a {
+.sponsor-image .mask ul li a {
   color: #fff;
   background-color: #353b43;
   display: block;
-  font-size: 1rem;
+  font-size: 1.3rem;
   font-weight: bold;
   line-height: 130%;
   text-align: center;
