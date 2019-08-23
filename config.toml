@@ -35,7 +35,7 @@ summaryLength = 10
 
     [[menu.nav]]
     name = "Sponsor"
-    URL = "/sponsor"
+    URL = "#sponsor-list"
     weight = 5
 
     [[menu.nav]]
@@ -51,13 +51,13 @@ summaryLength = 10
 # Site params
 [params]
 home= "Home"
-logo = "images/logos/delivery-conf-wordmark.png"
+logo = "images/logos/delivery-conf-logo-dates-narrow.jpg"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "Continuous Integration / Continuous Delivery conference"
-author = "Themefisher"
+author = "DeliveryConf"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-146286048-1"
 custom_css = ["css/custom.css"]
 
     # Banner Section
@@ -78,6 +78,7 @@ custom_css = ["css/custom.css"]
     content = "Celebrating 10 years since the Continuous Delivery book was published!"
     btnURL = "#register"
     btnText = "Register Now"
+    btnId = "register-btn"
 
     # counter
     [params.counter]

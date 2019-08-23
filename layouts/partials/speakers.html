@@ -20,7 +20,7 @@
                 <div class="speaker">
                     <div class="speaker-photo">
                         {{"<!-- speaker photo -->" | safeHTML}}
-                        <img class="img-fluid" src="{{ .image | absURL }}" alt="speaker">
+                        <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .name }}">
                         {{"<!-- speaker social profile -->" | safeHTML}}
                         <div class="mask"><a class="fill-mask" href="{{ .detailsUrl | absURL }}"></a>
 

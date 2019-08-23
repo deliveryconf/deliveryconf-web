@@ -11,6 +11,7 @@ ticketTable :
     info : Register early to get a 10% discount! (limit 50)
     btnURL : https://deliveryconf.busyconf.com/bookings/new
     btnText : Register
+    btnId : "early-bird-ticket-btn"
 
   - title : Standard
     price : $499
@@ -20,3 +21,4 @@ ticketTable :
     info : Standard DeliveryConf ticket
     btnURL : https://deliveryconf.busyconf.com/bookings/new
     btnText : Register
+    btnId : "standard-ticket-btn"

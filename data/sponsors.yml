@@ -1,0 +1,25 @@
+enable : true
+heading : Our
+headingSpan : Sponsors
+btnURL: sponsor
+btnText: Sponsor DeliveryConf!
+btnId : "sponsor-btn"
+gold : true
+silver : true
+community : true
+
+sponsor :
+  - image : images/sponsors/octopus.png
+    name : Octopus Deploy
+    level : "gold"
+    url : "https://octopus.com"
+
+  - image : images/sponsors/harness.png
+    name : Harness.io
+    level : "silver"
+    url : "https://harness.io"
+
+  - image : images/sponsors/arresteddevops.png
+    name : Arrested DevOps
+    level : "community"
+    url : "https://www.arresteddevops.com/"

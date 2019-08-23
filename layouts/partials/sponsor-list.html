@@ -1,0 +1,94 @@
+{{ if .Site.Data.sponsors.enable }}
+{{"<!-- Start Sponsor List Section -->" | safeHTML}}
+<section id="sponsor-list" class="section">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 text-center">
+                {{"<!-- section title -->" | safeHTML}}
+                <div class="title text-center wow fadeInUp" data-wow-duration="500ms">
+                    <h2>{{ with .Site.Data.sponsors.heading }} {{ . }} {{ end }} <span
+                            class="color">{{ with .Site.Data.sponsors.headingSpan }} {{ . }} {{ end }}</span></h2>
+                    <div class="border-meghna"></div>
+                </div>
+                {{"<!-- /section title -->" | safeHTML}}
+            </div>
+
+            
+            <!-- Sponsor button -->
+            <div class="col-12 text-center">
+                    {{ if .IsHome }}
+                    <div class="sponsor-button">
+                        <a href="{{ .Site.Data.sponsors.btnURL }}"
+                            class="btn btn-main" id="{{ with .Site.Data.sponsors.btnId}}{{ . }}{{end}}">{{ with .Site.Data.sponsors.btnText }}
+                            {{ . }} {{end}}</a>
+                    </div>
+                    {{ end }}
+            </div>
+
+            <!-- Begin Gold Sponsors -->
+            {{ if .Site.Data.sponsors.gold}}
+            <div class="col-12 text-center">
+                <h3 class="sponsor-level">GOLD SPONSORS</h3>
+            </div>
+
+            {{ range where .Site.Data.sponsors.sponsor "level" "gold" }}
+            <div class="col-lg-2 col-md-2 col-6 wow fadeInDown" data-wow-duration="500ms">
+                <div class="sponsor">
+                    <div class="sponsor-image">
+                        <a href="{{ .url | absURL }}" target="_blank"><img class="img-fluid" src="{{ .image | absURL }}"
+                                alt="{{ .name }}" title="{{ .name }}"></a>
+                    </div>
+                </div>
+            </div>
+            {{end}}
+            {{end}}
+
+            <!-- End Gold Sponsors -->
+
+            <!-- Begin Silver Sponsors -->
+            {{ if .Site.Data.sponsors.silver}}
+            <div class="col-12 text-center">
+                <h3 class="sponsor-level">SILVER SPONSORS</h3>
+
+            </div>
+            {{ range where .Site.Data.sponsors.sponsor "level" "silver" }}
+            <div class="col-lg-2 col-md-2 col-6 wow fadeInDown" data-wow-duration="500ms">
+                <div class="sponsor">
+                    <div class="sponsor-image">
+                        <a href="{{ .url | absURL }}" target="_blank"><img class="img-fluid" src="{{ .image | absURL }}"
+                                alt="{{ .name }}" title="{{ .name }}"></a>            
+
+                    </div>
+                </div>
+            </div>
+            {{end}}
+            {{end}}
+
+            <!-- End Silver Sponsors -->
+
+            <!-- Begin Community Sponsors -->
+            {{ if .Site.Data.sponsors.community}}
+            <div class="col-12 text-center">
+                <h3 class="sponsor-level">COMMUNITY SPONSORS</h3>
+            </div>
+            {{ range where .Site.Data.sponsors.sponsor "level" "community" }}
+            <div class="col-lg-2 col-md-2 col-6 wow fadeInDown" data-wow-duration="500ms">
+                <div class="sponsor">
+                    <div class="sponsor-image">
+                        <a href="{{ .url | absURL }}" target="_blank"><img class="img-fluid" src="{{ .image | absURL }}"
+                                alt="{{ .name }}" title="{{ .name }}"></a>
+                       
+                    </div>
+                </div>
+            </div>
+            {{end}}
+            {{end}}
+
+            <!-- End Community Sponsors -->
+
+        </div>
+    </div>
+
+</section>
+{{"<!-- /Sponsor List Section -->" | safeHTML}}
+{{ end }}
