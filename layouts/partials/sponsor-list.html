@@ -32,7 +32,7 @@
             </div>
 
             {{ range where .Site.Data.sponsors.sponsor "level" "gold" }}
-            <div class="col-lg-2 col-md-2 col-3 wow fadeInDown" data-wow-duration="500ms">
+            <div class="col-lg-2 col-md-2 col-6 wow fadeInDown" data-wow-duration="500ms">
                 <div class="sponsor">
                     <div class="sponsor-image">
                         <a href="{{ .url | absURL }}" target="_blank"><img class="img-fluid" src="{{ .image | absURL }}"
@@ -52,7 +52,7 @@
 
             </div>
             {{ range where .Site.Data.sponsors.sponsor "level" "silver" }}
-            <div class="col-lg-2 col-md-2 col-3 wow fadeInDown" data-wow-duration="500ms">
+            <div class="col-lg-2 col-md-2 col-6 wow fadeInDown" data-wow-duration="500ms">
                 <div class="sponsor">
                     <div class="sponsor-image">
                         <a href="{{ .url | absURL }}" target="_blank"><img class="img-fluid" src="{{ .image | absURL }}"
@@ -72,7 +72,7 @@
                 <h3 class="sponsor-level">COMMUNITY SPONSORS</h3>
             </div>
             {{ range where .Site.Data.sponsors.sponsor "level" "community" }}
-            <div class="col-lg-2 col-md-2 col-3 wow fadeInDown" data-wow-duration="500ms">
+            <div class="col-lg-2 col-md-2 col-6 wow fadeInDown" data-wow-duration="500ms">
                 <div class="sponsor">
                     <div class="sponsor-image">
                         <a href="{{ .url | absURL }}" target="_blank"><img class="img-fluid" src="{{ .image | absURL }}"
