@@ -58,7 +58,7 @@ description = "Continuous Integration / Continuous Delivery conference"
 author = "DeliveryConf"
 # Google Analitycs
 googleAnalitycsID = "UA-146286048-1"
-custom_css = ["css/custom.css"]
+# custom_css = ["css/custom.css"]
 
     # Banner Section
     [params.banner]
@@ -83,7 +83,7 @@ custom_css = ["css/custom.css"]
     # counter
     [params.counter]
     enable = false
-    bgImage = "images/backgrounds/bg-1.jpg"
+    # bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
         title = "Days"
         icon = "tf-ion-android-happy"
