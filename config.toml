@@ -66,7 +66,7 @@ custom_css = ["css/custom.css"]
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
     heading = "Technical Continuous Delivery Conference"
-    content= "Celebrating 10 years since the Continuous Delivery book was published!"
+    content= "It's been 10 years since the CD book came out. How are we tackling hard problems today? What's next? What will we need tomorrow? Join us to investigate and learn."
     btn = true
     btnText="Explore Us"
     btnURL="#services"
@@ -75,7 +75,7 @@ custom_css = ["css/custom.css"]
     [params.cta]
     enable = true
     title = "Technical Continuous Delivery Conference"
-    content = "Celebrating 10 years since the Continuous Delivery book was published!"
+    content = "It's been 10 years since the CD book came out. How are we tackling hard problems today? What's next? What will we need tomorrow? Join us to investigate and learn."
     btnURL = "#register"
     btnText = "Register Now"
     btnId = "register-btn"
