@@ -27,6 +27,8 @@ After each and every presentation the audience will be invited to participate in
 * What successes have you had in this area?
 * If you had a magic wand, what would you want to see in 2-5 years?
 
+We're going to be heavily promoting this to vendors and others. They will be encouraged to listen and take notes about what their potential audiences need. They will not be allowed to shape the discussions.
+
 ### Sharing the knowledge
 
 After the conference, we will share recordings of talks *and the discussions* publicly. In this way we hope to be able to continue the discussions.
