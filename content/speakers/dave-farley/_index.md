@@ -2,7 +2,7 @@
 title: "Dave Farley"
 draft: false
 image : images/speakers/david-farley.jpg
-twitter: "https://twitter.com/davidfarley"
+twitter: "https://twitter.com/davefarley77"
 blog: "http://www.davefarley.net"
 companyWebsite: "http://www.continuous-delivery.co.uk"
 ---
