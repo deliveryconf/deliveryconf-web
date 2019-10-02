@@ -51,8 +51,46 @@ teamMember :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/jjasghar"
 
-# - image : images/team/team-4.jpg
-#     name : Jay Destro
+  - image : images/team/louda-pena.jpg
+    name : Louda Peña
+    description : "Louda is the Lead Product Marketing Manager at ThoughtWorks. 
+    She works intimately across teams that are focused on building open source products for developers, 
+    and is often found advocating for better practices for technology teams at various conferences globally."
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/loudalouda"
+
+  - image : images/team/julie-gunderson.png
+    name : Julie Gunderson
+    description : "Julie is a DevOps Advocate at PagerDuty, co-organizer at DevOpsDays Boise and Community Moderator at Opensource.com."
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/Julie_Gund"
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/juliegunderson/"
+
+
+  - image : images/team/mark-hahn.jpg
+    name : Mark P. Hahn
+    description : "As director of DevOps for Ciber Global, Mark is responsible for all things surrounding product velocity. 
+    Mark talks too much about lean processes to deliver secure and reliable software that creates business value for organizations."
+    socialIcon :
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/markphahn"
+
+# - image : images/team/name.jpg
+#     name : Name
+#     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+#     socialIcon :
+#       - icon : tf-ion-social-twitter
+#         url : "#"
+#       - icon : tf-ion-social-linkedin
+#         url : "#"
+#       - icon : tf-ion-social-dribbble-outline
+#         url : "#"
+
+# - image : images/team/name.jpg
+#     name : Name
 #     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
 #     socialIcon :
 #       - icon : tf-ion-social-twitter
