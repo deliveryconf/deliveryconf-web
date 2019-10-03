@@ -7,7 +7,7 @@ ticketTable :
     price : $449
     starts : Jul 2019
     ends : Sep 2019
-    soldOut: false 
+    soldOut: true 
     info : Register early to get a 10% discount! (limit 50)
     btnURL : https://deliveryconf.busyconf.com/bookings/new
     btnText : Register
