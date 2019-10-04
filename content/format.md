@@ -1,5 +1,5 @@
 ---
-title: "DeliveryConf Format"
+title: "Learning from today - Shaping tomorrow"
 date: 2019-09-16T14:24:01+02:00
 draft: false
 layout: static-page
