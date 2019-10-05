@@ -53,6 +53,11 @@ summaryLength = 10
     URL = "#our-team"
     weight = 8
 
+    [[menu.nav]]
+    name = "Conduct"
+    URL = "/conduct"
+    weight = 9
+
 # Site params
 [params]
 home= "Home"
