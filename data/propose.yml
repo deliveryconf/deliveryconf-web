@@ -2,7 +2,7 @@ enable : true
 heading : Call for
 headingSpan : Proposals
 content : "Have an idea for a great technical talk on Continuous Delivery related to any of the following topics or additional ones?"
-cfpDeadline: "Submit now: our CFP closes on October 7th 2019!!!"
+cfpDeadline: "Submit now: our CFP closes on October 14th 2019!!!"
 btnURL : "https://deliveryconf.busyconf.com/proposals/new"
 btnText : "Submit a Talk!"
 btnId : "propose-btn"
