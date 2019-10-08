@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://deliveryconf.com/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "DeliveryConf"
