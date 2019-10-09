@@ -19,6 +19,11 @@ sponsor :
     level : "silver"
     url : "https://harness.io"
 
+  - image : images/sponsors/hashicorp.png
+    name : HashiCorp
+    level : "silver"
+    url : "https://www.hashicorp.com/"
+
   - image : images/sponsors/arresteddevops.png
     name : Arrested DevOps
     level : "community"
