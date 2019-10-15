@@ -14,6 +14,11 @@ sponsor :
     level : "gold"
     url : "https://octopus.com"
 
+  - image : images/sponsors/google-cloud.png
+    name : "Google Cloud"
+    level : "gold"
+    url : "https://cloud.google.com"
+
   - image : images/sponsors/harness.png
     name : Harness.io
     level : "silver"
