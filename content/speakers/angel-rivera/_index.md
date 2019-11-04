@@ -1,7 +1,8 @@
 ---
 title: "Angel Rivera"
 draft: false
-image : images/speakers/coming-soon.png
+image : images/speakers/angel-rivera.png
+twitter : "https://twitter.com/punkdata"
 ---
 
 Angel started his career as an US Air Force Space Systems Operations specialist in Cape Canaveral AF Station where he realized his passion for technology and software development. He has extensive experience in the private, public and military sectors and his technical experience includes military/space lift operations, technical writing, software development, SRE/DevOPs engineering. He also has a wealth of experience in defense and federal sectors such as contracting, information systems security and management.

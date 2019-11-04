@@ -35,67 +35,84 @@ speaker :
   - image : images/speakers/coming-soon.png
     name : Thomas Rayner
     jobTitle : "Sr Security Service Engineer at Microsoft"
+    detailsUrl : "/speakers/thomas-rayner"
 
   - image : images/speakers/coming-soon.png
     name : Cat Swetel
     jobTitle : "Engineering Manager at Ticketmaster"
+    detailsUrl : "/speakers/cat-swetel"    
 
   - image : images/speakers/coming-soon.png
     name : Jimmy Judd
     jobTitle : "Ticketmaster"
+    detailsUrl : "/speakers/jimmy-judd"
 
   - image : images/speakers/coming-soon.png
     name : Scott Nasello
     jobTitle : "Director, Delivery Engineering at Columbia Sportswear"
+    detailsUrl : "/speakers/scott-nasello"
 
   - image : images/speakers/emily-gorcenski.jpg
     name : Emily Gorcenski
     jobTitle : "Data Scientist at ThoughtWorks"
+    detailsUrl : "/speakers/emily-gorcenski"
 
   - image : images/speakers/coming-soon.png
     name : Sean Sullivan
     jobTitle : "Principal Software Engineer at Twilio"
+    detailsUrl : "/speakers/sean-sullivan"
  
   - image : images/speakers/coming-soon.png
     name : Liz Fong-Jones
     jobTitle : "Principal Developer Advocate at honeycomb.io"
+    detailsUrl : "/speakers/liz-fong-jones"
 
   - image : images/speakers/coming-soon.png
     name : Danyel Fisher
     jobTitle : "Principal Design Researcher at honeycomb.io"
+    detailsUrl : "/speakers/danyel-fisher"
 
   - image : images/speakers/coming-soon.png
     name : Ryan Rousseau
     jobTitle : "Continuous Delivery Architect at Octopus Deploy"
+    detailsUrl : "/speakers/ryan-rousseau"
 
   - image : images/speakers/laura-santamaria.jpg
     name : Laura Santamaria
-    jobTitle : "Developer Advocate at LogDNA"   
+    jobTitle : "Developer Advocate at LogDNA"  
+    detailsUrl : "/speakers/laura-santamaria" 
 
   - image : images/speakers/coming-soon.png
     name : Bob Walker
     jobTitle : "VP of Customer Success at Octopus Deploy"
+    detailsUrl : "/speakers/bob-walker"
 
   - image : images/speakers/coming-soon.png
     name : Cora Fedesna
     jobTitle : "Software Engineer at ActiveCampaign"
+    detailsUrl : "/speakers/cora-fedesna"
 
   - image : images/speakers/coming-soon.png
     name : James Wickett
     jobTitle : "Sr. Security Engineer at Verica"
+    detailsUrl : "/speakers/james-wickett"
 
   - image : images/speakers/coming-soon.png
     name : Sonali Shrivastava
     jobTitle : "Director, Software Delivery at Coyote Logistics"
+    detailsUrl : "/speakers/sonali-shrivastava"
 
   - image : images/speakers/coming-soon.png
     name : Jessica Kerr
     jobTitle : "Developer at Atomist"
+    detailsUrl : "/speakers/jessica-kerr"
 
   - image : images/speakers/coming-soon.png
     name : Nell Shamrell-Harrington
     jobTitle : "Principal Engineer at Chef"
+    detailsUrl : "/speakers/nell-shamrell-harrington"
 
   - image : images/speakers/coming-soon.png
     name : Steve Pereira
     jobTitle : "Visible"
+    detailsUrl : "/speakers/steve-pereira"
