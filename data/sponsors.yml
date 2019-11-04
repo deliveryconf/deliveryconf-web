@@ -29,6 +29,11 @@ sponsor :
     level : "silver"
     url : "https://www.hashicorp.com/"
 
+  - image : images/sponsors/sap-concur.png
+    name : "SAP Concur"
+    level : "silver"
+    url : "https://www.concur.com/"
+
   - image : images/sponsors/arresteddevops.png
     name : Arrested DevOps
     level : "community"
