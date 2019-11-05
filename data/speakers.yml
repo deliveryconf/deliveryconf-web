@@ -14,7 +14,7 @@ speaker :
 
   - image : images/speakers/bryan-liles.png
     name : Bryan Liles
-    jobTitle : "Senior Staff Engineer, VMware"
+    jobTitle : "Senior Staff Engineer at VMware"
     detailsUrl : "/speakers/bryan-liles"
 
   - image : images/speakers/cat-swetel.jpg
@@ -64,7 +64,7 @@ speaker :
 
   - image : images/speakers/coming-soon.png
     name : Jimmy Judd
-    jobTitle : "Ticketmaster"
+    jobTitle : "Lead Software Engineer at Ticketmaster"
     detailsUrl : "/speakers/jimmy-judd"
 
   - image : images/speakers/laura-santamaria.jpg
@@ -109,7 +109,7 @@ speaker :
 
   - image : images/speakers/steve-pereira.jpg
     name : Steve Pereira
-    jobTitle : "Visible"
+    jobTitle : "Founder & CTO at Visible"
     detailsUrl : "/speakers/steve-pereira"
 
   - image : images/speakers/thomas-rayner.jpg
