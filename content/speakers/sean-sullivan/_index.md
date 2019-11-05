@@ -1,7 +1,7 @@
 ---
 title: "Sean Sullivan"
 draft: false
-image : images/speakers/coming-soon.png
+image : images/speakers/sean-sullivan.png
 twitter : "https://twitter.com/tinyrobots"
 ---
 

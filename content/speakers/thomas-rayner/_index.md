@@ -1,7 +1,7 @@
 ---
 title: "Thomas Rayner"
 draft: false
-image : images/speakers/coming-soon.png
+image : images/speakers/thomas-rayner.jpg
 twitter : "https://twitter.com/MrThomasRayner"
 ---
 

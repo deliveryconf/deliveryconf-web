@@ -1,7 +1,7 @@
 ---
 title: "Cat Swetel"
 draft: false
-image : images/speakers/coming-soon.png
+image : images/speakers/cat-swetel.jpg
 twitter : "https://twitter.com/catswetel"
 ---
 

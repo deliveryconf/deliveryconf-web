@@ -22,7 +22,7 @@ speaker :
     jobTitle : "Developer Advocate at LaunchDarkly"
     detailsUrl : "/speakers/heidi-waterhouse"
 
-  - image : images/speakers/coming-soon.png
+  - image : images/speakers/lisa-crispin.jpg
     name : Lisa Crispin
     jobTitle : "Testing Advocate at Mabl, Inc."
     detailsUrl : "/speakers/lisa-crispin"
@@ -32,12 +32,12 @@ speaker :
     jobTitle : "Developer Advocate at CircleCi"
     detailsUrl : "/speakers/angel-rivera"
 
-  - image : images/speakers/coming-soon.png
+  - image : images/speakers/thomas-rayner.jpg
     name : Thomas Rayner
     jobTitle : "Sr Security Service Engineer at Microsoft"
     detailsUrl : "/speakers/thomas-rayner"
 
-  - image : images/speakers/coming-soon.png
+  - image : images/speakers/cat-swetel.jpg
     name : Cat Swetel
     jobTitle : "Engineering Manager at Ticketmaster"
     detailsUrl : "/speakers/cat-swetel"    
@@ -57,7 +57,7 @@ speaker :
     jobTitle : "Data Scientist at ThoughtWorks"
     detailsUrl : "/speakers/emily-gorcenski"
 
-  - image : images/speakers/coming-soon.png
+  - image : images/speakers/sean-sullivan.png
     name : Sean Sullivan
     jobTitle : "Principal Software Engineer at Twilio"
     detailsUrl : "/speakers/sean-sullivan"
@@ -72,7 +72,7 @@ speaker :
     jobTitle : "Principal Design Researcher at honeycomb.io"
     detailsUrl : "/speakers/danyel-fisher"
 
-  - image : images/speakers/coming-soon.png
+  - image : images/speakers/ryan-rousseau.jpg
     name : Ryan Rousseau
     jobTitle : "Continuous Delivery Architect at Octopus Deploy"
     detailsUrl : "/speakers/ryan-rousseau"
@@ -87,17 +87,17 @@ speaker :
     jobTitle : "VP of Customer Success at Octopus Deploy"
     detailsUrl : "/speakers/bob-walker"
 
-  - image : images/speakers/coming-soon.png
+  - image : images/speakers/cora-fedesna.jpg
     name : Cora Fedesna
     jobTitle : "Software Engineer at ActiveCampaign"
     detailsUrl : "/speakers/cora-fedesna"
 
-  - image : images/speakers/coming-soon.png
+  - image : images/speakers/james-wickett.jpg
     name : James Wickett
     jobTitle : "Sr. Security Engineer at Verica"
     detailsUrl : "/speakers/james-wickett"
 
-  - image : images/speakers/coming-soon.png
+  - image : images/speakers/sonali-shrivastava.jpg
     name : Sonali Shrivastava
     jobTitle : "Director, Software Delivery at Coyote Logistics"
     detailsUrl : "/speakers/sonali-shrivastava"
@@ -107,12 +107,12 @@ speaker :
     jobTitle : "Developer at Atomist"
     detailsUrl : "/speakers/jessica-kerr"
 
-  - image : images/speakers/coming-soon.png
+  - image : images/speakers/nell-shamrell-harrington.jpg
     name : Nell Shamrell-Harrington
     jobTitle : "Principal Engineer at Chef"
     detailsUrl : "/speakers/nell-shamrell-harrington"
 
-  - image : images/speakers/coming-soon.png
+  - image : images/speakers/steve-pereira.jpg
     name : Steve Pereira
     jobTitle : "Visible"
     detailsUrl : "/speakers/steve-pereira"

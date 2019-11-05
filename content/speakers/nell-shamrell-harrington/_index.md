@@ -1,7 +1,7 @@
 ---
 title: "Nell Shamrell-Harrington"
 draft: false
-image : images/speakers/coming-soon.png
+image : images/speakers/nell-shamrell-harrington.jpg
 twitter : "https://twitter.com/nellshamrell"
 ---
 

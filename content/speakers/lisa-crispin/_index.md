@@ -1,7 +1,7 @@
 ---
 title: "Lisa Crispin"
 draft: false
-image : images/speakers/coming-soon.png
+image : images/speakers/lisa-crispin.jpg
 twitter: "https://twitter.com/lisacrispin"
 website: "https://www.agiletester.ca"
 ---

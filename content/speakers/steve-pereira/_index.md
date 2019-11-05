@@ -1,7 +1,7 @@
 ---
 title: "Steve Pereira"
 draft: false
-image : images/speakers/coming-soon.png
+image : images/speakers/steve-pereira.jpg
 twitter : "https://twitter.com/steveElsewhere"
 ---
 

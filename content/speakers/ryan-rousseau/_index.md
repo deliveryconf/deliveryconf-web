@@ -1,7 +1,7 @@
 ---
 title: "Ryan Rousseau"
 draft: false
-image : images/speakers/coming-soon.png
+image : images/speakers/ryan-rousseau.jpg
 twitter : "https://twitter.com/ryanrousseau"
 ---
 

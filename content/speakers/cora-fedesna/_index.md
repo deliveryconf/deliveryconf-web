@@ -1,7 +1,7 @@
 ---
 title: "Cora Fedesna"
 draft: false
-image : images/speakers/coming-soon.png
+image : images/speakers/cora-fedesna.jpg
 twitter : "https://twitter.com/CorainChicago"
 ---
 

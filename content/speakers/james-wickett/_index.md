@@ -1,7 +1,7 @@
 ---
 title: "James Wickett"
 draft: false
-image : images/speakers/coming-soon.png
+image : images/speakers/james-wickett.jpg
 twitter : "https://twitter.com/wickett"
 ---
 
