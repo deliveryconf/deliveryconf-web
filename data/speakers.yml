@@ -2,6 +2,16 @@ enable : true
 heading : Our Speakers
 speaker :
 
+  - image : images/speakers/david-farley.jpg
+    name : Dave Farley - Keynote
+    jobTitle : "Independent software consultant, founder and director of Continuous Delivery Ltd"
+    detailsUrl : "/speakers/dave-farley"
+
+  - image : images/speakers/jez-humble.jpg
+    name : Jez Humble - Keynote
+    jobTitle : "Technology Advocate at Google, lecturer at UC Berkeley"
+    detailsUrl : "/speakers/jez-humble"
+    
   - image : images/speakers/angel-rivera.png
     name : Angel Rivera
     jobTitle : "Developer Advocate at CircleCi"
@@ -32,10 +42,7 @@ speaker :
     jobTitle : "Principal Design Researcher at honeycomb.io"
     detailsUrl : "/speakers/danyel-fisher"
 
-  - image : images/speakers/david-farley.jpg
-    name : Dave Farley
-    jobTitle : "Independent software consultant, founder and director of Continuous Delivery Ltd"
-    detailsUrl : "/speakers/dave-farley"
+
 
   - image : images/speakers/emily-gorcenski.jpg
     name : Emily Gorcenski
@@ -57,10 +64,7 @@ speaker :
     jobTitle : "Developer at Atomist"
     detailsUrl : "/speakers/jessica-kerr"
 
-  - image : images/speakers/jez-humble.jpg
-    name : Jez Humble
-    jobTitle : "Technology Advocate at Google, lecturer at UC Berkeley"
-    detailsUrl : "/speakers/jez-humble"
+
 
   - image : images/speakers/coming-soon-logo.png
     name : Jimmy Judd
