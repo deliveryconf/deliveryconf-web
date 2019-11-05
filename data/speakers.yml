@@ -7,7 +7,7 @@ speaker :
     jobTitle : "Developer Advocate at CircleCi"
     detailsUrl : "/speakers/angel-rivera"
 
-  - image : images/speakers/coming-soon.png
+  - image : images/speakers/coming-soon-logo.png
     name : Bob Walker
     jobTitle : "VP of Customer Success at Octopus Deploy"
     detailsUrl : "/speakers/bob-walker"
@@ -27,7 +27,7 @@ speaker :
     jobTitle : "Software Engineer at ActiveCampaign"
     detailsUrl : "/speakers/cora-fedesna"
 
-  - image : images/speakers/coming-soon.png
+  - image : images/speakers/coming-soon-logo.png
     name : Danyel Fisher
     jobTitle : "Principal Design Researcher at honeycomb.io"
     detailsUrl : "/speakers/danyel-fisher"
@@ -52,7 +52,7 @@ speaker :
     jobTitle : "Sr. Security Engineer at Verica"
     detailsUrl : "/speakers/james-wickett"
 
-  - image : images/speakers/coming-soon.png
+  - image : images/speakers/coming-soon-logo.png
     name : Jessica Kerr
     jobTitle : "Developer at Atomist"
     detailsUrl : "/speakers/jessica-kerr"
@@ -62,7 +62,7 @@ speaker :
     jobTitle : "Technology Advocate at Google, lecturer at UC Berkeley"
     detailsUrl : "/speakers/jez-humble"
 
-  - image : images/speakers/coming-soon.png
+  - image : images/speakers/coming-soon-logo.png
     name : Jimmy Judd
     jobTitle : "Lead Software Engineer at Ticketmaster"
     detailsUrl : "/speakers/jimmy-judd"
@@ -77,7 +77,7 @@ speaker :
     jobTitle : "Testing Advocate at Mabl, Inc."
     detailsUrl : "/speakers/lisa-crispin"
 
-  - image : images/speakers/coming-soon.png
+  - image : images/speakers/coming-soon-logo.png
     name : Liz Fong-Jones
     jobTitle : "Principal Developer Advocate at honeycomb.io"
     detailsUrl : "/speakers/liz-fong-jones"
@@ -92,7 +92,7 @@ speaker :
     jobTitle : "Continuous Delivery Architect at Octopus Deploy"
     detailsUrl : "/speakers/ryan-rousseau"
 
-  - image : images/speakers/coming-soon.png
+  - image : images/speakers/coming-soon-logo.png
     name : Scott Nasello
     jobTitle : "Director, Delivery Engineering at Columbia Sportswear"
     detailsUrl : "/speakers/scott-nasello"
