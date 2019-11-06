@@ -11,26 +11,11 @@ speaker :
     name : Jez Humble - Keynote
     jobTitle : "Technology Advocate at Google, lecturer at UC Berkeley"
     detailsUrl : "/speakers/jez-humble"
-    
-  - image : images/speakers/angel-rivera.png
-    name : Angel Rivera
-    jobTitle : "Developer Advocate at CircleCi"
-    detailsUrl : "/speakers/angel-rivera"
 
-  - image : images/speakers/coming-soon-logo.png
-    name : Bob Walker
-    jobTitle : "VP of Customer Success at Octopus Deploy"
-    detailsUrl : "/speakers/bob-walker"
-
-  - image : images/speakers/bryan-liles.png
-    name : Bryan Liles
-    jobTitle : "Senior Staff Engineer at VMware"
-    detailsUrl : "/speakers/bryan-liles"
-
-  - image : images/speakers/cat-swetel.jpg
-    name : Cat Swetel
-    jobTitle : "Engineering Manager at Ticketmaster"
-    detailsUrl : "/speakers/cat-swetel"
+  - image : images/speakers/lisa-crispin.jpg
+    name : Lisa Crispin
+    jobTitle : "Testing Advocate at Mabl, Inc."
+    detailsUrl : "/speakers/lisa-crispin"
 
   - image : images/speakers/cora-fedesna.jpg
     name : Cora Fedesna
@@ -42,74 +27,35 @@ speaker :
     jobTitle : "Principal Design Researcher at honeycomb.io"
     detailsUrl : "/speakers/danyel-fisher"
 
-
+  - image : images/speakers/coming-soon-logo.png
+    name : Liz Fong-Jones
+    jobTitle : "Principal Developer Advocate at honeycomb.io"
+    detailsUrl : "/speakers/liz-fong-jones"
 
   - image : images/speakers/emily-gorcenski.jpg
     name : Emily Gorcenski
     jobTitle : "Data Scientist at ThoughtWorks"
     detailsUrl : "/speakers/emily-gorcenski"
 
-  - image : images/speakers/heidi-waterhouse.png
-    name : Heidi Waterhouse
-    jobTitle : "Developer Advocate at LaunchDarkly"
-    detailsUrl : "/speakers/heidi-waterhouse"
-
-  - image : images/speakers/james-wickett.jpg
-    name : James Wickett
-    jobTitle : "Sr. Security Engineer at Verica"
-    detailsUrl : "/speakers/james-wickett"
+  - image : images/speakers/coming-soon-logo.png
+    name : Jimmy Judd
+    jobTitle : "Lead Software Engineer at Ticketmaster"
+    detailsUrl : "/speakers/jimmy-judd"
 
   - image : images/speakers/coming-soon-logo.png
     name : Jessica Kerr
     jobTitle : "Developer at Atomist"
     detailsUrl : "/speakers/jessica-kerr"
 
-
-
-  - image : images/speakers/coming-soon-logo.png
-    name : Jimmy Judd
-    jobTitle : "Lead Software Engineer at Ticketmaster"
-    detailsUrl : "/speakers/jimmy-judd"
-
-  - image : images/speakers/laura-santamaria.jpg
-    name : Laura Santamaria
-    jobTitle : "Developer Advocate at LogDNA"  
-    detailsUrl : "/speakers/laura-santamaria" 
-
-  - image : images/speakers/lisa-crispin.jpg
-    name : Lisa Crispin
-    jobTitle : "Testing Advocate at Mabl, Inc."
-    detailsUrl : "/speakers/lisa-crispin"
-
-  - image : images/speakers/coming-soon-logo.png
-    name : Liz Fong-Jones
-    jobTitle : "Principal Developer Advocate at honeycomb.io"
-    detailsUrl : "/speakers/liz-fong-jones"
-
-  - image : images/speakers/nell-shamrell-harrington.jpg
-    name : Nell Shamrell-Harrington
-    jobTitle : "Principal Engineer at Chef"
-    detailsUrl : "/speakers/nell-shamrell-harrington"
-
-  - image : images/speakers/ryan-rousseau.jpg
-    name : Ryan Rousseau
-    jobTitle : "Continuous Delivery Architect at Octopus Deploy"
-    detailsUrl : "/speakers/ryan-rousseau"
+  - image : images/speakers/bryan-liles.png
+    name : Bryan Liles
+    jobTitle : "Senior Staff Engineer at VMware"
+    detailsUrl : "/speakers/bryan-liles"
 
   - image : images/speakers/coming-soon-logo.png
     name : Scott Nasello
     jobTitle : "Director, Delivery Engineering at Columbia Sportswear"
     detailsUrl : "/speakers/scott-nasello"
-
-  - image : images/speakers/sean-sullivan.png
-    name : Sean Sullivan
-    jobTitle : "Principal Software Engineer at Twilio"
-    detailsUrl : "/speakers/sean-sullivan"
-
-  - image : images/speakers/sonali-shrivastava.jpg
-    name : Sonali Shrivastava
-    jobTitle : "Director, Software Delivery at Coyote Logistics"
-    detailsUrl : "/speakers/sonali-shrivastava"
 
   - image : images/speakers/steve-pereira.jpg
     name : Steve Pereira
@@ -120,3 +66,53 @@ speaker :
     name : Thomas Rayner
     jobTitle : "Sr Security Service Engineer at Microsoft"
     detailsUrl : "/speakers/thomas-rayner"
+
+  - image : images/speakers/angel-rivera.png
+    name : Angel Rivera
+    jobTitle : "Developer Advocate at CircleCi"
+    detailsUrl : "/speakers/angel-rivera"
+
+  - image : images/speakers/ryan-rousseau.jpg
+    name : Ryan Rousseau
+    jobTitle : "Continuous Delivery Architect at Octopus Deploy"
+    detailsUrl : "/speakers/ryan-rousseau"
+
+  - image : images/speakers/laura-santamaria.jpg
+    name : Laura Santamaria
+    jobTitle : "Developer Advocate at LogDNA"  
+    detailsUrl : "/speakers/laura-santamaria" 
+
+  - image : images/speakers/nell-shamrell-harrington.jpg
+    name : Nell Shamrell-Harrington
+    jobTitle : "Principal Engineer at Chef"
+    detailsUrl : "/speakers/nell-shamrell-harrington"
+
+  - image : images/speakers/sonali-shrivastava.jpg
+    name : Sonali Shrivastava
+    jobTitle : "Director, Software Delivery at Coyote Logistics"
+    detailsUrl : "/speakers/sonali-shrivastava"
+
+  - image : images/speakers/sean-sullivan.png
+    name : Sean Sullivan
+    jobTitle : "Principal Software Engineer at Twilio"
+    detailsUrl : "/speakers/sean-sullivan"
+
+  - image : images/speakers/cat-swetel.jpg
+    name : Cat Swetel
+    jobTitle : "Engineering Manager at Ticketmaster"
+    detailsUrl : "/speakers/cat-swetel"
+
+  - image : images/speakers/coming-soon-logo.png
+    name : Bob Walker
+    jobTitle : "VP of Customer Success at Octopus Deploy"
+    detailsUrl : "/speakers/bob-walker"
+
+  - image : images/speakers/heidi-waterhouse.png
+    name : Heidi Waterhouse
+    jobTitle : "Developer Advocate at LaunchDarkly"
+    detailsUrl : "/speakers/heidi-waterhouse"
+
+  - image : images/speakers/james-wickett.jpg
+    name : James Wickett
+    jobTitle : "Sr. Security Engineer at Verica"
+    detailsUrl : "/speakers/james-wickett"
