@@ -102,7 +102,7 @@ speaker :
     jobTitle : "Engineering Manager at Ticketmaster"
     detailsUrl : "/speakers/cat-swetel"
 
-  - image : images/speakers/coming-soon-logo.png
+  - image : images/speakers/bob-walker.jpg
     name : Bob Walker
     jobTitle : "VP of Customer Success at Octopus Deploy"
     detailsUrl : "/speakers/bob-walker"

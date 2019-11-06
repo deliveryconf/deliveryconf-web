@@ -1,7 +1,7 @@
 ---
 title: "Bob Walker"
 draft: false
-image : images/speakers/coming-soon-logo.png
+image : images/speakers/bob-walker.jpg
 twitter : "https://twitter.com/codeapertureio"
 ---
 
