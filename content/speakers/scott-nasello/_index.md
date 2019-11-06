@@ -1,7 +1,7 @@
 ---
 title: "Scott Nasello"
 draft: false
-image : images/speakers/coming-soon-logo.png
+image : images/speakers/scott-nasello.jpg
 twitter : "https://twitter.com/scottnasello"
 ---
 
