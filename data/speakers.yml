@@ -12,6 +12,11 @@ speaker :
     jobTitle : "Technology Advocate at Google, lecturer at UC Berkeley"
     detailsUrl : "/speakers/jez-humble"
 
+  - image : images/speakers/david-aronchick.jpg
+    name : David Aronchick
+    jobTitle : Head of OSS ML Strategy at Microsoft
+    detailsUrl : "/speakers/david-aronchick"
+
   - image : images/speakers/lisa-crispin.jpg
     name : Lisa Crispin
     jobTitle : "Testing Advocate at Mabl, Inc."
@@ -38,14 +43,14 @@ speaker :
     detailsUrl : "/speakers/emily-gorcenski"
 
   - image : images/speakers/coming-soon-logo.png
-    name : Jimmy Judd
-    jobTitle : "Lead Software Engineer at Ticketmaster"
-    detailsUrl : "/speakers/jimmy-judd"
-
-  - image : images/speakers/coming-soon-logo.png
     name : Jessica Kerr
     jobTitle : "Developer at Atomist"
     detailsUrl : "/speakers/jessica-kerr"
+
+  - image : images/speakers/coming-soon-logo.png
+    name : Jimmy Judd
+    jobTitle : "Lead Software Engineer at Ticketmaster"
+    detailsUrl : "/speakers/jimmy-judd"
 
   - image : images/speakers/bryan-liles.png
     name : Bryan Liles
