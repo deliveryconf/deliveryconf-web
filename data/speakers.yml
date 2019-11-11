@@ -107,6 +107,11 @@ speaker :
     jobTitle : "Engineering Manager at Ticketmaster"
     detailsUrl : "/speakers/cat-swetel"
 
+  - image : images/speakers/maryam-umar.png
+    name : Maryam Umar
+    jobTitle: "Head Of Quality at Thought Machine"
+    detailsUrl : "/speakers/maryam-umar"
+
   - image : images/speakers/bob-walker.jpg
     name : Bob Walker
     jobTitle : "VP of Customer Success at Octopus Deploy"

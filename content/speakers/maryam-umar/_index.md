@@ -1,12 +1,11 @@
 ---
-title: "Jez Humble"
+title: "Maryam Umar"
 draft: false
-image : images/speakers/jez-humble.jpg
-twitter: "https://twitter.com/jezhumble"
-website: "https://continuousdelivery.com/about/"
+image : images/speakers/maryam-umar.png
+twitter : "https://twitter.com/maryamumar"
 ---
 
-Jez Humble is co-author of several books on software including Shingo Publication Award winner Accelerate and Jolt Award winner Continuous Delivery. He has spent his career tinkering with code, infrastructure, and product development in companies of varying sizes across three continents. He works for Google Cloud as a technology advocate, and teaches at UC Berkeley.
+Maryam Umar works in London as Head of QA of a Fintech firm. She started her career thirteen years ago as a QA test engineer in the finance and mobile industry. After transitioning to the eCommerce sector, Maryam performed QA in various capacities for online restaurant and travel services. She now works in QA as a manager with special focus on sustainable delivery practices. In addition to this, Maryam has been a keen advocate of creating and sustaining diverse teams.
 
 ### What is quality, and how should we build it in? 
 
