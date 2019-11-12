@@ -4,7 +4,7 @@ headingSpan : Team
 teamMember :
   - image : images/team/ken-mugrage.png
     name : Ken Mugrage
-    description : "In his day job, Ken is a Continuous Delivery and DevOps Advocate for ThoughtWorks. 
+    description : "Ken is a Principal Technologist with the ThoughtWorks Office of the CTO. 
                 He also helps organize DevOpsDays on both the Seattle and global team."
     socialIcon :
       - icon : tf-ion-social-twitter
