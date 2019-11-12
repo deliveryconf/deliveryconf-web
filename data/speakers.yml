@@ -2,24 +2,11 @@ enable : true
 heading : Our Speakers
 speaker :
 
-<<<<<<< HEAD
-=======
-  - image : images/speakers/david-farley.jpg
-    name : Dave Farley - Keynote
-    jobTitle : "Independent software consultant, founder and director of Continuous Delivery Ltd"
-    detailsUrl : "/speakers/dave-farley"
-
-  - image : images/speakers/jez-humble.jpg
-    name : Jez Humble - Keynote
-    jobTitle : "Technology Advocate at Google, lecturer at UC Berkeley"
-    detailsUrl : "/speakers/jez-humble"
-
   - image : images/speakers/david-aronchick.jpg
     name : David Aronchick
     jobTitle : Head of OSS ML Strategy at Microsoft
     detailsUrl : "/speakers/david-aronchick"
 
->>>>>>> 34f5f62be2dfe6c7d11481bad1d38d19675c9686
   - image : images/speakers/lisa-crispin.jpg
     name : Lisa Crispin
     jobTitle : "Testing Advocate at Mabl, Inc."
