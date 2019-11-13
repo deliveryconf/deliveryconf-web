@@ -15,12 +15,12 @@ summaryLength = 10
     
     [[menu.nav]]
     name = "Speakers"
-    URL = "#speakers"
+    URL = "#keynote-nav"
     weight = 1
 
     [[menu.nav]]
     name = "About"
-    URL = "#about"
+    URL = "#about-nav"
     weight = 2
 
     [[menu.nav]]
@@ -30,27 +30,27 @@ summaryLength = 10
 
     [[menu.nav]]
     name = "Propose"
-    URL = "#propose"
+    URL = "#propose-nav"
     weight = 4
 
     [[menu.nav]]
     name = "Register"
-    URL = "#register"
+    URL = "#register-nav"
     weight = 5
 
     [[menu.nav]]
     name = "Sponsor"
-    URL = "#sponsor-list"
+    URL = "#sponsor-list-nav"
     weight = 6
 
     [[menu.nav]]
     name = "Location"
-    URL = "#location"
+    URL = "#location-nav"
     weight = 7
 
     [[menu.nav]]
     name = "Team"
-    URL = "#our-team"
+    URL = "#our-team-nav"
     weight = 8
 
     [[menu.nav]]
