@@ -258,6 +258,16 @@ a:hover {
   padding: 100px 0;
 }
 
+.keynote {
+    padding-bottom: 10px;
+    border-bottom: 10px;
+}
+
+.speakers {
+    padding-top: 10px;
+    border-top: 10px;
+}
+
 @media (max-width: 480px) {
   .section {
     padding: 50px 0;
@@ -700,6 +710,10 @@ a:hover {
 /*=================================================================
   Location section
 ==================================================================*/
+.location-nav {
+  background: #292F36;
+}
+
 .location .block {
   background: #242930;
   padding: 30px;
@@ -788,6 +802,11 @@ a:hover {
 /*=================================================================
   About us 2 section
 ==================================================================*/
+.about-nav {
+    background: #292f36;
+}
+
+
 .about-2 .content-block {
   padding: 40px;
 }
@@ -973,6 +992,10 @@ a:hover {
 /*=================================================================
   Propose section
 ==================================================================*/
+.propose-nav {
+  background: #292F36;
+}
+
 .propose-content p { 
   font-size: 16px;
   color: #f2eeee;

@@ -1,5 +1,6 @@
 {{ if .Site.Data.propose.enable}}
 {{"<!-- Start Propose section -->" | safeHTML}}
+<section id="propose-nav" class="propose-nav"><span>&nbsp;</span></section>
 <section id="propose" class="propose section-sm bg-1 overly">
     <div class="container">
         <div class="row">
@@ -21,14 +22,9 @@
                     </div>
                     {{ end }}
                 </div>
-                <div class="propose-cfp">
-                    {{ with .Site.Data.propose.cfpDeadline }} <p>{{ . }}</p> {{ end }}
-                </div>
 
-                <div class="propose-button">
-                    <a href="{{ .Site.Data.propose.btnURL }}" target="_blank" class="btn btn-main"
-                        id="{{ with .Site.Data.propose.btnId}}{{ . }}{{end}}">{{ with .Site.Data.propose.btnText }}
-                        {{ . }} {{end}}</a>
+                <div class="propose-cfp">
+		  <p>Thank you for your interest, but the Call for Proposals closed on Oct 15th. </p>
                 </div>
             </div>
         </div>
