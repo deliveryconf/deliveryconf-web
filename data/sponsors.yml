@@ -34,6 +34,11 @@ sponsor :
     level : "silver"
     url : "https://www.concur.com/"
 
+  - image : images/sponsors/launchdarkly.png
+    name : "LaunchDarkly"
+    level : "silver"
+    url : "https://launchdarkly.com/"
+
   - image : images/sponsors/arresteddevops.png
     name : Arrested DevOps
     level : "community"
