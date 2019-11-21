@@ -1,7 +1,7 @@
 ---
 title: "Jessica Kerr"
 draft: false
-image : images/speakers/coming-soon-logo.png
+image : images/speakers/jessica-kerr.jpg
 twitter: "https://twitter.com/jessitron"
 
 ---

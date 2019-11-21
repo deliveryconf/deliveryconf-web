@@ -43,3 +43,8 @@ sponsor :
     name : Arrested DevOps
     level : "community"
     url : "https://www.arresteddevops.com/"
+
+  - image : images/sponsors/software-defined-talk.jpg
+    name : Software Defined Talk
+    level : "community"
+    url : "https://www.softwaredefinedtalk.com/"
