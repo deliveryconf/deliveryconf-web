@@ -1,0 +1,64 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+{{ if .Content}}
+<section class="section section-bg">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="title text-center">
+                    <h2> {{ .Title }}</h2>
+                    <div class="border-meghna"></div>
+                </div>
+            </div>
+            <div class="col-lg-1 col-md-0 col-0"></div>
+            <div class="col-lg-4 col-md-6 col-12 text-center speaker-photo">
+                {{"<!-- speaker photo -->" | safeHTML}}
+                <img class="img-fluid" src="{{ if .Params.Image }} {{.Params.Image | absURL}} {{ end }}" style="max-width: 95%;" alt="speaker">
+            </div>
+            <div class="col-lg-5 col-md-6 col-12 content">
+                {{ .Content }}
+                <hr>
+                <div class="list-group">
+
+                    {{ with .Params.twitter }}
+                    <div>
+                        <i class="tf-ion-social-twitter-outline mr-1"></i>
+                        <span>Twitter: <a href="{{.}}" target="_blank">{{.}}</a>
+                        </span>
+                    </div>
+                    {{ end }}
+
+                    {{ with .Params.blog }}
+                    <div>
+                        <i class="tf-ion-social-dribbble-outline mr-1"></i>
+                        <span>Blog: <a href="{{.}}" target="_blank">{{.}}</a>
+                        </span>
+                    </div>
+                    {{ end }}
+
+                    {{ with .Params.website }}
+                    <div>
+                        <i class="tf-ion-social-dribbble-outline mr-1"></i>
+                        <span>Website: <a href="{{.}}" target="_blank">{{.}}</a>
+                        </span>
+                    </div>
+                    {{ end }}
+
+                    {{ with .Params.companyWebsite }}
+                    <div>
+                        <i class="tf-ion-social-dribbble-outline mr-1"></i>
+                        <span>Company Website: <a href="{{.}}" target="_blank">{{.}}</a>
+                        </span>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+
+</section>
+{{ end }}
+
+{{ end }}
+
