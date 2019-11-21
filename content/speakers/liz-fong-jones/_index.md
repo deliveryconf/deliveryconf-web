@@ -1,7 +1,7 @@
 ---
 title: "Liz Fong-Jones"
 draft: false
-image : images/speakers/coming-soon-logo.png
+image : images/speakers/liz-fong-jones.jpg
 twitter : "https://twitter.com/lizthegrey"
 ---
 

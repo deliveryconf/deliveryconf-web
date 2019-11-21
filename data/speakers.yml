@@ -17,12 +17,12 @@ speaker :
     jobTitle : "Software Engineer at ActiveCampaign"
     detailsUrl : "/speakers/cora-fedesna"
 
-  - image : images/speakers/coming-soon-logo.png
+  - image : images/speakers/danyel-fisher.jpg
     name : Danyel Fisher
     jobTitle : "Principal Design Researcher at honeycomb.io"
     detailsUrl : "/speakers/danyel-fisher"
 
-  - image : images/speakers/coming-soon-logo.png
+  - image : images/speakers/liz-fong-jones.jpg
     name : Liz Fong-Jones
     jobTitle : "Principal Developer Advocate at honeycomb.io"
     detailsUrl : "/speakers/liz-fong-jones"
@@ -32,7 +32,7 @@ speaker :
     jobTitle : "Data Scientist at ThoughtWorks"
     detailsUrl : "/speakers/emily-gorcenski"
 
-  - image : images/speakers/coming-soon-logo.png
+  - image : images/speakers/jessica-kerr.jpg
     name : Jessica Kerr
     jobTitle : "Developer at Atomist"
     detailsUrl : "/speakers/jessica-kerr"

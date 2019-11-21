@@ -1,7 +1,7 @@
 ---
 title: "Danyel Fisher"
 draft: false
-image : images/speakers/coming-soon-logo.png
+image : images/speakers/danyel-fisher.jpg
 twitter : "https://twitter.com/fisherdanyel"
 ---
 
