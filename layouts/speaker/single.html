@@ -12,13 +12,14 @@
                     <div class="border-meghna"></div>
                 </div>
             </div>
+
+            {{/*  Adding space on wide screens  */}}
             <div class="col-lg-1 col-md-0 col-0"></div>
-            <div class="col-lg-4 col-md-6 col-12 text-center speaker-photo">
+            
+            {{/*  Speaker social media  */}}
+            <div class="col-lg-4 col-md-6 col-12  speaker-photo">
                 {{"<!-- speaker photo -->" | safeHTML}}
-                <img class="img-fluid" src="{{ if .Params.Image }} {{.Params.Image | absURL}} {{ end }}" style="max-width: 95%;" alt="speaker">
-            </div>
-            <div class="col-lg-5 col-md-6 col-12 content">
-                {{ .Content }}
+                <img class="img-fluid" class="text-center" src="{{ if .Params.Image }} {{.Params.Image | absURL}} {{ end }}" style="max-width: 95%;" alt="speaker">
                 <hr>
                 <div class="list-group">
 
@@ -54,6 +55,12 @@
                     </div>
                     {{ end }}
                 </div>
+            </div>
+
+            {{/*  Speaker bio  */}}
+            <div class="col-lg-5 col-md-6 col-12 content">
+                {{ .Content }}
+                
             </div>
         </div>
 

@@ -3,6 +3,7 @@ title: "Ryan Rousseau"
 draft: false
 image : images/speakers/ryan-rousseau.jpg
 twitter : "https://twitter.com/ryanrousseau"
+type: "speaker"
 ---
 
 Ryan works with some of Octopus Deploy's largest customers to help them be successful in their continuous delivery efforts. He is also active in the broader Octopus community answering questions in Slack, recording videos for the Ask Octopus series, and visiting conferences and user groups to speak about CI/CD and Octopus Deploy.
