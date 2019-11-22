@@ -1,4 +1,4 @@
-enable : true
+enable : false
 heading : Call for
 headingSpan : Proposals
 content : "Have an idea for a great technical talk on Continuous Delivery related to any of the following topics or additional ones?"
