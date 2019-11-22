@@ -1,14 +1,11 @@
 ---
-title: "Scott Nasello"
+title: "Continuous Delivery for Azure Serverless/PaaS"
 draft: false
 image : images/speakers/scott-nasello.jpg
 twitter : "https://twitter.com/scottnasello"
-type: "speaker"
+type: "talk"
+speakers: ["scott-nasello"]
 ---
-
-Scott Nasello is the Director of Delivery Engineering at Columbia Sportswear where he has responsibility for Continuous Delivery, Enterprise Change & Release, and Columbia's technical environments.
-
-###  Continuous Delivery for Azure Serverless/PaaS 
 
 In 2017 Columbia Sportswear decided to be a "Cloud First" organization and we decided to skip over IaaS altogether. By focusing on Serverless componentry we'd be more transformational, save money, and spend more time focused on our mission.
 

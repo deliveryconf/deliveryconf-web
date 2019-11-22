@@ -1,13 +1,10 @@
 ---
-title: "Sonali Shrivastava"
+title: "Project Smooth - Streamlined Software Delivery Initiative "
 draft: false
 image : images/speakers/sonali-shrivastava.jpg
-type: "speaker"
+type: "talk"
+speakers: ["sonali-shrivastava"]
 ---
-
-Sonali Shrivastava is the Director of Software Delivery at Coyote Logistics with 13 years of software development and delivery experience. She began her career as a Research Intern at Microsoft and holds a Masters in Information Technology from the International Institute of Information Technology – Bangalore. Currently, Sonali leads the adoption and implementation of DevOps across the organization including building of CI/CD Pipeline and automation of Quality Assurance (CT) using data as the key for predictions with Automation. Sonali is a Thought Leader and has a way of simplifying even the most complex problems and teaches her teams how to dissect and think through scenarios without impeding progress.
-
-###  Project Smooth - Streamlined Software Delivery Initiative 
 
 Continuous Delivery is fairly easy to implement in a tech startup. When you must adopt the practice across 10s or 100s of teams with legacy infrastructure, monolithic enterprise deployments, governance, and security concerns - it's not so simple.
 

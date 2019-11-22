@@ -12,16 +12,3 @@ Before joining the Customer Success team at Octopus, Ryan was a developer and ha
 
 Outside of developing and advocating, Ryan performs comedy around Dallas, belongs to two needy cats, and likes to travel to new places and sampling their vegan food.
 
-###  How we fixed our broken deployment process 
-
-The year is 2013. My team develops a web application with a mix of modern and very legacy components. Our deployments were a mess. They were cumbersome, error prone, and time consuming. Most deployments caused some level of system instability afterwards. And that was just our production deployments! Refreshing any development or test system was a challenge that could derail a developer's day. Something had to change.
-
-This is the story about that change. In this session, I'll talk about the tools and patterns that we adopted, the results that we had, and the lessons we learned along the way.
-
-Concepts covered:
-
-- Iteration Zero
-- Build Systems
-- Automated Deployments
-- Continuous Integration
-- Continuous Delivery

@@ -1,16 +1,11 @@
 ---
-title: "Steve Pereira"
+title: "Where's the map of your pipeline"
 draft: false
 image : images/speakers/steve-pereira.jpg
 twitter : "https://twitter.com/steveElsewhere"
-type: "speaker"
+type: "talk"
+speakers: ["steve-pereira"]
 ---
-
-Steve has had experience with complex, scaling organizations since being born into the middle of a family of what is now 6 kids. Ever since he was an infant, he's been taking things apart (starting with rotary phones and typewriters!) and reimagining how they fit together. He once moved into his closet for a week because it would keep his room clean and bed made without touching it. He's become a bit more practical and less idealistic over the years, but no less obsessed with simplicity and optimization. He was always encouraged to be curious and resourceful and to speak up, experiment and think big - and that's always how he's lived and worked.
-
-He spends warm months in Toronto and cold months trying to escape.
-
-###  Where's the map of your pipeline? 
 
 My first delivery pipeline was shipped through the mail. I couldn't avoid the mail at the time, but I did shrink the delivery process from 1 week to 4 hours in a few days. We've come a long way since then, and yet in many ways, many teams are often driving blind. In an age of near-limitless instrumentation, automation, and observability, we can still miss the forest for the trees. Many teams are drowning in data, and blindly automating their way under a pile of expensive errors. Implementing massive or disconnected systems is a huge, costly undertaking.
 

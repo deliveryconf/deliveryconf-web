@@ -3,7 +3,8 @@ title: "Heidi Waterhouse"
 draft: false
 image : images/speakers/heidi-waterhouse.png
 twitter: "https://twitter.com/wiredferret"
-type: "speaker"
+type: "talk"
+speakers: ["x"]
 
 ---
 

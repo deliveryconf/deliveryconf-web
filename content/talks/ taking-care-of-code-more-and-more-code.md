@@ -1,15 +1,12 @@
 ---
-title: "Jessica Kerr"
+title: "Taking Care of Code ... More and More Code"
 draft: false
 image : images/speakers/jessica-kerr.jpg
 twitter: "https://twitter.com/jessitron"
-type: "speaker"
+type: "talk"
+speakers: ["jessica-kerr"]
 
 ---
-
-Jessica Kerr (Atomist) is a developer of development automation. She also speaks at conferences around the world, including keynotes last year at Velocity, RubyConf, Uberconf, and more. She is a panelist on the podcasts Arrested DevOps and Greater than Code. She works remotely from St Louis, MO. Find her at blog.jessitron.com or on twitter @jessitron.
-
-### Taking Care of Code ... More and More Code
 
 How many repositories does your organization have?
 
