@@ -71,7 +71,7 @@
 
                 <div>
                     {{/*  Talk description  */}}
-                    <ul class="list-group">
+                    <ul class="list-unstyled">
                         {{- $.Scratch.Set "speaker" .File.BaseFileName -}}
                         {{ range where $.Site.Pages "Type" "talk"  }}
                         <!-- Now we can display stuff! -->
@@ -81,7 +81,9 @@
                         {{- end -}}
                         {{- end -}}
                         {{- if eq ($.Scratch.Get "display") "true" -}}
+                    <li>
                         <a href="{{ .Permalink }}" class="list-group-item list-group-item-action">{{ .Title }}</a>
+                    </li>
                         {{ $.Scratch.Set "display" "false" }}
                         {{- end -}}
                         {{- end -}}

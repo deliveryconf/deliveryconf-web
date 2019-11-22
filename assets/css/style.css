@@ -1647,8 +1647,12 @@ a.fill-mask {
   background: white;
 }
 
-.talk-description{
- 
+.speaker-info-talk-page{
+  padding-bottom: 15px;
+}
+
+.speaker-name-talk-page{
+  padding-top:10px;
 }
 
 /*=================================================================
