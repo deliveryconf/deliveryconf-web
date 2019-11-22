@@ -160,14 +160,17 @@ var wow = new WOW({
 	mobile: false // trigger animations on mobile devices (default is true)
 });
 
+// Sasha: disable the scroll-only content appearance
+// This may be slower, but makes the site more searchable
+
 //https://github.com/matthieua/WOW/issues/196#issuecomment-348734401
-var scrolled = false;
-$(window).on('scroll', function () {
-	if (!scrolled) {
-		scrolled = true;
-		wow.init();
-	}
-})
+// var scrolled = false;
+// $(window).on('scroll', function () {
+// 	if (!scrolled) {
+// 		scrolled = true;
+// 		wow.init();
+// 	}
+// })
 
 /* ========================================================================= */
 /*	Google Map Customization
