@@ -1,0 +1,115 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+{{ if .Content}}
+<section class="section section-bg">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+
+            </div>
+
+            {{/*  Adding space on wide screens  */}}
+            <div class="col-lg-1 col-md-0 col-0"></div>
+
+            {{/*  Talk Description  */}}
+            <div class="col-lg-6 col-md-8 col-12 content talk-description">
+                <div class="title text-center">
+                    <h2> {{ .Title }}</h2>
+                    <div class="border-meghna"></div>
+                </div>
+                {{ .Content }}
+
+            </div>
+
+            {{/*  Adding space on wide screens  */}}
+            <div class="col-lg-1 col-md-0 col-0"></div>
+
+
+            {{/*  Speaker section  */}}
+            <div class="col-lg-3 col-md-4 col-12  speaker-section">
+
+                {{/*  Iterate over speakers  */}}
+                <ul class="list-unstyled">
+                    {{- range .Params.speakers -}}
+                    <li class="speaker-info-talk-page">
+                        {{/*  Single speaker  */}}
+                        {{- $.Scratch.Set "speakername" . -}}
+                        {{- $p := $.Site.GetPage (printf "speakers/%s" ($.Scratch.Get "speakername")) -}}
+                        {{- if $p -}}
+                        {{- with $p -}}
+
+                        {{/*  Speaker photo  */}}
+                        {{- if isset .Params "image" -}}
+                        {{- if ne .Params.image "" -}}
+
+                        <div class="text-center">
+                            {{"<!-- speaker photo -->" | safeHTML}}
+                            <img class="img-fluid" src="{{ if .Params.Image }} {{.Params.Image | absURL}} {{ end }}"
+                                style="max-width: 95%;" alt="speaker">
+                        </div>
+
+                        {{- end -}}
+                        {{- end -}}
+
+                        {{/*  Speaker name  */}}
+                        <div class="speaker-name-talk-page">
+                            <h3> <a href="{{$p.Permalink}}">{{.Params.Title}}</a></h3>
+                        </div>
+
+                        <hr>
+                        <div class="list-group">
+
+                            {{ with .Params.twitter }}
+                            <div>
+                                <i class="tf-ion-social-twitter-outline mr-1"></i>
+                                <span>Twitter: <a href="{{.}}" target="_blank">{{.}}</a>
+                                </span>
+                            </div>
+                            {{ end }}
+
+                            {{ with .Params.blog }}
+                            <div>
+                                <i class="tf-ion-social-dribbble-outline mr-1"></i>
+                                <span>Blog: <a href="{{.}}" target="_blank">{{.}}</a>
+                                </span>
+                            </div>
+                            {{ end }}
+
+                            {{ with .Params.website }}
+                            <div>
+                                <i class="tf-ion-social-dribbble-outline mr-1"></i>
+                                <span>Website: <a href="{{.}}" target="_blank">{{.}}</a>
+                                </span>
+                            </div>
+                            {{ end }}
+
+                            {{ with .Params.companyWebsite }}
+                            <div>
+                                <i class="tf-ion-social-dribbble-outline mr-1"></i>
+                                <span>Company Website: <a href="{{.}}" target="_blank">{{.}}</a>
+                                </span>
+                            </div>
+                            {{ end }}
+                        </div>
+
+                        {{/*  Speaker bio  */}}
+                        <hr>
+                        <div class="speaker-bio-short" >
+                            {{.Content }}
+                        </div>
+                    </li>
+                    {{- end -}}
+                    {{- end -}}
+                    {{- end -}}
+                </ul>
+            </div>
+
+
+        </div>
+
+</section>
+{{ end }}
+
+{{ end }}

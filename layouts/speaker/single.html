@@ -1,0 +1,101 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+{{ if .Content}}
+<section class="section section-bg">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+
+            </div>
+
+            {{/*  Adding space on wide screens  */}}
+            <div class="col-lg-1 col-md-0 col-0"></div>
+
+            {{/*  Speaker social media  */}}
+            <div class="col-lg-4 col-md-6 col-12 ">
+                {{"<!-- speaker photo -->" | safeHTML}}
+                <img class="img-fluid" class="text-center"
+                    src="{{ if .Params.Image }} {{.Params.Image | absURL}} {{ end }}" style="max-width: 95%;"
+                    alt="speaker">
+                <hr>
+                <div class="list-group">
+
+                    {{ with .Params.twitter }}
+                    <div>
+                        <i class="tf-ion-social-twitter-outline mr-1"></i>
+                        <span>Twitter: <a href="{{.}}" target="_blank">{{.}}</a>
+                        </span>
+                    </div>
+                    {{ end }}
+
+                    {{ with .Params.blog }}
+                    <div>
+                        <i class="tf-ion-social-dribbble-outline mr-1"></i>
+                        <span>Blog: <a href="{{.}}" target="_blank">{{.}}</a>
+                        </span>
+                    </div>
+                    {{ end }}
+
+                    {{ with .Params.website }}
+                    <div>
+                        <i class="tf-ion-social-dribbble-outline mr-1"></i>
+                        <span>Website: <a href="{{.}}" target="_blank">{{.}}</a>
+                        </span>
+                    </div>
+                    {{ end }}
+
+                    {{ with .Params.companyWebsite }}
+                    <div>
+                        <i class="tf-ion-social-dribbble-outline mr-1"></i>
+                        <span>Company Website: <a href="{{.}}" target="_blank">{{.}}</a>
+                        </span>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+
+            {{/*  Speaker info  */}}
+            <div class="col-lg-5 col-md-6 col-12 content">
+                <div class="title text-center">
+                    {{/*  Speaker name  */}}
+                    <h2> {{ .Title }}</h2>
+                    <div class="border-meghna"></div>
+                </div>
+
+                <div>
+                    {{/*  Speaker bio  */}}
+                    {{ .Content }}
+                </div>
+
+                <div>
+                    {{/*  Talk description  */}}
+                    <ul class="list-unstyled">
+                        {{- $.Scratch.Set "speaker" .File.BaseFileName -}}
+                        {{ range where $.Site.Pages "Type" "talk"  }}
+                        <!-- Now we can display stuff! -->
+                        {{- range .Params.speakers -}}
+                        {{- if eq . ($.Scratch.Get "speaker") -}}
+                        {{- $.Scratch.Set "display" "true" -}}
+                        {{- end -}}
+                        {{- end -}}
+                        {{- if eq ($.Scratch.Get "display") "true" -}}
+                    <li>
+                        <a href="{{ .Permalink }}" class="list-group-item list-group-item-action">{{ .Title }}</a>
+                    </li>
+                        {{ $.Scratch.Set "display" "false" }}
+                        {{- end -}}
+                        {{- end -}}
+                        <!-- end range where -->
+                    </ul>
+                </div>
+
+            </div>
+
+        </div>
+
+</section>
+{{ end }}
+
+{{ end }}

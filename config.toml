@@ -28,10 +28,10 @@ summaryLength = 10
     URL = "/format"
     weight = 3
 
-    [[menu.nav]]
-    name = "Propose"
-    URL = "#propose-nav"
-    weight = 4
+    # [[menu.nav]]
+    # name = "Propose"
+    # URL = "#propose-nav"
+    # weight = 4
 
     [[menu.nav]]
     name = "Register"
@@ -126,7 +126,7 @@ custom_css = ["css/custom.css"]
 
     # propose
     [params.propose]
-    enable = true
+    enable = false
     title = "Propose"
 
     # register
