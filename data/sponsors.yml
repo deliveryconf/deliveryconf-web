@@ -19,6 +19,16 @@ sponsor :
     level : "gold"
     url : "https://cloud.google.com"
 
+  - image : images/sponsors/microsoft-azure.png
+    name : Microsoft Azure
+    level : "gold"
+    url : "https://azure.microsoft.com/"
+
+  - image : images/sponsors/liatrio.png
+    name : "Liatrio"
+    level : "gold"
+    url : "https://www.liatrio.com/"
+
   - image : images/sponsors/harness.png
     name : Harness.io
     level : "silver"
@@ -48,8 +58,3 @@ sponsor :
     name : Software Defined Talk
     level : "community"
     url : "https://www.softwaredefinedtalk.com/"
-
-  - image : images/sponsors/microsoft-azure.png
-    name : Microsoft Azure
-    level : "gold"
-    url : "https://azure.microsoft.com/"
