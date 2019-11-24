@@ -60,6 +60,10 @@
 
                         <hr>
                         <div class="list-group">
+                            <div>
+                                <span><a href="{{$p.Permalink}}">Read more about {{.Params.Title}}</a>
+                                </span>
+                            </div>
 
                             {{ with .Params.twitter }}
                             <div>
@@ -94,11 +98,6 @@
                             {{ end }}
                         </div>
 
-                        {{/*  Speaker bio  */}}
-                        <hr>
-                        <div class="speaker-bio-short" >
-                            {{.Content }}
-                        </div>
                     </li>
                     {{- end -}}
                     {{- end -}}
