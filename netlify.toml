@@ -2,9 +2,11 @@
 # repository branch will inherit these settings.
 
 [context.production.environment]
-   HUGO_VERSION = "0.55.1"
+  command = "bin/netlify-production.sh"
+  HUGO_VERSION = "0.55.1"
 
 [context.deploy-preview.environment]
+  command = "bin/netlify-dev.sh"
   HUGO_VERSION = "0.55.1"
 
 [context.branch-deploy.environment]
