@@ -10,4 +10,5 @@
   HUGO_VERSION = "0.55.1"
 
 [context.branch-deploy.environment]
+  command = "bin/netlify-dev.sh"
   HUGO_VERSION = "0.55.1"
