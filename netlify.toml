@@ -2,10 +2,22 @@
 # repository branch will inherit these settings.
 
 [context.production.environment]
-   HUGO_VERSION = "0.55.1"
+  HUGO_VERSION = "0.55.1"
+
+[context.deploy-preview]
+  command = "hugo --gc --baseURL $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.55.1"
 
+[context.branch-deploy]
+  command = "hugo --gc --baseURL $DEPLOY_PRIME_URL"
+
 [context.branch-deploy.environment]
+  HUGO_VERSION = "0.55.1"
+
+[context.development]
+  command = "hugo --gc --baseURL $DEPLOY_PRIME_URL"
+
+[context.development.environment]
   HUGO_VERSION = "0.55.1"
