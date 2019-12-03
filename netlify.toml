@@ -16,8 +16,5 @@
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.55.1"
 
-[context.development]
-  command = "hugo --gc --baseURL $DEPLOY_PRIME_URL"
-
-[context.development.environment]
-  HUGO_VERSION = "0.55.1"
+[dev]
+  command = "hugo server --gc --baseURL $DEPLOY_PRIME_URL"
