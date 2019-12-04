@@ -5,6 +5,10 @@ title = "DeliveryConf"
 theme = "meghna-hugo"
 summaryLength = 10
 
+# Allow HTML
+[markup.goldmark.renderer]
+unsafe= true
+
 [taxonomies]
   author = "author"
   category = "categories"
