@@ -2759,3 +2759,13 @@ background-color: #FF6600
   background-color: #4B97D1;}
 
 /*# sourceMappingURL=maps/style.css.map */
+
+.schedule {
+  border: 1px solid black;
+  color: white;
+}
+
+.schedule-header {
+  text-align: center;
+  font-weight: bold;
+}
