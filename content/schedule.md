@@ -75,11 +75,11 @@ layout: static-page
       - <a href="/speakers/lisa-crispin/">Lisa Crispin</a>
     </div>
         <div class="col-md schedule">
-      - <a href="//talks/lessons-i-learned-about-automating-database-deployments/">Lessons I learned about Automating Database Deployments</a><br>
+      - <a href="/talks/lessons-i-learned-about-automating-database-deployments/">Lessons I learned about Automating Database Deployments</a><br>
       - <a href="/speakers/bob-walker/">Bob Walker</a>
     </div>
         <div class="col-md schedule">
-      - <a href="//talks/ci-cd-for-powershell-that-isnt-a-mess/">CI/CD for PowerShell That Isn't a Mess</a><br>
+      - <a href="/talks/ci-cd-for-powershell-that-isnt-a-mess/">CI/CD for PowerShell That Isn't a Mess</a><br>
       - <a href="/speakers/thomas-rayner/">Thomas Rayner</a>
     </div>
   </div>
