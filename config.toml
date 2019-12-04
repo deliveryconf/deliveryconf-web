@@ -53,8 +53,8 @@ unsafe= true
     weight = 7
 
     [[menu.nav]]
-    name = "Team"
-    URL = "#our-team-nav"
+    name = "Schedule"
+    URL = "/schedule"
     weight = 8
 
     [[menu.nav]]
