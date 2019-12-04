@@ -27,7 +27,6 @@ layout: static-page
       Opening Welcome
     </div>
   </div>
-
   <div class="row">
     <div class="col-md-3 schedule">
       9:15 - 9:50
@@ -37,7 +36,6 @@ layout: static-page
       <a href="/speakers/dave-farley/">Dave Farley</a> - <a href="/speakers/jez-humble/">Jez Humble</a>
     </div>
   </div>
-
   <div class="row">
     <div class="col-md-3 schedule">
       9:50 - 10:10
@@ -46,7 +44,6 @@ layout: static-page
       Group Discussion<br>
     </div>
   </div>
-
   <div class="row">
     <div class="col-md-3 schedule">
       10:10 - 10:30
@@ -55,7 +52,6 @@ layout: static-page
       Break<br>
     </div>
   </div>
-
   <div class="row">
     <div class="col-md schedule">
       &nbsp;
@@ -70,7 +66,6 @@ layout: static-page
       Room 3
     </div>
   </div>
-
   <div class="row">
     <div class="col-md schedule">
       10:30 - 11:20
@@ -88,7 +83,6 @@ layout: static-page
       - <a href="/speakers/thomas-rayner/">Thomas Rayner</a>
     </div>
   </div>
-
   <div class="row">
     <div class="col-md-3 schedule">
       11:20 - 11:40
@@ -97,5 +91,4 @@ layout: static-page
       Break<br>
     </div>
   </div>
-
 </div>
