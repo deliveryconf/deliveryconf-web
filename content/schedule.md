@@ -71,16 +71,13 @@ layout: static-page
       10:30 - 11:20
     </div>
     <div class="col-md schedule">
-      - <a href="/talks/a-whole-team-approach-to-testing-in-continuous-delivery/">A Whole Team Approach to Testing in Continuous Delivery</a><br>
-      - <a href="/speakers/lisa-crispin/">Lisa Crispin</a>
+      <a href="/talks/a-whole-team-approach-to-testing-in-continuous-delivery/">A Whole Team Approach to Testing in Continuous Delivery - Lisa Crispin</a>
     </div>
         <div class="col-md schedule">
-      - <a href="/talks/lessons-i-learned-about-automating-database-deployments/">Lessons I learned about Automating Database Deployments</a><br>
-      - <a href="/speakers/bob-walker/">Bob Walker</a>
+      <a href="/talks/lessons-i-learned-about-automating-database-deployments/">Lessons I learned about Automating Database Deployments - Bob Walker</a>
     </div>
         <div class="col-md schedule">
-      - <a href="/talks/ci-cd-for-powershell-that-isnt-a-mess/">CI/CD for PowerShell That Isn't a Mess</a><br>
-      - <a href="/speakers/thomas-rayner/">Thomas Rayner</a>
+      <a href="/talks/ci-cd-for-powershell-that-isnt-a-mess/">CI/CD for PowerShell That Isn't a Mess - Thomas Rayner</a>
     </div>
   </div>
   <div class="row">
@@ -89,6 +86,20 @@ layout: static-page
     </div>
     <div class="col-md schedule">
       Break<br>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md schedule">
+      11:40 - 12:30
+    </div>
+    <div class="col-md schedule">
+      <a href="/talks/pragmatic-pipeline-security/">Pragmatic Pipeline Security - James Wickett</a>
+    </div>
+    <div class="col-md schedule">
+      TBA
+    </div>
+    <div class="col-md schedule">
+      <a href="/speakers/laura-santamaria">Legacy is a Frame of Mind - Laura Santamaria</a>
     </div>
   </div>
 </div>

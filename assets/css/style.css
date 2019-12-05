@@ -2762,6 +2762,9 @@ background-color: #FF6600
 
 .schedule {
   border: 1px solid black;
+}
+
+.schedule a {
   color: white;
 }
 
