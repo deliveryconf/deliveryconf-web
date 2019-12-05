@@ -102,4 +102,64 @@ layout: static-page
       <a href="/speakers/laura-santamaria">Legacy is a Frame of Mind - Laura Santamaria</a>
     </div>
   </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      12:30 - 14:00
+    </div>
+    <div class="col-md schedule">
+      Lunch<br>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md schedule">
+      14:00 - 14:50
+    </div>
+    <div class="col-md schedule">
+      <a href="/talks/continuous-delivery-for-azure-serverless-paas/">Continuous Delivery for Azure Serverless/PaaS - Scott Nasello</a>
+    </div>
+    <div class="col-md schedule">
+      <a href="/talks/how-we-fixed-our-broken-deployment-process/">How we fixed our broken deployment process - Ryan Rousseau</a>
+    </div>
+    <div class="col-md schedule">
+      <a href="/talks/wheres-the-map-of-your-pipeline/">Where's the map of your pipeline? - Steve Pereira</a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      14:50 - 15:10
+    </div>
+    <div class="col-md schedule">
+      Lunch<br>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md schedule">
+      15:10 - 16:00
+    </div>
+    <div class="col-md schedule">
+      <a href="/talks/continuous-delivery-for-machine-learning-patterns-and-pains/">Continuous Delivery for Machine Learning: Patterns and Pains - Emily Gorcenski</a>
+    </div>
+    <div class="col-md schedule">
+      TBA
+    </div>
+    <div class="col-md schedule">
+      <a href="/talks/lessons-learned-when-a-dev-does-opsy-things/">Lessons Learned when a Dev does Opsy Things - Cora Fedesna</a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      16:00 - 16:20
+    </div>
+    <div class="col-md schedule">
+      Break<br>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      16:20 - 17:10
+    </div>
+    <div class="col-md schedule">
+      <a href="/speakers/bryan-liles">Bryan Liles</a>
+    </div>
+  </div>
 </div>
