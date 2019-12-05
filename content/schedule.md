@@ -319,7 +319,7 @@ layout: static-page
       16:20 - 17:10
     </div>
     <div class="col-md schedule">
-      <a href="Fast & simple: observing code & infra deployments at Honeycomb Liz Fong-Jones, Danyel Fisher">Fast & simple: observing code & infra deployments at Honeycomb - Liz Fong-Jones, Danyel Fisher</a>
+      <a href="/talks/fast-and-simple-observing-code-and-infra-deployments-at-honeycomb/">Fast & simple: observing code & infra deployments at Honeycomb - Liz Fong-Jones, Danyel Fisher</a>
     </div>
   </div>
 </div>
