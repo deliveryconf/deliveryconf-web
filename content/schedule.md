@@ -163,3 +163,163 @@ layout: static-page
     </div>
   </div>
 </div>
+
+<p>
+
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md schedule schedule-header">
+    January 22nd
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      8:00 - 9:00
+    </div>
+    <div class="col-md schedule">
+      Registration
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      9:00 - 9:15
+    </div>
+    <div class="col-md schedule">
+      Opening Welcome
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      9:15 - 9:50
+    </div>
+    <div class="col-md schedule">
+      Keynote Panel
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      9:50 - 10:10
+    </div>
+    <div class="col-md schedule">
+      Group Discussion<br>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      10:10 - 10:30
+    </div>
+    <div class="col-md schedule">
+      Break<br>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md schedule">
+      &nbsp;
+    </div>
+    <div class="col-md schedule">
+      Room 1
+    </div>
+        <div class="col-md schedule">
+      Room 2
+    </div>
+        <div class="col-md schedule">
+      Room 3
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md schedule">
+      10:30 - 11:20
+    </div>
+    <div class="col-md schedule">
+      <a href="/talks/what-is-quality-and-how-should-we-build-it-in/">What is quality, and how should we build it in? - Jez Humble, Maryam Umar</a>
+    </div>
+    <div class="col-md schedule">
+      <a href="/talks/ci-cd-ing-my-vax/">CICD-ing My VAX - Cat Swetel, Jimmy Judd</a>
+    </div>
+    <div class="col-md schedule">
+      <a href="/talks/ci-cd-agility-and-controlling-pipeline-sprawl/">CI/CD Agility and Controlling Pipeline Sprawl - Angel Rivera</a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      11:20 - 11:40
+    </div>
+    <div class="col-md schedule">
+      Break<br>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md schedule">
+      11:40 - 12:30
+    </div>
+    <div class="col-md schedule">
+      <a href="/talks/-taking-care-of-code-more-and-more-code/">Taking Care of Code ... More and More Code - Jessica Kerr</a>
+    </div>
+    <div class="col-md schedule">
+      TBA
+    </div>
+    <div class="col-md schedule">
+      <a href="/speakers/heidi-waterhouse">Heidi Waterhouse</a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      12:30 - 14:00
+    </div>
+    <div class="col-md schedule">
+      Lunch<br>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md schedule">
+      14:00 - 14:50
+    </div>
+    <div class="col-md schedule">
+      <a href="/talks/ci-cd-and-ml-mlops-the-way-to-speed-bringing-machine-learning-to-production/">CI/CD + ML == MLOps - The Way to Speed Bringing Machine Learning to Production - David Aronchick</a>
+    </div>
+    <div class="col-md schedule">
+      TBA
+    </div>
+    <div class="col-md schedule">
+      <a href="/talks/continuous-delivery-with-github-actions/">Continuous Delivery with GitHub Actions - Sean Sullivan</a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      14:50 - 15:10
+    </div>
+    <div class="col-md schedule">
+      Lunch<br>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md schedule">
+      15:10 - 16:00
+    </div>
+    <div class="col-md schedule">
+      <a href="/talks/trust-but-verify-third-party-dependencies-in-your-pipeline/">Trust But Verify - Third Party Dependencies in Your Pipeline - Nell Shamrell-Harrington</a>
+    </div>
+    <div class="col-md schedule">
+      TBA
+    </div>
+    <div class="col-md schedule">
+      <a href="/talks/project-smooth-streamlined-software-delivery-initiative/">Project Smooth - Streamlined Software Delivery Initiative - Sonali Shrivastava</a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      16:00 - 16:20
+    </div>
+    <div class="col-md schedule">
+      Break<br>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      16:20 - 17:10
+    </div>
+    <div class="col-md schedule">
+      <a href="Fast & simple: observing code & infra deployments at Honeycomb Liz Fong-Jones, Danyel Fisher">Fast & simple: observing code & infra deployments at Honeycomb - Liz Fong-Jones, Danyel Fisher</a>
+    </div>
+  </div>
+</div>
