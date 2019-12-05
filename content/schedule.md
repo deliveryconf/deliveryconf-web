@@ -193,7 +193,7 @@ layout: static-page
       9:15 - 9:50
     </div>
     <div class="col-md schedule">
-      Keynote Panel
+      <a href="/talks/learning-from-today-shaping-tomorrow/">Keynote Panel</a>
     </div>
   </div>
   <div class="row">
