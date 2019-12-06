@@ -154,9 +154,31 @@ layout: static-page
       Break<br>
     </div>
   </div>
+    <div class="row">
+    <div class="col-md schedule">
+      16:20 - 17:10
+    </div>
+    <div class="col-md schedule">
+      TBA
+    </div>
+    <div class="col-md schedule">
+      TBA
+    </div>
+    <div class="col-md schedule">
+      TBA
+    </div>
+  </div>
   <div class="row">
     <div class="col-md-3 schedule">
-      16:20 - 17:10
+      17:10 - 17:30
+    </div>
+    <div class="col-md schedule">
+      Break<br>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      17:30 - 18:20
     </div>
     <div class="col-md schedule">
       <a href="/speakers/bryan-liles">Bryan Liles</a>
