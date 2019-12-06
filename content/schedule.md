@@ -32,8 +32,7 @@ layout: static-page
       9:15 - 9:50
     </div>
     <div class="col-md schedule">
-      Keynote<br>
-      <a href="/speakers/dave-farley/">Dave Farley</a> - <a href="/speakers/jez-humble/">Jez Humble</a>
+      <a href="/talks/what-will-the-next-ten-years-of-continuous-delivery-look-like/">Main Keynote: What Will The Next 10 Years Of Continuous Delivery Look Like? Dave Farley - Jez Humble</a>
     </div>
   </div>
   <div class="row">
@@ -181,7 +180,7 @@ layout: static-page
       17:30 - 18:20
     </div>
     <div class="col-md schedule">
-      <a href="/speakers/bryan-liles">Bryan Liles</a>
+      <a href="/talks/reimagining-continuous-integration-delivery-deployment-whatever/">Reimagining Continuous {Integration | Delivery | Deployment | Whatever} - Bryan Liles</a>
     </div>
   </div>
 </div>
@@ -281,7 +280,7 @@ layout: static-page
       TBA
     </div>
     <div class="col-md schedule">
-      <a href="/speakers/heidi-waterhouse">Heidi Waterhouse</a>
+      <a href="/talks/go-faster-be-safer-release-velocity-and-psychological-safety/">Go Faster, Be Safer: Release Velocity And Psychological Safety - Heidi Waterhouse</a>
     </div>
   </div>
   <div class="row">
