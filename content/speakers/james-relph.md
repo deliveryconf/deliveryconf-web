@@ -1,7 +1,7 @@
 ---
 title: "James Relph"
 draft: false
-image : images/speakers/coming-soon-logo.png
+image : images/speakers/james-relph.png
 twitter : "https://twitter.com/jprelph"
 type: "speaker"
 ---
