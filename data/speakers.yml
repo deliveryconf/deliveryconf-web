@@ -62,6 +62,11 @@ speaker :
     jobTitle : "Sr Security Service Engineer at Microsoft"
     detailsUrl : "/speakers/thomas-rayner"
 
+  - image : images/speakers/coming-soon-logo.png
+    name : James Relph
+    jobTitle : "Platform Engineer at Capgemini"
+    detailsUrl : "/speakers/james-relph"
+
   - image : images/speakers/angel-rivera.png
     name : Angel Rivera
     jobTitle : "Developer Advocate at CircleCi"

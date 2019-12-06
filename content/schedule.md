@@ -302,7 +302,7 @@ layout: static-page
       TBA
     </div>
     <div class="col-md schedule">
-      TBA
+      <a href="/talks/continuous-delivery-show-dont-tell/">Continuous Delivery - Show, Don't Tell - James Relph</a>
     </div>
   </div>
   <div class="row">
