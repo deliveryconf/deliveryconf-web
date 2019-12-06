@@ -255,7 +255,7 @@ a:hover {
 }
 
 .section {
-  padding: 100px 0;
+  padding: 60px 0;
 }
 
 .keynote {
@@ -2759,3 +2759,17 @@ background-color: #FF6600
   background-color: #4B97D1;}
 
 /*# sourceMappingURL=maps/style.css.map */
+
+.schedule {
+  border: 1px solid black;
+}
+
+.schedule a {
+  color: white;
+}
+
+.schedule-header {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
