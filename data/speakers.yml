@@ -82,11 +82,6 @@ speaker :
     jobTitle : "Developer Advocate at LogDNA"  
     detailsUrl : "/speakers/laura-santamaria" 
 
-  - image : images/speakers/nell-shamrell-harrington.jpg
-    name : Nell Shamrell-Harrington
-    jobTitle : "Principal Engineer at Chef"
-    detailsUrl : "/speakers/nell-shamrell-harrington"
-
   - image : images/speakers/sonali-shrivastava.jpg
     name : Sonali Shrivastava
     jobTitle : "Director, Software Delivery at Coyote Logistics"

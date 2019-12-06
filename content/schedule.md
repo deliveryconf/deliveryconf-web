@@ -318,7 +318,7 @@ layout: static-page
       15:10 - 16:00
     </div>
     <div class="col-md schedule">
-      <a href="/talks/trust-but-verify-third-party-dependencies-in-your-pipeline/">Trust But Verify - Third Party Dependencies in Your Pipeline - Nell Shamrell-Harrington</a>
+      TBA
     </div>
     <div class="col-md schedule">
       TBA
