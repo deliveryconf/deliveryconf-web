@@ -159,13 +159,13 @@ layout: static-page
       16:20 - 17:10
     </div>
     <div class="col-md schedule">
-      TBA
+      <a href="/talks/ci-cd-ing-my-vax/">CICD-ing My VAX - Cat Swetel, Jimmy Judd</a>
     </div>
     <div class="col-md schedule">
       TBA
     </div>
     <div class="col-md schedule">
-      TBA
+      <a href="/talks/continuous-delivery-with-github-actions/">Continuous Delivery with GitHub Actions - Sean Sullivan</a>
     </div>
   </div>
   <div class="row">
@@ -256,7 +256,7 @@ layout: static-page
       <a href="/talks/what-is-quality-and-how-should-we-build-it-in/">What is quality, and how should we build it in? - Jez Humble, Maryam Umar</a>
     </div>
     <div class="col-md schedule">
-      <a href="/talks/ci-cd-ing-my-vax/">CICD-ing My VAX - Cat Swetel, Jimmy Judd</a>
+      TBA
     </div>
     <div class="col-md schedule">
       <a href="/talks/ci-cd-agility-and-controlling-pipeline-sprawl/">CI/CD Agility and Controlling Pipeline Sprawl - Angel Rivera</a>
@@ -303,7 +303,7 @@ layout: static-page
       TBA
     </div>
     <div class="col-md schedule">
-      <a href="/talks/continuous-delivery-with-github-actions/">Continuous Delivery with GitHub Actions - Sean Sullivan</a>
+      TBA
     </div>
   </div>
   <div class="row">
