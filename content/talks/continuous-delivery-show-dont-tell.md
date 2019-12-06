@@ -1,7 +1,7 @@
 ---
 title: "Continuous Delivery - Show, Don't Tell"
 draft: false
-image : images/speakers/coming-soon-logo.png
+image : images/speakers/james-relph.png
 twitter : "https://twitter.com/jprelph"
 type: "talk"
 speakers: ["james-relph"]
