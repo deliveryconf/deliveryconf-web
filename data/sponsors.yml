@@ -58,3 +58,18 @@ sponsor :
     name : Software Defined Talk
     level : "community"
     url : "https://www.softwaredefinedtalk.com/"
+
+  - image : images/sponsors/ns1.png
+    name : NS1
+    level : "gold"
+    url : "https://ns1.com/"
+
+  - image : images/sponsors/sonatype.jpg
+    name : Sonatype
+    level : "gold"
+    url : "https://www.sonatype.com/"
+
+  - image : images/sponsors/split.png
+    name : Split.io
+    level : "gold"
+    url : "https://www.split.io/"
