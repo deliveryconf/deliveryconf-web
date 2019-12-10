@@ -95,7 +95,7 @@ layout: static-page
       <a href="/talks/pragmatic-pipeline-security/">Pragmatic Pipeline Security - James Wickett</a>
     </div>
     <div class="col-md schedule">
-      TBA
+      Info coming soon
     </div>
     <div class="col-md schedule">
       <a href="/speakers/laura-santamaria">Legacy is a Frame of Mind - Laura Santamaria</a>
@@ -139,7 +139,7 @@ layout: static-page
       <a href="/talks/continuous-delivery-for-machine-learning-patterns-and-pains/">Continuous Delivery for Machine Learning: Patterns and Pains - Emily Gorcenski</a>
     </div>
     <div class="col-md schedule">
-      TBA
+      Info coming soon
     </div>
     <div class="col-md schedule">
       <a href="/talks/lessons-learned-when-a-dev-does-opsy-things/">Lessons Learned when a Dev does Opsy Things - Cora Fedesna</a>
@@ -161,7 +161,7 @@ layout: static-page
       <a href="/talks/ci-cd-ing-my-vax/">CICD-ing My VAX - Cat Swetel, Jimmy Judd</a>
     </div>
     <div class="col-md schedule">
-      TBA
+      Info coming soon
     </div>
     <div class="col-md schedule">
       <a href="/talks/continuous-delivery-with-github-actions/">Continuous Delivery with GitHub Actions - Sean Sullivan</a>
@@ -255,7 +255,7 @@ layout: static-page
       <a href="/talks/what-is-quality-and-how-should-we-build-it-in/">What is quality, and how should we build it in? - Jez Humble, Maryam Umar</a>
     </div>
     <div class="col-md schedule">
-      TBA
+      Info coming soon
     </div>
     <div class="col-md schedule">
       <a href="/talks/ci-cd-agility-and-controlling-pipeline-sprawl/">CI/CD Agility and Controlling Pipeline Sprawl - Angel Rivera</a>
@@ -277,7 +277,7 @@ layout: static-page
       <a href="/talks/-taking-care-of-code-more-and-more-code/">Taking Care of Code ... More and More Code - Jessica Kerr</a>
     </div>
     <div class="col-md schedule">
-      TBA
+      Info coming soon
     </div>
     <div class="col-md schedule">
       <a href="/talks/go-faster-be-safer-release-velocity-and-psychological-safety/">Go Faster, Be Safer: Release Velocity And Psychological Safety - Heidi Waterhouse</a>
@@ -299,7 +299,7 @@ layout: static-page
       <a href="/talks/ci-cd-and-ml-mlops-the-way-to-speed-bringing-machine-learning-to-production/">CI/CD + ML == MLOps - The Way to Speed Bringing Machine Learning to Production - David Aronchick</a>
     </div>
     <div class="col-md schedule">
-      TBA
+      Info coming soon
     </div>
     <div class="col-md schedule">
       <a href="/talks/continuous-delivery-show-dont-tell/">Continuous Delivery - Show, Don't Tell - James Relph</a>
@@ -318,10 +318,10 @@ layout: static-page
       15:10 - 16:00
     </div>
     <div class="col-md schedule">
-      TBA
+      Info coming soon
     </div>
     <div class="col-md schedule">
-      TBA
+      Info coming soon
     </div>
     <div class="col-md schedule">
       <a href="/talks/project-smooth-streamlined-software-delivery-initiative/">Project Smooth - Streamlined Software Delivery Initiative - Sonali Shrivastava</a>
