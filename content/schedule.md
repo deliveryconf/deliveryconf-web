@@ -67,7 +67,7 @@ layout: static-page
   </div>
   <div class="row">
     <div class="col-md schedule">
-      10:30 - 11:20
+      10:30 - 11:00
     </div>
     <div class="col-md schedule">
       <a href="/talks/a-whole-team-approach-to-testing-in-continuous-delivery/">A Whole Team Approach to Testing in Continuous Delivery - Lisa Crispin</a>
@@ -80,6 +80,20 @@ layout: static-page
     </div>
   </div>
   <div class="row">
+    <div class="col-md schedule">
+      11:00 - 11:20
+    </div>
+    <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
+    </div>
+  </div>
+  <div class="row">
     <div class="col-md-3 schedule">
       11:20 - 11:40
     </div>
@@ -89,7 +103,7 @@ layout: static-page
   </div>
   <div class="row">
     <div class="col-md schedule">
-      11:40 - 12:30
+      11:40 - 12:10
     </div>
     <div class="col-md schedule">
       <a href="/talks/pragmatic-pipeline-security/">Pragmatic Pipeline Security - James Wickett</a>
@@ -102,6 +116,20 @@ layout: static-page
     </div>
   </div>
   <div class="row">
+    <div class="col-md schedule">
+      12:10 - 12:30
+    </div>
+    <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
+    </div>
+  </div>
+  <div class="row">
     <div class="col-md-3 schedule">
       12:30 - 14:00
     </div>
@@ -111,7 +139,7 @@ layout: static-page
   </div>
   <div class="row">
     <div class="col-md schedule">
-      14:00 - 14:50
+      14:00 - 14:30
     </div>
     <div class="col-md schedule">
       <a href="/talks/continuous-delivery-for-azure-serverless-paas/">Continuous Delivery for Azure Serverless/PaaS - Scott Nasello</a>
@@ -124,16 +152,30 @@ layout: static-page
     </div>
   </div>
   <div class="row">
+    <div class="col-md schedule">
+      14:30 - 14:50
+    </div>
+    <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
+    </div>
+  </div>
+  <div class="row">
     <div class="col-md-3 schedule">
       14:50 - 15:10
     </div>
     <div class="col-md schedule">
-      Lunch<br>
+      Break<br>
     </div>
   </div>
   <div class="row">
     <div class="col-md schedule">
-      15:10 - 16:00
+      15:10 - 15:40
     </div>
     <div class="col-md schedule">
       <a href="/talks/continuous-delivery-for-machine-learning-patterns-and-pains/">Continuous Delivery for Machine Learning: Patterns and Pains - Emily Gorcenski</a>
@@ -146,6 +188,20 @@ layout: static-page
     </div>
   </div>
   <div class="row">
+    <div class="col-md schedule">
+      15:40 - 16:10
+    </div>
+    <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
+    </div>
+  </div>
+  <div class="row">
     <div class="col-md-3 schedule">
       16:00 - 16:20
     </div>
@@ -155,7 +211,7 @@ layout: static-page
   </div>
     <div class="row">
     <div class="col-md schedule">
-      16:20 - 17:10
+      16:20 - 16:50
     </div>
     <div class="col-md schedule">
       <a href="/talks/ci-cd-ing-my-vax/">CICD-ing My VAX - Cat Swetel, Jimmy Judd</a>
@@ -165,6 +221,20 @@ layout: static-page
     </div>
     <div class="col-md schedule">
       <a href="/talks/continuous-delivery-with-github-actions/">Continuous Delivery with GitHub Actions - Sean Sullivan</a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md schedule">
+      16:50 - 17:10
+    </div>
+    <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
     </div>
   </div>
   <div class="row">
@@ -183,9 +253,17 @@ layout: static-page
       <a href="/talks/reimagining-continuous-integration-delivery-deployment-whatever/">Reimagining Continuous {Integration | Delivery | Deployment | Whatever} - Bryan Liles</a>
     </div>
   </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      9:50 - 10:10
+    </div>
+    <div class="col-md schedule">
+      Group Discussion<br>
+    </div>
+  </div>
 </div>
 
-<p>
+<br><br>
 
 <div class="container">
   <div class="row justify-content-center">
@@ -249,7 +327,7 @@ layout: static-page
   </div>
   <div class="row">
     <div class="col-md schedule">
-      10:30 - 11:20
+      10:30 - 11:00
     </div>
     <div class="col-md schedule">
       <a href="/talks/what-is-quality-and-how-should-we-build-it-in/">What is quality, and how should we build it in? - Jez Humble, Maryam Umar</a>
@@ -262,6 +340,20 @@ layout: static-page
     </div>
   </div>
   <div class="row">
+    <div class="col-md schedule">
+      11:00 - 11:20
+    </div>
+    <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
+    </div>
+  </div>
+  <div class="row">
     <div class="col-md-3 schedule">
       11:20 - 11:40
     </div>
@@ -271,7 +363,7 @@ layout: static-page
   </div>
   <div class="row">
     <div class="col-md schedule">
-      11:40 - 12:30
+      11:40 - 12:10
     </div>
     <div class="col-md schedule">
       <a href="/talks/-taking-care-of-code-more-and-more-code/">Taking Care of Code ... More and More Code - Jessica Kerr</a>
@@ -284,6 +376,20 @@ layout: static-page
     </div>
   </div>
   <div class="row">
+    <div class="col-md schedule">
+      12:10 - 12:30
+    </div>
+    <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
+    </div>
+  </div>
+  <div class="row">
     <div class="col-md-3 schedule">
       12:30 - 14:00
     </div>
@@ -293,7 +399,7 @@ layout: static-page
   </div>
   <div class="row">
     <div class="col-md schedule">
-      14:00 - 14:50
+      14:00 - 14:30
     </div>
     <div class="col-md schedule">
       <a href="/talks/ci-cd-and-ml-mlops-the-way-to-speed-bringing-machine-learning-to-production/">CI/CD + ML == MLOps - The Way to Speed Bringing Machine Learning to Production - David Aronchick</a>
@@ -306,25 +412,53 @@ layout: static-page
     </div>
   </div>
   <div class="row">
+    <div class="col-md schedule">
+      14:30 - 14:50
+    </div>
+    <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
+    </div>
+  </div>
+  <div class="row">
     <div class="col-md-3 schedule">
       14:50 - 15:10
     </div>
     <div class="col-md schedule">
-      Lunch<br>
+      Break - Sponsor drawings in Room 1<br>
     </div>
   </div>
   <div class="row">
     <div class="col-md schedule">
-      15:10 - 16:00
+      15:10 - 15:40
     </div>
     <div class="col-md schedule">
-      Info coming soon
+      Patric Debois - Info coming soon
     </div>
     <div class="col-md schedule">
       Info coming soon
     </div>
     <div class="col-md schedule">
       <a href="/talks/project-smooth-streamlined-software-delivery-initiative/">Project Smooth - Streamlined Software Delivery Initiative - Sonali Shrivastava</a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md schedule">
+      15:40 - 16:00
+    </div>
+    <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
+    </div>
+        <div class="col-md schedule">
+      Group Discussion
     </div>
   </div>
   <div class="row">
@@ -337,10 +471,18 @@ layout: static-page
   </div>
   <div class="row">
     <div class="col-md-3 schedule">
-      16:20 - 17:10
+      17:10 - 17:30
     </div>
     <div class="col-md schedule">
       <a href="/talks/fast-and-simple-observing-code-and-infra-deployments-at-honeycomb/">Fast & simple: observing code & infra deployments at Honeycomb - Liz Fong-Jones, Danyel Fisher</a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      9:50 - 10:10
+    </div>
+    <div class="col-md schedule">
+      Group Discussion<br>
     </div>
   </div>
 </div>
