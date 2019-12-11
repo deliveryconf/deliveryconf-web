@@ -438,7 +438,7 @@ layout: static-page
       15:10 - 15:40
     </div>
     <div class="col-md schedule">
-      Patric Debois - Info coming soon
+      <a href="/speakers/patrick-debois">Patrick Debois</a>
     </div>
     <div class="col-md schedule">
       Info coming soon

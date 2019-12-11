@@ -12,6 +12,10 @@ speaker :
     jobTitle : "Testing Advocate at Mabl, Inc."
     detailsUrl : "/speakers/lisa-crispin"
 
+  - image : images/speakers/patrick-debois.jpg
+    name : Patrick Debois
+    detailsUrl : "/speakers/patrick-debois"
+
   - image : images/speakers/cora-fedesna.jpg
     name : Cora Fedesna
     jobTitle : "Software Engineer at ActiveCampaign"
