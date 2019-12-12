@@ -479,7 +479,7 @@ layout: static-page
   </div>
   <div class="row">
     <div class="col-md-3 schedule">
-      9:50 - 10:10
+      17:30 - 17:50
     </div>
     <div class="col-md schedule">
       Group Discussion<br>
