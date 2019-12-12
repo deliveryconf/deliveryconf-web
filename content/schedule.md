@@ -189,7 +189,7 @@ layout: static-page
   </div>
   <div class="row">
     <div class="col-md schedule">
-      15:40 - 16:10
+      15:40 - 16:00
     </div>
     <div class="col-md schedule">
       Group Discussion
@@ -247,7 +247,7 @@ layout: static-page
   </div>
   <div class="row">
     <div class="col-md-3 schedule">
-      17:30 - 18:20
+      17:30 - 18:00
     </div>
     <div class="col-md schedule">
       <a href="/talks/reimagining-continuous-integration-delivery-deployment-whatever/">Reimagining Continuous {Integration | Delivery | Deployment | Whatever} - Bryan Liles</a>
@@ -255,7 +255,7 @@ layout: static-page
   </div>
   <div class="row">
     <div class="col-md-3 schedule">
-      9:50 - 10:10
+      18:00 - 18:20
     </div>
     <div class="col-md schedule">
       Group Discussion<br>
