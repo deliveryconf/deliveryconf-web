@@ -430,7 +430,7 @@ layout: static-page
       14:50 - 15:10
     </div>
     <div class="col-md schedule">
-      Break - Sponsor drawings in Room 1<br>
+      Break<br>
     </div>
   </div>
   <div class="row">
@@ -471,7 +471,15 @@ layout: static-page
   </div>
   <div class="row">
     <div class="col-md-3 schedule">
-      17:10 - 17:30
+      16:20 - 16:40
+    </div>
+    <div class="col-md schedule">
+      Sponsor Drawings in main room<br>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3 schedule">
+      16:40 - 17:10
     </div>
     <div class="col-md schedule">
       <a href="/talks/fast-and-simple-observing-code-and-infra-deployments-at-honeycomb/">Fast & simple: observing code & infra deployments at Honeycomb - Liz Fong-Jones, Danyel Fisher</a>
@@ -479,7 +487,7 @@ layout: static-page
   </div>
   <div class="row">
     <div class="col-md-3 schedule">
-      17:30 - 17:50
+      17:10 - 17:30
     </div>
     <div class="col-md schedule">
       Group Discussion<br>
