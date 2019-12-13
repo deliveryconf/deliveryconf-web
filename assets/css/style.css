@@ -2760,12 +2760,16 @@ background-color: #FF6600
 
 /*# sourceMappingURL=maps/style.css.map */
 
+
+/*=================================================================
+  Schedule
+==================================================================*/
 .schedule {
   border: 1px solid black;
 }
 
 .schedule a {
-  color: white;
+  color: #57cbcc;
 }
 
 .schedule-header {
