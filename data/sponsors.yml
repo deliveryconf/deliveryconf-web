@@ -6,7 +6,9 @@ btnText: Sponsor DeliveryConf!
 btnId : "sponsor-btn"
 gold : true
 silver : true
+diversity: true
 community : true
+
 
 sponsor :
   - image : images/sponsors/octopus.png
@@ -73,3 +75,13 @@ sponsor :
     name : Split.io
     level : "gold"
     url : "https://www.split.io/"
+
+  - image : images/sponsors/pulumi.jpg
+    name : Pulumi
+    level : "silver"
+    url : "https://www.pulumi.com/"
+
+  - image : images/sponsors/pagerduty.png
+    name : PagerDuty
+    level : "diversity"
+    url : "https://www.pagerduty.com/"
