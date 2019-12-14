@@ -9,4 +9,4 @@ Raise your hand if you enjoy working with the CAB (Change Advisory Board) to get
 
 We've mastered the automation of building, testing and deploying software but one bottleneck still remains in continuous delivery, the CAB (Change Advisory Board). In this talk we will explore the use of tools such as Grafeas and OPA to automate the enforcement of the CAB's policies to give teams a fast pass to production!
 
-Sponsored By: Liatro
+Sponsored By: Liatrio
