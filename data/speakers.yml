@@ -46,6 +46,11 @@ speaker :
     jobTitle : "Lead Software Engineer at Ticketmaster"
     detailsUrl : "/speakers/jimmy-judd"
 
+  - image : images/speakers/casey-lee.png
+    name : Casey Lee
+    jobTitle : "Director of Engineering at Liatrio"
+    detailsUrl : "/speakers/casey-lee"
+
   - image : images/speakers/bryan-liles.png
     name : Bryan Liles
     jobTitle : "Senior Staff Engineer at VMware"
@@ -90,6 +95,11 @@ speaker :
     name : Sonali Shrivastava
     jobTitle : "Director, Software Delivery at Coyote Logistics"
     detailsUrl : "/speakers/sonali-shrivastava"
+
+  - image : images/speakers/christine-sills.png
+    name : Christine Sills
+    jobTitle : "Delivery Consultant at Liatrio"
+    detailsUrl : "/speakers/christine-sills"
 
   - image : images/speakers/sean-sullivan.png
     name : Sean Sullivan
