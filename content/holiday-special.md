@@ -1,5 +1,5 @@
 ---
-title: "Holiday Promotion!!!"
+title: "Holiday Special!!!"
 date: 2019-09-16
 draft: false
 layout: static-page
