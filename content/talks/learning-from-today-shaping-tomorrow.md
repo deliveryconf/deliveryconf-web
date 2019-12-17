@@ -4,7 +4,7 @@ draft: false
 image : images/speakers/caleb-hailey.png
 twitter: "https://twitter.com/calebhailey"
 type: "talk"
-speakers: ["rebecca-parsons", "caleb-hailey" ]
+speakers: ["rebecca-parsons", "caleb-hailey", "brooke-treadgold" ]
 ---
 
 A panel discussion of the current trends and future forecasts in the world of technology, continuous delivery and automation.
