@@ -116,6 +116,11 @@ speaker :
     jobTitle: "Head Of Quality at Thought Machine"
     detailsUrl : "/speakers/maryam-umar"
 
+  - image : images/speakers/abel-wang.png
+    name : Abel Wang
+    jobTitle: "Principal Cloud Advocate, DevOps Lead at Microsoft"
+    detailsUrl : "/speakers/abel-wang"
+
   - image : images/speakers/bob-walker.jpg
     name : Bob Walker
     jobTitle : "VP of Customer Success at Octopus Deploy"
