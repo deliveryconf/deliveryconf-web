@@ -21,3 +21,8 @@ speaker :
     name : Dr. Rebecca Parsons
     jobTitle : "CTO at ThoughtWorks"
     detailsUrl : "/speakers/rebecca-parsons"
+
+  - image : images/speakers/brooke-treadgold.png
+    name : Brooke Treadgold
+    jobTitle : Transformation Lead at ANZ Bank
+    detailsUrl : "/speakers/brooke-treadgold"
