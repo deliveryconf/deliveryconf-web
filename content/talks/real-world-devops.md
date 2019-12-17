@@ -13,3 +13,5 @@ In this session, we change all of that. We explore the why's and the how. Why is
 Starting from nothing at all except source code (and I mean NOTHING. No infrastructure at all) we end with a complex modern application deployed all the way out into production hosted in the cloud.
 
 We touch on modern technologies and techniques. From Infrastructure as Code to setting up DNS. From web front ends, to deploying databases. From API's hosted in Kubernetes clusters all he way to mobile apps. And we do everything from within our pipelines. With the right tooling, anything is possible. And in this session, you will see all this happen live with DevOps best practices including IaC, Database DevOps, Security, Quality and even disaster recovery!
+
+Sponsored By: Microsoft
