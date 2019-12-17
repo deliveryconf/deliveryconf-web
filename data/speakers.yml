@@ -111,6 +111,11 @@ speaker :
     jobTitle : "Engineering Manager at Ticketmaster"
     detailsUrl : "/speakers/cat-swetel"
 
+  - image : images/speakers/brooke-treadgold.png
+    name : Brooke Treadgold
+    jobTitle : Transformation Lead at ANZ Bank
+    detailsUrl : "/speakers/brooke-treadgold"
+
   - image : images/speakers/maryam-umar.png
     name : Maryam Umar
     jobTitle: "Head Of Quality at Thought Machine"
