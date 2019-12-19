@@ -2405,10 +2405,11 @@ aside.widget {
 }
 
 blockquote {
-  border-left: 5px solid #6cb670;
+  border-left: 5px solid #878a87;
   font-style: italic;
   line-height: 22px;
   margin: 20px 0;
+  padding-left: 10px;
 }
 
 .next-prev {
