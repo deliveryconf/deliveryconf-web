@@ -5,7 +5,7 @@ draft: false
 author: "Ken Mugrage"
 ---
 
-If you've been watching our social networks at all, you've seen that we've been putting on a big push for ticket sales. We're even running a "holiday special" through today (as I write this) that can save up to 30% off for 3 tickets or more.
+If you've been watching our social networks at all, you've seen that we've been putting on a big push for ticket sales. We're even running a "holiday special" through today (as I write this) that can save up to 30% off of 3 tickets or more.
 
 I got a message from a friend who's never organized a conference before with the following question...
 
