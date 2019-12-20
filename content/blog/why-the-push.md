@@ -1,7 +1,7 @@
 ---
 title: "Why the Push?"
 date: 2019-12-20T18:36:16Z
-draft: true
+draft: false
 author: "Ken Mugrage"
 ---
 
