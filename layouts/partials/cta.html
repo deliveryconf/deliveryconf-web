@@ -6,29 +6,14 @@
         <div class="row">
             <div class="col-lg-12 text-center">
 
-                <div class="row">
+                {{ with .Site.Params.cta.title}} <h2>{{ . }}</h2> {{ end }}
 
-                    {{/*  TODO: uncoment on Dec 21st  */}}
-                    {{/*  {{ with .Site.Params.cta.title}} <h2>{{ . }}</h2> {{ end }}
+                <p><a href="{{ .Site.Params.cta.btnURL }}" class="btn btn-main"
+                        id="{{ with .Site.Params.cta.btnId}}{{ . }}{{end}}" `>{{ with .Site.Params.cta.btnText }}
+                        {{ . }} {{end}}</a></p>
 
-                    <p><a href="{{ .Site.Params.cta.btnURL }}" class="btn btn-main"
-                            id="{{ with .Site.Params.cta.btnId}}{{ . }}{{end}}" `>{{ with .Site.Params.cta.btnText }}
-                            {{ . }} {{end}}</a></p>
-                    <h4><a href="/format">Learn about our unique format</a></h4> */}}
+                <h4><a href="/format">Learn about our unique format</a></h4>
 
-
-                    {{/*  TODO: remove on Dec 21st  */}}
-                    <div class="col-lg-6 col-md-6 col-12">
-                        <img src="/images/backgrounds/holiday.jpg" style="max-width: 100%" />
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-12">
-                        <br><br>
-                        <h1>Holiday Special!!!</h1>
-                        <br>
-                        <h4>Get up to 30% discount - valid through December 20th 2019!</h4>
-                        <p><a href="/holiday-special" class="btn btn-main"> Learn More</a></p>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
