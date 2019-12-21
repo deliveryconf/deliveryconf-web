@@ -73,6 +73,14 @@
                             </div>
                             {{ end }}
 
+                            {{ with .Params.linkedin }}
+                            <div>
+                                <i class="tf-ion-social-linkedin-outline mr-1"></i>
+                                <span>LinkedIn: <a href="{{.}}" target="_blank">{{.}}</a>
+                                </span>
+                            </div>
+                            {{ end }}
+
                             {{ with .Params.blog }}
                             <div>
                                 <i class="tf-ion-social-dribbble-outline mr-1"></i>
