@@ -14,4 +14,4 @@ We'll drill into the ways booking.com, LinkedIn and Facebook have implemented Pr
 
 We'll wrap up with a checklist summarizing the key capabilities these pioneers have built into their delivery flows, equipping you to establish or extend these powerful patterns in your own environment.
 
-
+Sponsored By: Split.io
