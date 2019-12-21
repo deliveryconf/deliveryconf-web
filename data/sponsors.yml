@@ -81,6 +81,11 @@ sponsor :
     level : "silver"
     url : "https://www.pulumi.com/"
 
+  - image : images/sponsors/armory.png
+    name : Armory
+    level : "silver"
+    url : "https://www.armory.io/"
+
   - image : images/sponsors/pagerduty.png
     name : PagerDuty
     level : "diversity"
