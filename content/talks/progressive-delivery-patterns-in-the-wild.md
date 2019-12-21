@@ -1,6 +1,6 @@
 ---
 title: "Progressive Delivery Patterns In The Wild"
-draft: true
+draft: false
 type: "talk"
 speakers: ["dave-karow"] #comma-delimited speaker array
 
