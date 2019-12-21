@@ -1,6 +1,6 @@
 ---
 title: "Continuous Delivery isn't Continuous Deployment"
-date: 2019-12-19T21:08:43Z
+date: 2019-12-20
 draft: false
 author: "Ken Mugrage"
 ---

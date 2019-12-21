@@ -56,12 +56,24 @@
                     {{with .Site.Data.about2.title}} <h2>{{ . }}</h2> {{ end }}
                     {{with .Site.Data.about2.description}} <p>{{ . }}</p> {{ end }}
                     {{with .Site.Data.about2.description2}} <p>{{ . }}</p> {{ end }}
-                    <p><a href="{{ .Site.Data.about2.scheduleURL | absURL }}">{{ .Site.Data.about2.schedule }}</a></p>
-                    <p><a href="{{ .Site.Data.about2.blogURL | absURL }}">{{ .Site.Data.about2.blog }}</a></p>
-                    
+                    <br>
+                    <div class="row">
+                        <div class="col-4">
+                            <h5><a href="{{ .Site.Data.about2.blogURL | absURL }}">{{ .Site.Data.about2.blog }}</a></h5>
+                        </div>
+                        <div class="col-4">
+                            <h5><a
+                                    href="{{ .Site.Data.about2.scheduleURL | absURL }}">{{ .Site.Data.about2.schedule }}</a>
+                            </h5>
+                        </div>
+                        <div class="col-4">
+                            <h5><a href="{{ .Site.Data.about2.formatURL | absURL }}">{{ .Site.Data.about2.format }}</a></h5>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
+    </div>
     </div>
 </section>
 {{"<!-- /about 2 -->" | safeHTML}}

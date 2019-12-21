@@ -1,6 +1,6 @@
 ---
-title: "Why the Push?"
-date: 2019-12-20T18:36:16Z
+title: "Why the Holiday Push?"
+date: 2019-12-19
 draft: false
 author: "Ken Mugrage"
 ---
