@@ -36,6 +36,11 @@ speaker :
     jobTitle : "Data Scientist at ThoughtWorks"
     detailsUrl : "/speakers/emily-gorcenski"
 
+  - image : images/speakers/dave-karow.png
+    name : Dave Karow
+    jobTitle : "Continuous Delivery Evangelist at Split.io"
+    detailsUrl : "/speakers/dave-karow"
+
   - image : images/speakers/jessica-kerr.jpg
     name : Jessica Kerr
     jobTitle : "Developer at Atomist"
@@ -135,3 +140,4 @@ speaker :
     name : James Wickett
     jobTitle : "Sr. Security Engineer at Verica"
     detailsUrl : "/speakers/james-wickett"
+
