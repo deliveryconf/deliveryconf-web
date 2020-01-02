@@ -61,6 +61,11 @@ speaker :
     jobTitle : "Senior Staff Engineer at VMware"
     detailsUrl : "/speakers/bryan-liles"
 
+  - image : images/speakers/isaac-mosquera.png
+    name : Isaac Mosquera
+    jobTitle : "CTO at Armory"
+    detailsUrl : "/speakers/isaac-mosquera"
+
   - image : images/speakers/scott-nasello.jpg
     name : Scott Nasello
     jobTitle : "Director, Delivery Engineering at Columbia Sportswear"
