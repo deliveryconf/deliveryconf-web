@@ -18,3 +18,5 @@ Concepts covered:
 - Automated Deployments
 - Continuous Integration
 - Continuous Delivery
+
+Sponsored By: Octopus Deploy
