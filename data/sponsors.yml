@@ -86,6 +86,16 @@ sponsor :
     level : "silver"
     url : "https://www.armory.io/"
 
+  - image : images/sponsors/vmware.png
+    name : VMware
+    level : "silver"
+    url : "https://www.wavefront.com/"
+
+  - image : images/sponsors/snyk.jpeg
+    name : Snyk.io
+    level : "silver"
+    url : "https://www.snyk.io/"
+
   - image : images/sponsors/pagerduty.png
     name : PagerDuty
     level : "diversity"
