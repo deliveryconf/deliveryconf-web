@@ -97,6 +97,11 @@ speaker :
     jobTitle : "Continuous Delivery Architect at Octopus Deploy"
     detailsUrl : "/speakers/ryan-rousseau"
 
+  - image : images/speakers/john-ryan.png
+    name : John Ryan
+    jobTitle : "Product Design Lead at Google Cloud"
+    detailsUrl : "/speakers/john-ryan"
+
   - image : images/speakers/laura-santamaria.jpg
     name : Laura Santamaria
     jobTitle : "Developer Advocate at LogDNA"  
