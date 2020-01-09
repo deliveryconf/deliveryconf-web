@@ -67,11 +67,6 @@ speaker :
     jobTitle : "CTO at Armory"
     detailsUrl : "/speakers/isaac-mosquera"
 
-  - image : images/speakers/scott-nasello.jpg
-    name : Scott Nasello
-    jobTitle : "Director, Delivery Engineering at Columbia Sportswear"
-    detailsUrl : "/speakers/scott-nasello"
-
   - image : images/speakers/steve-pereira.jpg
     name : Steve Pereira
     jobTitle : "Founder & CTO at Visible"
@@ -86,6 +81,11 @@ speaker :
     name : James Relph
     jobTitle : "Platform Engineer at Capgemini"
     detailsUrl : "/speakers/james-relph"
+
+  - image : images/speakers/mandy-riso.png
+    name : Mandy Riso
+    jobTitle : "DevOps Engineer at Columbia Sportswear"
+    detailsUrl : "/speakers/mandy-riso"
 
   - image : images/speakers/angel-rivera.png
     name : Angel Rivera
