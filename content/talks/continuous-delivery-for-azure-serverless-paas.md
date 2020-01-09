@@ -1,10 +1,10 @@
 ---
 title: "Continuous Delivery for Azure Serverless/PaaS"
 draft: false
-image : images/speakers/scott-nasello.jpg
-twitter : "https://twitter.com/scottnasello"
+image : images/speakers/mandy-riso.jpg
+twitter : "https://twitter.com/amanda_n_riso"
 type: "talk"
-speakers: ["scott-nasello"]
+speakers: ["mandy-riso"]
 ---
 
 In 2017 Columbia Sportswear decided to be a "Cloud First" organization and we decided to skip over IaaS altogether. By focusing on Serverless componentry we'd be more transformational, save money, and spend more time focused on our mission.
