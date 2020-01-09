@@ -7,6 +7,11 @@ speaker :
     jobTitle : "Independent software consultant, founder and director of Continuous Delivery Ltd"
     detailsUrl : "/speakers/dave-farley"
 
+  - image : images/speakers/nicole-forsgren.jpeg
+    name : Nicole Forsgren
+    jobTitle : Research and Strategy at Google
+    detailsUrl : "/speakers/nicole-forsgren"
+
   - image : images/speakers/caleb-hailey.png
     name : Caleb Hailey
     jobTitle : "CEO at Sensu"
