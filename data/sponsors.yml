@@ -96,6 +96,16 @@ sponsor :
     level : "silver"
     url : "https://www.snyk.io/"
 
+  - image : images/sponsors/datastax.jpg
+    name : Datastax
+    level : "silver"
+    url : "https://www.datastax.com/"
+
+  - image : images/sponsors/gitlab.png
+    name : GitLab
+    level : "silver"
+    url : "https://www.gitlab.com/"
+
   - image : images/sponsors/pagerduty.png
     name : PagerDuty
     level : "diversity"
