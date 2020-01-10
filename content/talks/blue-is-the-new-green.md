@@ -13,3 +13,5 @@ operating with Blue/Green pipelines, how to use infrastructure as code
 to create them, experimentation with security toolsets and the
 architectural concerns that need to be considered when utilizing this
 approach to reduce the risk of pipeline breaks.
+
+Sponsored by: Sonatype
