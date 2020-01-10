@@ -1,6 +1,7 @@
 ---
 title: "Blue is the New Green"
 draft: false
+twitter: https://twitter.com/djschleen
 linkedin: "https://www.linkedin.com/in/djschleen"
 type: "talk"
 speakers: ["dj-schleen"]
