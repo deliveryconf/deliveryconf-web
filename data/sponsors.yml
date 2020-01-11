@@ -6,6 +6,7 @@ btnText: Sponsor DeliveryConf!
 btnId : "sponsor-btn"
 gold : true
 silver : true
+bronze : true
 diversity: true
 community : true
 
@@ -105,6 +106,11 @@ sponsor :
     name : GitLab
     level : "silver"
     url : "https://www.gitlab.com/"
+
+  - image : images/sponsors/agiletestingfellowship.png
+    name : Agile Testing Fellowship
+    level : "bronze"
+    url : "https://agiletestingfellow.com/"
 
   - image : images/sponsors/pagerduty.png
     name : PagerDuty
