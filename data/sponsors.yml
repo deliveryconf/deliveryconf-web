@@ -110,3 +110,9 @@ sponsor :
     name : PagerDuty
     level : "diversity"
     url : "https://www.pagerduty.com/"
+
+  - image : images/sponsors/oracle-cloud.png
+    name: Oracle Cloud
+    level: "social"
+    url: "https://www.oracle.com/cloud/"
+    
