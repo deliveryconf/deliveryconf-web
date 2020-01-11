@@ -107,6 +107,11 @@ speaker :
     jobTitle : "Developer Advocate at LogDNA"  
     detailsUrl : "/speakers/laura-santamaria" 
 
+  - image : images/speakers/dj-schleen.jpg
+    name : DJ Schleen
+    jobTitle : "Dev{*}Ops 🥑 at ⬡ Sonatype"  
+    detailsUrl : "/speakers/dj-schleen" 
+
   - image : images/speakers/sonali-shrivastava.jpg
     name : Sonali Shrivastava
     jobTitle : "Director, Software Delivery at Coyote Logistics"

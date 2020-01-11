@@ -69,11 +69,34 @@
 
             <!-- End Silver Sponsors -->
 
+            <!-- Begin Bronze Sponsors -->
+            {{ if .Site.Data.sponsors.bronze}}
+            <div class="col-12 text-center sponsor-level">
+                <h3>BRONZE SPONSORS</h3>
+                <div class="border-meghna"></div>
+
+            </div>
+            {{ range where .Site.Data.sponsors.sponsor "level" "bronze" }}
+            <div class="col-lg-2 col-md-2 col-6 wow fadeInDown" data-wow-duration="500ms">
+                <div class="sponsor">
+                    <div class="sponsor-image">
+                        <a href="{{ .url | absURL }}" target="_blank"><img class="img-fluid" src="{{ .image | absURL }}"
+                                alt="{{ .name }}" title="{{ .name }}"></a>
+
+                    </div>
+                </div>
+            </div>
+            {{end}}
+            {{end}}
+
+            <!-- End Bronze Sponsors -->
+
             <!-- Begin Social Sponsors -->
-            {{ if .Site.Data.sponsors.community}}
+            {{ if .Site.Data.sponsors.bronze}}
             <div class="col-12 text-center sponsor-level">
                 <h3>SOCIAL EVENT SPONSORS</h3>
                 <div class="border-meghna"></div>
+
             </div>
             {{ range where .Site.Data.sponsors.sponsor "level" "social" }}
             <div class="col-lg-2 col-md-2 col-6 wow fadeInDown" data-wow-duration="500ms">
@@ -90,7 +113,7 @@
 
             <!-- End Social Sponsors -->
 
-            <!-- Begin Diversity Sponsors -->
+            <!-- Begin Community Sponsors -->
             {{ if .Site.Data.sponsors.diversity}}
             <div class="col-12 text-center sponsor-level">
                 <h3>DIVERSITY GRANT SPONSORS</h3>
