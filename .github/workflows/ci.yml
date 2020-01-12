@@ -1,0 +1,20 @@
+name: CI
+
+on:
+  pull_request:
+    branches:
+      - master
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: install Hugo
+      run:  sudo apt-get install hugo
+    - name: print Hugo version
+      run:  hugo version
+    - name: run Hugo
+      run:  hugo
