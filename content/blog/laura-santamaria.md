@@ -1,7 +1,7 @@
 ---
 title: "Speaker Interview with Laura Santamaria"
 date: 2020-01-13T23:34:18Z
-draft: true
+draft: false
 image: images/speakers/laura-santamaria.jpg
 ---
 
