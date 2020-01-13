@@ -5,7 +5,7 @@ draft: false
 image: /images/speakers/steve-pereira.jpg
 ---
 
-Laura is CTO at Visible. [(Read more about Steve)](/speakers/steve-pereira/)<br>
+Steve is CTO at Visible. [(Read more about Steve)](/speakers/steve-pereira/)<br>
 Giving a talk entitled [Where's The Map Of Your Pipeline](/talks/wheres-the-map-of-your-pipeline/)
 
 #### What is the biggest improvement you've seen on engineering teams after they've implemented CI/CD?
