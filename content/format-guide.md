@@ -1,7 +1,7 @@
 ---
 title: "Format Guide for Facilators"
 date: 2020-01-14T19:02:06Z
-draft: true
+draft: false
 ---
 
 One of the biggest differences with DeliveryConf from other events you have may have attended or volunteered at is our format. This format was conceived to encourage attendees to have discussions about how topics discussed affect their own organizations. After each talk there are 20 minutes set aside for discussion.
