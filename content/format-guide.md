@@ -28,7 +28,8 @@ Running the session:
 
 - There are two staff members required for each session, one facilator and one runner. The facilitator should be the same person who introduced the speaker.
 - When the talk is over, the facilator invites people in the audience who would like to participate in the discussion to come forward and form a circle.
-- Each room will have 2 hand held microphones. The facilator should hold on to one of them, and the other should be handed to people who want to speak by the runner.
+- Each room will have 2 hand held microphones. The facilator should hold on to one of them, and the runner holds the other.
+- When someone wants to speak, the runner holds the microphone up to their mouth so that they can. Do not hand the microphone over. Most people don't know how to hold one properly, and you might have to wrestle them to get it back.
 - When the session is over, the facilator should do a short "thank you" wrap up so that the recording doesn't end ubruptly.
 
 Keep in mind:
