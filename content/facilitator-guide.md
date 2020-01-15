@@ -1,10 +1,10 @@
 ---
-title: "MC Guide"
+title: "Facilitator guide"
 date: 2020-01-14T20:30:36Z
 draft: false
 ---
 
-Each session will have a Master of Ceremonies (MC) to run that session from a DeliveryConf standpoint.
+Each session will have a facilitator to run that session from a DeliveryConf standpoint.
 
 Responsibilities:
 

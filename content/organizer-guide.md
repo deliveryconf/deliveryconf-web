@@ -6,5 +6,5 @@ draft: false
 
 DeliveryConf 2020 Seattle Organizer Guide
 
-- [MC Guide](/mc-guide)
+- [Facilitator Guide](/facilitator-guide)
 - [Format Guide](/format-guide)
