@@ -26,15 +26,15 @@ The questions:
 
 Running the session:
 
-- There are two staff members required for each session, one facilator and one runner. The facilitator should be the same person who introduced the speaker.
-- When the talk is over, the facilator invites people in the audience who would like to participate in the discussion to come forward and form a circle.
-- Each room will have 2 hand held microphones. The facilator should hold on to one of them, and the runner holds the other.
+- There are two staff members required for each session, one facilitator and one runner. The facilitator should be the same person who introduced the speaker.
+- When the talk is over, the facilitator invites people in the audience who would like to participate in the discussion to come forward and form a circle.
+- Each room will have 2 hand held microphones. The facilitator should hold on to one of them, and the runner holds the other.
 - When someone wants to speak, the runner holds the microphone up to their mouth so that they can. Do not hand the microphone over. Most people don't know how to hold one properly, and you might have to wrestle them to get it back.
-- When the session is over, the facilator should do a short "thank you" wrap up so that the recording doesn't end ubruptly.
+- When the session is over, the facilitator should do a short "thank you" wrap up so that the recording doesn't end abruptly.
 
 Keep in mind:
 
 - The facilitator and runner should take great care to not let a couple people dominate the discussion.
-- Enfore the "don't talk if you're not holding a microphone" rule at all times.
+- Enforce the "don't talk if you're not holding a microphone" rule at all times.
 - The facilitator is responsible for carefully keeping track of time. We have promoted the format and questions quite a bit. There will likely be people who are very interested in only one of the questions.
 - "When it's over, it's over" - but only if you're ending early. If the discussion dries out, or the questions don't spur enough conversation, don't feel like you need to drag it out of people. Move on, or even wrap it up early.
