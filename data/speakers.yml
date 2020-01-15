@@ -37,6 +37,11 @@ speaker :
     jobTitle : "Data Scientist at ThoughtWorks"
     detailsUrl : "/speakers/emily-gorcenski"
 
+  - image : images/speakers/patrick-gray.png
+    name : Patrick Gray
+    jobTitle : "DevOps Engineer at NS1"
+    detailsUrl : "/speakers/patrick-gray"
+
   - image : images/speakers/dave-karow.png
     name : Dave Karow
     jobTitle : "Continuous Delivery Evangelist at Split.io"
