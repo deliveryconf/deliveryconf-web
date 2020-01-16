@@ -131,3 +131,8 @@ sponsor :
     name: Oracle Cloud
     level: "social"
     url: "https://www.oracle.com/cloud/"
+
+  - image : images/sponsors/crosscode.png
+    name: crosscode
+    level: "social"
+    url: "https://www.crosscode.com/"
