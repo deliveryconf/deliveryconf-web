@@ -112,6 +112,11 @@ sponsor :
     level : "silver"
     url : "https://www.delphix.com/"
 
+  - image : images/sponsors/circleci-logo-stacked.png
+    name : Circle CI
+    level : "silver"
+    url : "https://www.circleci.com/"
+
   - image : images/sponsors/agiletestingfellowship.png
     name : Agile Testing Fellowship
     level : "bronze"
