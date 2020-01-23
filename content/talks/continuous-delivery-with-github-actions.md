@@ -9,3 +9,4 @@ speakers: ["sean-sullivan"]
 
 GitHub Actions enable developers to automate builds and deploy code. Actions are an essential building block for continuous delivery pipelines. We will examine Github’s pre-built Actions and workflow syntax. Attendees will learn how to build custom Action's and how to avoid common pitfalls.
 
+[slides](https://speakerdeck.com/sullis/continuous-delivery-with-github-actions-deliveryconf-2020)
