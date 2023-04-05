@@ -291,7 +291,8 @@ function initialize() {
 	map.setMapTypeId('roadatlas');
 }
 
-google.maps.event.addDomListener(window, "load", initialize);
+// Sasha: remove google maps call since it is out of data and the map is not used
+// google.maps.event.addDomListener(window, "load", initialize);
 
 /* ========================================================================= */
 /*	Staticman comments reply

@@ -4,3 +4,4 @@ public/
 */.DS_Store
 *~
 .netlify/
+.hugo_build.lock
